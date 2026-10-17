@@ -1,0 +1,1 @@
+{"version":3,"file":"ko-C7uJaI1W.js","names":[],"sources":["../../../src/strings/messages/LlamaCppBrowserModelLaunch__chat_settings_changed/ko.ts"],"sourcesContent":["export const LlamaCppBrowserModelLaunch__chat_settings_changed = (): string => \"이 채팅의 설정이 변경되었습니다. 모델 링크로 덮어쓰지 않습니다.\";\n"],"mappings":"AAAA,IAAa,MAAkE"}

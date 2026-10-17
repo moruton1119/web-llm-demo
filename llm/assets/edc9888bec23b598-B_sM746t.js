@@ -1,0 +1,2 @@
+import{t as e}from"./ja-Co9WtRdd.js";import{n as t,r as n,t as r}from"./ja-n0hJfZrV2.js";var i={VZ:()=>`アクセスモード`,V$:({a:e})=>`${e}件使用中`,We:n,Wi:()=>`設定`,Wj:()=>`コピー済み`,Wk:()=>`コピーしたフォルダ`,Wr:e,WQ:()=>`使用中`,WS:()=>`リンク済み`,WT:()=>`リンクしたフォルダ`,WV:()=>`その他の操作`,WX:()=>`名前を空にはできません`,WZ:()=>`未使用`,Xc:()=>`パス`,Xf:t,Xg:r,Xk:()=>`名前を変更`,Xl:()=>`保存`,Xm:()=>`変更を保存`,Xn:()=>`使用を停止`,Xo:()=>`使用`};export{i as default};
+//# sourceMappingURL=edc9888bec23b598-B_sM746t.js.map

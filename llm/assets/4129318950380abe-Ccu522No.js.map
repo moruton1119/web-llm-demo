@@ -1,0 +1,1 @@
+{"version":3,"file":"4129318950380abe-Ccu522No.js","names":[],"sources":["../../../src/strings/messages/blockMarkdown__unknown_token_type/ko.ts"],"sourcesContent":["export const blockMarkdown__unknown_token_type = ({ tokenType }: { tokenType: string }): string => `알 수 없는 토큰 유형: ${tokenType}`;\n"],"mappings":"WAAkD,CAAE,eAA+C,iBAAiB"}

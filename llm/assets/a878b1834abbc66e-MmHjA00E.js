@@ -1,0 +1,2 @@
+import{n as e,r as t,t as n}from"./es-DBi424U8.js";var r={Hl:()=>`Objetos binarios`,Ho:()=>`Fecha`,Hp:t,Hq:e,Ht:()=>`Cargando más... (haz clic para cargar manualmente)`,Hu:()=>`Cargando objetos...`,Hv:()=>`Administra y explora archivos persistidos`,Hw:()=>`Nombre`,Hx:()=>`No se encontraron objetos`,HA:()=>`Buscar por nombre, ID o tipo...`,HB:()=>`Tamaño`,HC:n};export{r as default};
+//# sourceMappingURL=a878b1834abbc66e-MmHjA00E.js.map

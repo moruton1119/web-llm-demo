@@ -1,0 +1,1 @@
+{"version":3,"file":"ja-CE7ssYJZ.js","names":[],"sources":["../../../src/strings/messages/llamaCppBrowserDownloads__details/ja.ts"],"sourcesContent":["export const llamaCppBrowserDownloads__details = (): string => \"詳細\";\n"],"mappings":"AAAA,IAAa,MAAkD"}

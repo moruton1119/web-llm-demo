@@ -1,0 +1,1 @@
+{"version":3,"file":"ko-DWW2du2t.js","names":[],"sources":["../../../src/strings/messages/blockMarkdown__copied/ko.ts"],"sourcesContent":["export const blockMarkdown__copied = (): string => '복사됨';\n"],"mappings":"AAAA,IAAa,MAAsC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"de-B1v6qHK1.js","names":[],"sources":["../../../src/strings/messages/llamaCppBrowserDownloads__pause/de.ts"],"sourcesContent":["export const llamaCppBrowserDownloads__pause = (): string => \"Pausieren\";\n"],"mappings":"AAAA,IAAa,MAAgD"}

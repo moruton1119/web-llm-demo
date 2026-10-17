@@ -1,0 +1,1 @@
+{"version":3,"file":"pt-BR-jzdbG2Wg.js","names":[],"sources":["../../../src/strings/messages/llamaCppBrowser__gguf_files_only/pt-BR.ts"],"sourcesContent":["export const llamaCppBrowser__gguf_files_only = (): string => \"Selecione arquivos de modelo GGUF (.gguf).\";\n"],"mappings":"AAAA,IAAa,MAAiD"}

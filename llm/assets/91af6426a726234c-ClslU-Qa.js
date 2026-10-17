@@ -1,0 +1,2 @@
+var e={K_:()=>`Nenhum`,La:({value:e})=>`Chat: ${e}`,Lb:({value:e})=>`Global: ${e}`,Lc:({value:e})=>`Grupo de conversas: ${e}`};export{e as default};
+//# sourceMappingURL=91af6426a726234c-ClslU-Qa.js.map

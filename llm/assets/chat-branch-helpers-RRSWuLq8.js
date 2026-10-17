@@ -1,0 +1,2 @@
+import{nt as e}from"./useChatNavigation-f1HGY22a.js";function t({root:t,messageId:n}){let r=e({items:t.items,childId:n});return r?r.replies.items:t.items}export{t};
+//# sourceMappingURL=chat-branch-helpers-RRSWuLq8.js.map

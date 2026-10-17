@@ -1,0 +1,2 @@
+var e={iN:()=>`Configurações globais`,iO:()=>`Defina os padrões para todos os chats. Grupos de conversas e chats individuais podem sobrescrever as configurações de cada ferramenta de forma independente.`,iP:()=>`Ferramentas`};export{e as default};
+//# sourceMappingURL=f86cef29d35809c4-B2RfZURr.js.map

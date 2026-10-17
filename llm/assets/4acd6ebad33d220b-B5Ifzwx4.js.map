@@ -1,0 +1,1 @@
+{"version":3,"file":"4acd6ebad33d220b-B5Ifzwx4.js","names":[],"sources":["../../../src/strings/messages/fileExplorer__file_explorer_opfs/ko.ts"],"sourcesContent":["export const fileExplorer__file_explorer_opfs = (): string => '파일 탐색기 (OPFS)';\n"],"mappings":"wDAA8D"}

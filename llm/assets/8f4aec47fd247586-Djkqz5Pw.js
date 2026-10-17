@@ -1,0 +1,2 @@
+import{t as e}from"./en-D05lYtC_.js";var t={Im:()=>`Balanced`,Io:()=>`Cancel`,Ip:()=>`Compact`,Iq:e,Ir:()=>`Compact Now`,Is:()=>`Compact Prompt`,Iv:({a:e})=>`Compacting will condense the first ${e} messages into a single summary. This reduces token usage while preserving the core context.`,Ix:()=>`Deep`,Iy:()=>`Editable Prompt`,IA:()=>`Memory Reconfiguration`,IB:()=>`Messages to keep`,IC:()=>`More Context`,ID:()=>`More History`,IH:({a:e})=>`${e} To Compact`,II:({a:e})=>`${e} To Keep`};export{t as default};
+//# sourceMappingURL=8f4aec47fd247586-Djkqz5Pw.js.map

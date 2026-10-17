@@ -1,0 +1,2 @@
+import{t as e}from"./pt-BR-kNxHe6LS.js";var t={sh:()=>`Comparar versões`,si:e,sj:()=>`Copiar link`,sk:()=>`Copiar mensagem`,sl:()=>`Copiar dados brutos`,sm:()=>`Editar mensagem`,sn:()=>`Falha ao copiar o link da mensagem.`,so:()=>`Ramificar conversa`,sp:()=>`Link da mensagem copiado para a área de transferência.`,sq:()=>`Mais ações`,sr:()=>`Mais ferramentas de mensagem`,ss:()=>`Gerar resposta novamente`,st:()=>`Reenviar mensagem`};export{t as default};
+//# sourceMappingURL=9738797f6274a02b-CTLnXS_0.js.map

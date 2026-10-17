@@ -1,0 +1,2 @@
+function e({code:e}){if(e.length>128)throw Error(`Pairing code is too long`);let t=e.trim().normalize(`NFC`);if(!t||/[\p{Cc}\p{Cs}]/u.test(t))throw Error(`Enter a pairing code without control characters`);return t}function t({code:t}){try{return e({code:t}),!0}catch{return!1}}export{e as n,t};
+//# sourceMappingURL=pairing-code-BRgkd33R.js.map

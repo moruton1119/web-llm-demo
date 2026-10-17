@@ -1,0 +1,1 @@
+{"version":3,"file":"pt-BR-RMUxddLX2.js","names":[],"sources":["../../../src/strings/messages/llamaCppBrowserDownloads__set_as_default/pt-BR.ts"],"sourcesContent":["export const llamaCppBrowserDownloads__set_as_default = (): string => \"Definir como padrão\";\n"],"mappings":"AAAA,IAAa,MAAyD"}

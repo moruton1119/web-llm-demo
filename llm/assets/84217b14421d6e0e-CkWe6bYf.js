@@ -1,0 +1,2 @@
+var e={cP:()=>`No se pudo cargar este chat. Los datos guardados no se han modificado.`,cQ:()=>`Cargando chat…`,cR:()=>`Reintentar`};export{e as default};
+//# sourceMappingURL=84217b14421d6e0e-CkWe6bYf.js.map

@@ -1,0 +1,2 @@
+var e={y_:({days:e})=>`${e} 天前`,za:({hours:e})=>`${e} 小时前`,zb:()=>`刚刚`,zc:({minutes:e})=>`${e} 分钟前`,zd:({seconds:e})=>`${e} 秒前`};export{e as default};
+//# sourceMappingURL=4eb5ca3bbe451ba1-ctxbiGrm.js.map

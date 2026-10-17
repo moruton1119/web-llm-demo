@@ -1,0 +1,2 @@
+import{t as e}from"./zh-Hans-CpU-n58f.js";import{n as t,t as n}from"./zh-Hans-k6FSVnOG.js";var r={Rz:()=>`重新确认停止状态`,RB:()=>`正在确认 RPC 连接的停止状态…`,RL:()=>`停用 Naidan RPC`,RQ:()=>`启用 Naidan RPC`,RS:t,RT:()=>`添加 Naidan RPC 设置选项卡。启用后不会自动连接或开始推理。`,Sf:()=>`已阻止新的调用。正在等待运行中的任务结束。`,Sq:()=>`RPC 连接已停止。`,Sw:()=>`无法确认是否已停止。请检查管理连接的标签页。`,Sy:n,SA:e};export{r as default};
+//# sourceMappingURL=3239b41479f88325-PgYy5PY_.js.map

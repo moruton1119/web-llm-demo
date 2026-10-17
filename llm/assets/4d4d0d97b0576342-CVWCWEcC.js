@@ -1,0 +1,2 @@
+var e={jr:()=>`Bild wird generiert...`,js:()=>`Bilder werden generiert...`,jt:({current:e,total:t})=>`Bild ${e} / ${t}`,ju:()=>`Schritte`};export{e as default};
+//# sourceMappingURL=4d4d0d97b0576342-CVWCWEcC.js.map

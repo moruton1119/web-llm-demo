@@ -1,0 +1,2 @@
+var e=()=>`Adapter hinzufügen`,t=()=>`Wähle Adapter für das ausgewählte Modell. Ein erzeugtes Bild bestätigt nicht die LoRA-Anwendung. Aktiviere den Debug-Modus für Laufzeitprotokolle. Diese Auswahl wird nicht gespeichert.`,n=()=>`Gespeicherten Adapter auswählen`,r=()=>`Aktiviert`,i=()=>`LoRA`,a=()=>`Entfernen`,o=()=>`Gespeicherte Adapter`,s=({count:e})=>`${e} aktiviert`,c=()=>`Stärke`;export{i as a,t as c,a as i,e as l,s as n,r as o,o as r,n as s,c as t};
+//# sourceMappingURL=de-7_Zy6lMw.js.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"88eb1c65ed22fbae-BMSd_9yB.js","names":[],"sources":["../../../src/strings/messages/Sidebar__close_sidebar/zh-Hans.ts","../../../src/strings/messages/Sidebar__open_sidebar/zh-Hans.ts"],"sourcesContent":["export const Sidebar__close_sidebar = (): string => '关闭侧边栏';\n","export const Sidebar__open_sidebar = (): string => '打开侧边栏';\n"],"mappings":"cAAoD,eCAD"}

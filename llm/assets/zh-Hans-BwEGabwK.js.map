@@ -1,0 +1,1 @@
+{"version":3,"file":"zh-Hans-BwEGabwK.js","names":[],"sources":["../../../src/strings/messages/llamaCppBrowser__gguf_files_only/zh-Hans.ts"],"sourcesContent":["export const llamaCppBrowser__gguf_files_only = (): string => \"请选择 GGUF 模型文件（.gguf）。\";\n"],"mappings":"AAAA,IAAa,MAAiD"}

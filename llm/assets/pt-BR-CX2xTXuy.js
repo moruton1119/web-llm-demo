@@ -1,0 +1,2 @@
+var e=()=>`Meta de memória de trabalho da GPU (MiB)`,t=()=>`Execution profile`,n=()=>`Residência dos pesos`,r=()=>`Automático (recomendado)`,i=()=>`Pesos mantidos na CPU`,a=()=>`Pesos a partir do disco`,o=()=>`Híbrido (texto/VAE na CPU, difusão do disco)`;export{n as a,r as i,a as n,t as o,i as r,e as s,o as t};
+//# sourceMappingURL=pt-BR-CX2xTXuy.js.map

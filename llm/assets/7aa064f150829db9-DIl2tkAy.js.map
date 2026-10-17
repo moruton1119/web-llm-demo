@@ -1,0 +1,1 @@
+{"version":3,"file":"7aa064f150829db9-DIl2tkAy.js","names":[],"sources":["../../../src/strings/messages/LanguageSelector__language/es.ts"],"sourcesContent":["export const LanguageSelector__language = (): string => 'Idioma';\n"],"mappings":"cAAwD"}

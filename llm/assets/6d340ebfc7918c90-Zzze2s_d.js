@@ -1,0 +1,2 @@
+var e={pW:()=>`Kopieren fehlgeschlagen. Wählen Sie die URL zum manuellen Kopieren aus.`,pX:()=>`URL kopieren`,pY:()=>`Aktuelle Datei`,pZ:()=>`Dateien und Downloadquellen`,p$:()=>`Dies sind die von Naidan angeforderten Datei-URLs.`,p_:()=>`Revision`,qa:()=>`URL kopiert.`};export{e as default};
+//# sourceMappingURL=6d340ebfc7918c90-Zzze2s_d.js.map

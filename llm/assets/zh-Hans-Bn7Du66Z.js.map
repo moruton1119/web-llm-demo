@@ -1,0 +1,1 @@
+{"version":3,"file":"zh-Hans-Bn7Du66Z.js","names":[],"sources":["../../../src/strings/messages/LlamaCppBrowserHuggingFaceManager__download_failed_retry_or_resume/zh-Hans.ts"],"sourcesContent":["export const LlamaCppBrowserHuggingFaceManager__download_failed_retry_or_resume = (): string => \"操作失败。请重试或继续下载。\";\n"],"mappings":"AAAA,IAAa,MAAmF"}

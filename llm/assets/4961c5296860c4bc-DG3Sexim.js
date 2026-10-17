@@ -1,0 +1,2 @@
+var e={xd:()=>`Update wird angewendet…`,xe:()=>`Update gefunden — wird vorbereitet…`,xf:()=>`Zum Aktualisieren neu laden`,xg:()=>`Jetzt über das Netzwerk wechseln. Die Offline-Nutzung kann vorübergehend nicht verfügbar sein.`};export{e as default};
+//# sourceMappingURL=4961c5296860c4bc-DG3Sexim.js.map

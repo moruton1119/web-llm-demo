@@ -1,0 +1,2 @@
+var e=({count:e})=>`und ${e} weitere`,t=()=>`Prozessdetails`,n=({count:e})=>`${e} Denkschritt${e===1?``:`e`}`,r=({count:e})=>`${e} Werkzeugausführung${e===1?``:`en`}`,i=({toolNames:e})=>`${e} verwendet`;export{e as a,t as i,r as n,n as r,i as t};
+//# sourceMappingURL=de-EsuTY_Gn.js.map

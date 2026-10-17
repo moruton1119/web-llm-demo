@@ -1,0 +1,2 @@
+import{t as e}from"./pt-BR-CEZdwyEW.js";var t={Pg:({count:e})=>`${e} em andamento`,Ph:()=>`Todos`,Ps:()=>`Explorar mais modelos`,Pv:()=>`Memória`,Pw:()=>`Catálogo de modelos`,Qr:e};export{t as default};
+//# sourceMappingURL=b587c53d6291e019-CXED6OVY.js.map

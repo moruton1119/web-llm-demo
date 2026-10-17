@@ -1,0 +1,2 @@
+var e={xP:()=>`設定プレビュー`,xQ:()=>`エンドポイント URL`,xR:()=>`ヘッダー`,xS:()=>`LMパラメータ`,xT:()=>`なし`,xU:()=>`プロバイダーとモデル`,xV:()=>`システムプロンプト`};export{e as default};
+//# sourceMappingURL=26d25affff5b11d3-Dqee7kuG.js.map

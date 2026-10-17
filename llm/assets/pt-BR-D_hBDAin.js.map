@@ -1,0 +1,1 @@
+{"version":3,"file":"pt-BR-D_hBDAin.js","names":[],"sources":["../../../src/strings/messages/stableDiffusionCppBrowser__generation_time/pt-BR.ts"],"sourcesContent":["export const stableDiffusionCppBrowser__generation_time = (): string => \"Tempo\";\n"],"mappings":"AAAA,IAAa,MAA2D"}

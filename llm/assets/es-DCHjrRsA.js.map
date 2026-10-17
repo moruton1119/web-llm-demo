@@ -1,0 +1,1 @@
+{"version":3,"file":"es-DCHjrRsA.js","names":[],"sources":["../../../src/strings/messages/fileExplorer__failed_to_download/es.ts"],"sourcesContent":["export const fileExplorer__failed_to_download = ({ errorMessage }: { errorMessage: string }): string => `No se pudo descargar: ${errorMessage}`;\n"],"mappings":"AAAA,IAAa,GAAoC,CAAE,kBAAqD,yBAAyB"}

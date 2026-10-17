@@ -1,0 +1,2 @@
+import{i as e,n as t,r as n,t as r}from"./ja-yVcavNqF.js";var i={Vu:e,Vv:n,Vw:()=>`折り返しを無効化`,Vx:()=>`折り返しを有効化`,Vy:t,VD:()=>`生の JSON`,VE:r};export{i as default};
+//# sourceMappingURL=ac0a3a2068bcc9ac-CeZR9_JY.js.map

@@ -1,0 +1,2 @@
+var e={pG:()=>`Eliminar también los archivos multimodales compartidos`,pH:()=>`Otras variantes de este repositorio también usan estos archivos y perderán la compatibilidad multimodal.`,PY:()=>`¿Eliminar permanentemente este modelo local del almacenamiento del navegador?`,Qa:()=>`Archivos que se eliminarán`};export{e as default};
+//# sourceMappingURL=83ba18f0a777ec5b-t2xS9Ny8.js.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"es-DDymzj0W.js","names":[],"sources":["../../../src/strings/messages/fileExplorer__item_count_label/es.ts"],"sourcesContent":["export const fileExplorer__item_count_label = ({ count }: { count: number }): string => `${count} ${count === 1 ? 'elemento' : 'elementos'}`;\n"],"mappings":"AAAA,IAAa,GAAkC,CAAE,WAAuC,GAAG,EAAM,GAAG,IAAU,EAAI,WAAa"}

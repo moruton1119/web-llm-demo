@@ -1,0 +1,2 @@
+import{t as e}from"./en-CbV9ah7V.js";import{t}from"./en-VGc1ocmN.js";var n={Po:e,Te:()=>`Automatic choices use tensor structure, not just filenames. Compatible-shaped fine-tunes may still change results. Projectors for image editing are not used in this text-to-image workspace.`,Tg:()=>`Model components`,TS:t,TT:()=>`Files needing attention`,Va:()=>`Show unverified local weights (advanced)`};export{n as default};
+//# sourceMappingURL=f3031838687b7d63-YVAO6a60.js.map

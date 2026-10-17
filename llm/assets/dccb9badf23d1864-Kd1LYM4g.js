@@ -1,0 +1,2 @@
+var e={VR:()=>`已成功从 URL 导入数据。`,VS:()=>`无法获取设置所需的模型`,VT:()=>`无法从 URL 导入数据。`,VU:()=>`在 localStorage 中发现无效的存储类型。将回退到默认检测。`,VV:()=>`确定`,VW:({savedStorageType:e,requestedStorageType:t})=>`存储类型已设置为“${e}”。通过查询参数使用“${t}”的请求已被忽略。`,VX:()=>`存储已初始化`,VY:({savedStorageType:e,requestedStorageType:t})=>`存储类型已设置为“${e}”。通过查询参数请求的类型“${t}”已被忽略。`};export{e as default};
+//# sourceMappingURL=dccb9badf23d1864-Kd1LYM4g.js.map

@@ -1,0 +1,2 @@
+var e={xd:()=>`Aplicando actualización…`,xe:()=>`Actualización encontrada — preparando…`,xf:()=>`Recargar para actualizar`,xg:()=>`Cambiar ahora mediante la red. El uso sin conexión puede no estar disponible temporalmente.`};export{e as default};
+//# sourceMappingURL=4961c5296860c4bc-guQtueEY.js.map

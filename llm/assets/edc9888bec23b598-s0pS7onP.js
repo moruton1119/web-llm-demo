@@ -1,0 +1,2 @@
+import{t as e}from"./en-BY7M6uvh.js";import{n as t,r as n,t as r}from"./en-_MCP73wC2.js";var i={VZ:()=>`Access Mode`,V$:({a:e})=>`${e} active`,We:n,Wi:()=>`Configure`,Wj:()=>`Copied`,Wk:()=>`Copied Folder`,Wr:e,WQ:()=>`In Use`,WS:()=>`Linked`,WT:()=>`Linked Folder`,WV:()=>`More actions`,WX:()=>`Name cannot be empty`,WZ:()=>`Not in Use`,Xc:()=>`Path`,Xf:t,Xg:r,Xk:()=>`Rename`,Xl:()=>`Save`,Xm:()=>`Save Changes`,Xn:()=>`Stop using`,Xo:()=>`Use`};export{i as default};
+//# sourceMappingURL=edc9888bec23b598-s0pS7onP.js.map

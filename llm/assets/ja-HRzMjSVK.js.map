@@ -1,0 +1,1 @@
+{"version":3,"file":"ja-HRzMjSVK.js","names":[],"sources":["../../../src/strings/messages/llamaCppBrowserDownloads__plan_needs_review/ja.ts"],"sourcesContent":["export const llamaCppBrowserDownloads__plan_needs_review = (): string => \"ファイルを自動選択できませんでした。ダウンロード内容を再確認するか、リポジトリ入力からファイルを選択してください。\";\n"],"mappings":"AAAA,IAAa,MAA4D"}

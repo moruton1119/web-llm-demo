@@ -1,0 +1,2 @@
+var e={jv:()=>`Download image`,jw:()=>`Embed prompt, seed, etc.`,jx:()=>`More options`,jy:()=>`Not supported for this format`,jz:()=>`With Metadata`};export{e as default};
+//# sourceMappingURL=a603ab3620074b55-BvUoPfX8.js.map

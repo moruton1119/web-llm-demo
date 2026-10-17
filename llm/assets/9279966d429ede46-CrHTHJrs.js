@@ -1,0 +1,2 @@
+var e={qb:()=>`Firefox의 WebGPU 구현에 알려진 문제가 있어 모델 실행이 크게 느려질 수 있습니다.`,qc:()=>`타이머 기반의 주기적 확인으로 GPU 처리 완료 알림이 지연되는 문제입니다.`,qd:()=>`mapAsync()로 GPU에서 데이터를 읽어오는 속도가 느린 문제의 재현 보고서입니다.`,qe:()=>`Mozilla 버그 보고서(영어)`,qf:()=>`더 빠른 실행을 위해 Chrome, Edge, Brave 등 Chromium 기반 브라우저를 권장합니다.`,qg:()=>`기술 세부정보`};export{e as default};
+//# sourceMappingURL=9279966d429ede46-CrHTHJrs.js.map

@@ -1,0 +1,2 @@
+import{t as e}from"./ko-Dfbv_KoL.js";import{t}from"./ko-DUIROxqW.js";import{t as n}from"./ko-C7uJaI1W.js";import{t as r}from"./ko-ihNAOREA.js";var i={qX:n,qY:()=>`이 기기의 모델 파일 확인 중…`,q_:()=>`모델을 준비하지 못했습니다. 다시 시도하거나 설정에서 파일을 확인하세요.`,ra:()=>`채팅 그룹은 준비되었지만 전역 기본값을 저장하지 못했습니다.`,ri:()=>`메시지를 보내면 모델 준비를 다시 시도합니다.`,rj:()=>`양자화`,rk:()=>`채팅할 준비가 되었습니다.`,rl:()=>`사용 가능한 변형 확인`,rm:()=>`모델 정보 복원 중…`,rn:t,rp:()=>`이 모델로 시작하기`,rq:()=>`이 환경에서는 실행할 수 없습니다. 설정에서 자세히 확인하세요.`,Em:r,PG:e};export{i as default};
+//# sourceMappingURL=4b34d24769e6bbbc-yZ4SICpc.js.map

@@ -1,0 +1,1 @@
+import{t as e}from"./ja-CdQlj-i12.js";import{t}from"./ja-Cin-jKdW.js";var n={c:e,q:t};export{n as default};

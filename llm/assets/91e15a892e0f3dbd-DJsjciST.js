@@ -1,0 +1,2 @@
+var e={vA:({path:e})=>`Explorar ${e}`,vB:()=>`Lectura y escritura — haz clic para restringir`,vC:()=>`Solo lectura — haz clic para permitir escritura`,vD:()=>`Quitar`};export{e as default};
+//# sourceMappingURL=91e15a892e0f3dbd-DJsjciST.js.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"es-CKKpVBV8.js","names":[],"sources":["../../../src/strings/messages/naidanRpc__disabled/es.ts"],"sourcesContent":["export const naidanRpc__disabled = (): string => \"Naidan RPC está desactivado\";\n"],"mappings":"AAAA,IAAa,MAAoC"}

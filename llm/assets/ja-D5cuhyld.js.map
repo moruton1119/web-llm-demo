@@ -1,0 +1,1 @@
+{"version":3,"file":"ja-D5cuhyld.js","names":[],"sources":["../../../src/strings/messages/stableDiffusionCppBrowser__image_generation_lab/ja.ts"],"sourcesContent":["export const stableDiffusionCppBrowser__image_generation_lab = (): string => '画像生成';\n"],"mappings":"AAAA,IAAa,MAAgE"}

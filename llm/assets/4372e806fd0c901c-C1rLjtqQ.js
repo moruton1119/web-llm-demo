@@ -1,0 +1,2 @@
+var e={se:()=>`Änderungen gelten nur für diese Browsersitzung, solange die dauerhafte Speicherung der Tool-Konfiguration deaktiviert ist.`,sf:()=>`Chat-Tool-Einstellungen konnten nicht gespeichert werden.`};export{e as default};
+//# sourceMappingURL=4372e806fd0c901c-C1rLjtqQ.js.map

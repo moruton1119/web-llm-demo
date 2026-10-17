@@ -1,0 +1,1 @@
+{"version":3,"file":"ja-CW1qW4Gd.js","names":[],"sources":["../../../src/strings/messages/WelcomeScreen__data_is_cleared_on_reload/ja.ts"],"sourcesContent":["export const WelcomeScreen__data_is_cleared_on_reload = (): string => '再読み込みするとデータは消去されます。';\n"],"mappings":"AAAA,IAAa,MAAyD"}

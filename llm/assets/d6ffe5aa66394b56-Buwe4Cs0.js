@@ -1,0 +1,2 @@
+var e={yS:()=>`채팅 그룹 이름`,yT:({recipeCount:e})=>`감지된 레시피(${e})`,yU:()=>`JSON에서 사전 정의된 채팅 그룹 설정(프롬프트, 매개변수 및 모델 규칙)을 가져옵니다.`,yV:()=>`선택 항목 가져오기`,yW:()=>`모델 선택`,yX:()=>`레시피 JSON 붙여넣기(연결된 JSON 객체 지원)`,yY:()=>`레시피`,yZ:({behavior:e})=>`시스템 프롬프트(${e})`,y$:()=>`기본 모델 사용`};export{e as default};
+//# sourceMappingURL=d6ffe5aa66394b56-Buwe4Cs0.js.map

@@ -1,0 +1,2 @@
+import{t as e}from"./de-sZ9aav-o.js";import{t}from"./de-Dmbld-V_.js";var n={zV:()=>`Debug-Ereignisse`,zW:()=>`Datei-Explorer`,zX:()=>`Weitere Aktionen`,zY:()=>`Schnellzugriff`,zZ:()=>`Letzte Chats`,z$:()=>`Wesh-Terminal`,Fl:e,TN:t};export{n as default};
+//# sourceMappingURL=450298b5bfe6b174-CKdUXRPf.js.map

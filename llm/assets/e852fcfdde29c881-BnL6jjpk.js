@@ -1,0 +1,2 @@
+var e={su:()=>`Basis`,sv:({version:e})=>`Vergleich mit Basis v${e}`,sw:()=>`Kopiert!`,sx:()=>`Ergebnis kopieren`,sy:()=>`Diese Version kopieren`,sz:()=>`Diff an`,sA:()=>`Vom Diff ausschließen`,sB:()=>`Einbeziehen`,sC:()=>`In Diff einbeziehen`,sD:()=>`Weitere Versionen werden geladen...`,sE:()=>`Nachrichtenverlauf & Vergleich`,sF:()=>`Aus`,sG:()=>`Auswahl zurücksetzen`,sH:()=>`Versionen zum Vergleichen der Unterschiede auswählen`,sI:()=>`Überspringen`,sJ:()=>`Ziel`,sK:({version:e})=>`Ziel v${e}`};export{e as default};
+//# sourceMappingURL=e852fcfdde29c881-BnL6jjpk.js.map

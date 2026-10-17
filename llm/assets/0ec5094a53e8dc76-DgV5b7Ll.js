@@ -1,0 +1,2 @@
+import{t as e}from"./ja-C-YFy3K_.js";var t={qh:({a:e,b:t})=>`残り約${e}時間${t}分`,qi:({a:e})=>`残り約${e}時間`,qj:({a:e})=>`残り約${e}分`,qk:({a:e})=>`残り約${e}秒`,qz:e,qA:()=>`残り時間を推定中…`,qI:()=>`最終確認中…`};export{t as default};
+//# sourceMappingURL=0ec5094a53e8dc76-DgV5b7Ll.js.map

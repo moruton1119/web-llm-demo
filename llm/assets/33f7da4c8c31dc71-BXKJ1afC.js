@@ -1,0 +1,2 @@
+import{t as e}from"./es-D2li-y0A.js";var t={o:e,MN:()=>`New chat and connect`,MO:({name:e})=>`Create a chat in ${e}`,ND:()=>`No matching chats or groups. Create a chat here or change the search.`,Ok:()=>`Search chats and groups`};export{t as default};
+//# sourceMappingURL=33f7da4c8c31dc71-BXKJ1afC.js.map

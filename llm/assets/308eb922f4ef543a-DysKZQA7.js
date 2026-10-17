@@ -1,0 +1,2 @@
+import{n as e,t}from"./ko-_00qUYJG.js";var n={hi:()=>`긴 샘플 채팅 만들기`,hj:()=>`샘플 채팅 만들기`,hl:()=>`디버그 및 테스트`,hn:()=>`개발자 도구`,hp:()=>`실험적 기능`,hq:()=>`창을 간단히 다시 로드합니다`,hr:()=>`애플리케이션 다시 로드`,hw:()=>`렌더링 확인 및 긴 스레드 탐색 테스트를 위한 샘플 대화를 추가합니다.`,hx:()=>`PWA 업데이트 시뮬레이션`,hy:()=>`테스트용 업데이트 알림 전환`,tU:e,uj:t};export{n as default};
+//# sourceMappingURL=308eb922f4ef543a-DysKZQA7.js.map

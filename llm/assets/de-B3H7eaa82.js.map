@@ -1,0 +1,1 @@
+{"version":3,"file":"de-B3H7eaa82.js","names":[],"sources":["../../../src/strings/messages/SHARED__unsupported_experimental_endpoint/de.ts"],"sourcesContent":["export const SHARED__unsupported_experimental_endpoint = (): string => 'Nicht unterstützter experimenteller Endpunkt';\n"],"mappings":"AAAA,IAAa,MAA0D"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"zh-Hans-D7wEIOmQ.js","names":[],"sources":["../../../src/strings/messages/SHARED__generated_image/zh-Hans.ts"],"sourcesContent":["export const SHARED__generated_image = (): string => '生成的图像';\n"],"mappings":"AAAA,IAAa,MAAwC"}

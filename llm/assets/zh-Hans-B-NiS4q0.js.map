@@ -1,0 +1,1 @@
+{"version":3,"file":"zh-Hans-B-NiS4q0.js","names":[],"sources":["../../../src/strings/messages/SHARED__unsupported_experimental_endpoint/zh-Hans.ts"],"sourcesContent":["export const SHARED__unsupported_experimental_endpoint = (): string => '不支持的实验性端点';\n"],"mappings":"AAAA,IAAa,MAA0D"}

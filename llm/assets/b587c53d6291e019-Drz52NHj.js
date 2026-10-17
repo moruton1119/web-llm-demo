@@ -1,0 +1,2 @@
+import{t as e}from"./es-B46i6JQp.js";var t={Pg:({count:e})=>`${e} en curso`,Ph:()=>`Todos`,Ps:()=>`Explorar más modelos`,Pv:()=>`Memoria`,Pw:()=>`Catálogo de modelos`,Qr:e};export{t as default};
+//# sourceMappingURL=b587c53d6291e019-Drz52NHj.js.map

@@ -1,0 +1,2 @@
+import{t as e}from"./pt-BR-jvw-njeC2.js";import{t}from"./pt-BR-DhbLUokk2.js";import{n,t as r}from"./pt-BR-DHxKcFhv.js";var i={Ji:()=>`Copiar`,Jl:()=>`Recortar`,Jm:e,Jr:t,JV:()=>`Obter informações`,Kf:n,Kh:r,Km:()=>`Abrir`,Kp:()=>`Colar`,KE:()=>`Renomear`,KI:()=>`Selecionar tudo`,KQ:()=>`Desbloqueie para ativar`};export{i as default};
+//# sourceMappingURL=dfd99cc48f97773c-DnT0RPgI.js.map

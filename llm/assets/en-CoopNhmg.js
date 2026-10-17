@@ -1,0 +1,2 @@
+var e=()=>`Preview during generation`,t=()=>`Maximum preview edge`,n=()=>`Preview method`,r=()=>`Original preview size`,i=()=>`Preview from step`;export{e as a,t as i,r as n,n as r,i as t};
+//# sourceMappingURL=en-CoopNhmg.js.map

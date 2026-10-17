@@ -1,0 +1,2 @@
+var e=()=>`正在解码图像…`,t=()=>`Encoding image…`,n=()=>`Loading model…`,r=()=>`Loading runtime…`,i=()=>`Generating image…`;export{e as a,t as i,r as n,n as r,i as t};
+//# sourceMappingURL=zh-Hans-DkIWkK9Y2.js.map

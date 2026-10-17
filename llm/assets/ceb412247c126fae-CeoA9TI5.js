@@ -1,0 +1,2 @@
+import{t as e}from"./de-C_mi5PX3.js";var t={oe:()=>`Nicht gespeicherte Daten verwerfen`,of:()=>`Dieses nicht gespeicherte Bild verwerfen? Gespeicherte Bilder werden nicht gelöscht.`,og:()=>`Bild herunterladen`,oh:()=>`Speichern Sie die ursprünglichen Bilder erneut, ohne sie neu zu erzeugen. Nicht gespeicherte Bilder gehen beim Schließen dieses Tabs verloren.`,oi:()=>`Nicht gespeicherte Bilder`,Oi:e};export{t as default};
+//# sourceMappingURL=ceb412247c126fae-CeoA9TI5.js.map

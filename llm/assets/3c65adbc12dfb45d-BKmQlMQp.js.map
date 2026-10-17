@@ -1,0 +1,1 @@
+{"version":3,"file":"3c65adbc12dfb45d-BKmQlMQp.js","names":[],"sources":["../../../src/strings/messages/LlamaCppBrowserModelLaunch__no_installation_or_environment_setup/zh-Hans.ts"],"sourcesContent":["export const LlamaCppBrowserModelLaunch__no_installation_or_environment_setup = (): string => \"无需安装，也无需配置。\";\n"],"mappings":"cAA8F"}

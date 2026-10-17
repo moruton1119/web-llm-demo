@@ -1,0 +1,2 @@
+import{t as e}from"./ko-DA-5Wbgk.js";import{n as t,r as n,t as r}from"./ko-CFMcAZrt.js";var i={VZ:()=>`접근 모드`,V$:({count:e})=>`${e}개 사용 중`,We:n,Wi:()=>`설정`,Wj:()=>`복사됨`,Wk:()=>`복사된 폴더`,Wr:e,WQ:()=>`사용 중`,WS:()=>`연결됨`,WT:()=>`연결된 폴더`,WV:()=>`추가 작업`,WX:()=>`이름은 비워 둘 수 없습니다`,WZ:()=>`사용하지 않음`,Xc:()=>`경로`,Xf:t,Xg:r,Xk:()=>`이름 변경`,Xl:()=>`저장`,Xm:()=>`변경 사항 저장`,Xn:()=>`사용 중지`,Xo:()=>`사용`};export{i as default};
+//# sourceMappingURL=edc9888bec23b598-DfYAxhP8.js.map

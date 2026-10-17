@@ -1,0 +1,2 @@
+var e=()=>`A operação falhou. Verifique a conexão atual e o estado salvo antes de tentar novamente.`,t=()=>`Conecte a outro Naidan e escolha o que disponibilizar. O conteúdo da comunicação é criptografado entre as instâncias do Naidan.`;export{e as n,t};
+//# sourceMappingURL=pt-BR-D8-xDnhU.js.map

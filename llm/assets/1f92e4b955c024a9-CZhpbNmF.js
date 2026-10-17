@@ -1,0 +1,2 @@
+import{t as e}from"./en-CURtMcll.js";var t={ym:()=>`Filter`,yn:()=>`Filter recent chats...`,yo:()=>`NAVIGATE`,yp:()=>`No chats match your filter.`,yq:()=>`No recent chats.`,yr:()=>`off`,ys:()=>`on`,yt:()=>`Peek`,yu:()=>`PREVIEW`,yv:()=>`SELECT`,o:e};export{t as default};
+//# sourceMappingURL=1f92e4b955c024a9-CZhpbNmF.js.map

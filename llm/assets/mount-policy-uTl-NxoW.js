@@ -1,0 +1,2 @@
+function e({storageType:e}){switch(e){case`opfs`:return!0;case`local`:case`memory`:return!1;default:throw Error(`Unhandled storage type: ${String(e)}`)}}export{e as t};
+//# sourceMappingURL=mount-policy-uTl-NxoW.js.map

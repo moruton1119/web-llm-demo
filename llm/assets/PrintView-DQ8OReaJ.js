@@ -1,0 +1,2 @@
+import{D as e,W as t,_ as n,b as r,j as i,q as a,y as o}from"./vue.runtime.esm-bundler-CbicM13T.js";import{mn as s}from"./app-DnBqaxXf.js";i();var c={class:`naidan-print-view-layer bg-white dark:bg-gray-950 text-gray-900 dark:text-gray-100`,style:{display:`none`}},l={class:`print-container`},u=s(e({__name:`PrintView`,setup(e,{expose:i}){return i({}),(e,i)=>(t(),r(n,{to:`body`},[o(`div`,c,[o(`div`,l,[a(e.$slots,`default`,{},void 0,!0)])])]))}}),[[`__scopeId`,`data-v-318c35c2`]]);export{u as default};
+//# sourceMappingURL=PrintView-DQ8OReaJ.js.map

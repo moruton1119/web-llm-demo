@@ -1,0 +1,2 @@
+import{t as e}from"./en-CURtMcll.js";var t={aB:({a:e})=>`${e} CHATS`,aC:()=>`Empty Group`,aD:()=>`Group Preview`,aE:()=>`Open Chat`,aF:()=>`Select a chat to preview`,o:e};export{t as default};
+//# sourceMappingURL=ac6002488698729c-DnpAYXp6.js.map

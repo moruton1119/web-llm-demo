@@ -1,0 +1,2 @@
+var e={jA:()=>`Baixar`,jB:()=>`Opções de download`,jC:()=>`Aplica-se à cópia baixada. As imagens salvas não mudam.`,jD:()=>`Formato da imagem`,jE:()=>`Incluir configurações de geração`};export{e as default};
+//# sourceMappingURL=3d68caaae6d93554-BkbUIGo4.js.map

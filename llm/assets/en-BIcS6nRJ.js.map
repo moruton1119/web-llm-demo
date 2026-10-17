@@ -1,0 +1,1 @@
+{"version":3,"file":"en-BIcS6nRJ.js","names":[],"sources":["../../../src/strings/messages/fileExplorer__download/en.ts"],"sourcesContent":["export const fileExplorer__download = (): string => 'Download';\n"],"mappings":"AAAA,IAAa,MAAuC"}

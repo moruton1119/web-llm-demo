@@ -1,0 +1,2 @@
+import{t as e}from"./de-BGX4v1uQ2.js";var t={ze:()=>`Von der Gegenstelle verfügbare Funktionen`,zf:()=>`Chat-Inferenz`,zg:()=>`Angebotene Funktionen werden geprüft…`,zh:()=>`Verbinde dich, um die angebotenen Funktionen zu prüfen`,zi:()=>`Die angebotenen Funktionen konnten nicht geprüft werden. Versuche es erneut.`,zj:()=>`Bilderzeugung`,zk:()=>`Nicht angeboten`,zl:()=>`Teilweise bereitgestellt`,zm:()=>`Angeboten`,Sk:e};export{t as default};
+//# sourceMappingURL=7b1ca757d4e540e6-vkq5-YcL.js.map

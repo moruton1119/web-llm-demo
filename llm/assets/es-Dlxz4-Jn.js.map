@@ -1,0 +1,1 @@
+{"version":3,"file":"es-Dlxz4-Jn.js","names":[],"sources":["../../../src/strings/messages/stableDiffusionCppBrowser__remove/es.ts"],"sourcesContent":["// English fallback for this experimental workspace.\nexport const stableDiffusionCppBrowser__remove = (): string => \"Remove\";\n"],"mappings":"AACA,IAAa,MAAkD"}

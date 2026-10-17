@@ -1,0 +1,2 @@
+import{t as e}from"./ja-CA_wnLjb2.js";var t={o:e,zn:()=>`別ブランチ`,zo:()=>`会話内の一致`,zp:()=>`…後続のメッセージ…`,zq:({a:e})=>`${e}件のメッセージ`,zr:()=>`…以前のメッセージ…`,zs:()=>`最近の履歴`,zt:()=>`プレビューする項目を選択してください`};export{t as default};
+//# sourceMappingURL=80049d26a3f62119-KtGx_TQe.js.map

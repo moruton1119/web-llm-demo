@@ -1,0 +1,1 @@
+{"version":3,"file":"269059de9918b102-7n403ctx.js","names":[],"sources":["../../../src/strings/messages/usePrompt__prompt/pt-BR.ts"],"sourcesContent":["export const usePrompt__prompt = (): string => 'Prompt';\n"],"mappings":"iGAA+C"}

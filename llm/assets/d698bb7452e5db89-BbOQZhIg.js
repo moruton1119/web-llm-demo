@@ -1,0 +1,2 @@
+var e={zu:()=>`공식 웹사이트에서 설치 프로그램을 다운로드하세요.`,zv:()=>`llama.cpp 릴리스 페이지에서 최신 바이너리를 다운로드하거나 소스에서 빌드하세요.`,zw:()=>`외부`,zx:()=>`Homebrew로 설치:`,zy:()=>`릴리스`,zz:()=>`Gemma 3n 실행:`,zA:()=>`설치 스크립트 실행:`,zB:()=>`서버 시작:`};export{e as default};
+//# sourceMappingURL=d698bb7452e5db89-BbOQZhIg.js.map

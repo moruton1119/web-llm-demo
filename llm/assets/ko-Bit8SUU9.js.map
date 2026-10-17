@@ -1,0 +1,1 @@
+{"version":3,"file":"ko-Bit8SUU9.js","names":[],"sources":["../../../src/strings/messages/SHARED__browser_provided/ko.ts"],"sourcesContent":["export const SHARED__browser_provided = (): string => '브라우저 제공';\n"],"mappings":"AAAA,IAAa,MAAyC"}

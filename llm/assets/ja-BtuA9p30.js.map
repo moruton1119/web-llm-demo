@@ -1,0 +1,1 @@
+{"version":3,"file":"ja-BtuA9p30.js","names":[],"sources":["../../../src/strings/messages/naidanRpc__no_connections/ja.ts"],"sourcesContent":["export const naidanRpc__no_connections = (): string => \"保存済みの接続がありません。Naidan RPCタブで接続を登録してください。\";\n"],"mappings":"AAAA,IAAa,MAA0C"}

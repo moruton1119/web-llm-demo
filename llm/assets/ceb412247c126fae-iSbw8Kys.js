@@ -1,0 +1,2 @@
+import{t as e}from"./es-C_mi5PX3.js";var t={oe:()=>`Descartar datos sin guardar`,of:()=>`¿Quieres descartar esta imagen sin guardar? Las imágenes guardadas no se eliminarán.`,og:()=>`Descargar imagen`,oh:()=>`Vuelve a guardar las imágenes originales sin generarlas de nuevo. Las imágenes sin guardar se perderán al cerrar esta pestaña.`,oi:()=>`Imágenes sin guardar`,Oi:e};export{t as default};
+//# sourceMappingURL=ceb412247c126fae-iSbw8Kys.js.map

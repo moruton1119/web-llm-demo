@@ -1,0 +1,2 @@
+var e=()=>`Error de descarga. Consulte el error de la biblioteca; no se sobrescribieron archivos existentes.`,t=()=>`Los archivos están guardados, pero no se identificaron los componentes necesarios. Revise los detalles.`;export{e as n,t};
+//# sourceMappingURL=es-DG1cF9qG.js.map

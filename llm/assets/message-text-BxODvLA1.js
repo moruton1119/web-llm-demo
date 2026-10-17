@@ -1,0 +1,2 @@
+function e({message:e}){return e.parts.flatMap(e=>{switch(e.type){case`text`:return[e.text];case`reasoning`:case`attachment`:case`tool_call`:case`tool_result`:return[];default:throw Error(`Unhandled message part: ${e}`)}}).join(``)}export{e as t};
+//# sourceMappingURL=message-text-BxODvLA1.js.map

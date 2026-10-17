@@ -1,0 +1,2 @@
+import{t as e}from"./zh-Hans-B5-3-5Cq.js";import{t}from"./zh-Hans-B9T2eqfN.js";import{t as n}from"./zh-Hans-CrBVOtg2.js";var r={d:e,I_:()=>`正在分析 ZIP 归档…`,Jf:t,JB:()=>`解压并放置`,JC:()=>`解压归档内容，不保留 ZIP 文件。`,Kj:()=>`下一个 ZIP`,Kq:()=>`将内容放置在这里`,Kr:({name:e})=>`不创建 ${e}/；直接将其内容放置在这里。`,Ks:()=>`放置目录本身`,Kt:({name:e})=>`创建 ${e}/ 并将内容放入其中。`,Ku:()=>`直接放置 ZIP 文件`,Kv:()=>`保存归档而不解压。`,Kw:()=>`放置方式`,KF:({name:e})=>`如何处理 ${e}/`,KT:n,KV:()=>`正在上传…`,KW:()=>`ZIP 归档`,KX:()=>`无法解压此归档。仍可将其作为 ZIP 文件上传。`,KY:()=>`上传 ZIP 文件`};export{r as default};
+//# sourceMappingURL=713aa85537b7af00-CkhSeyr2.js.map

@@ -1,0 +1,2 @@
+import{j as e,v as t}from"./vue.runtime.esm-bundler-CbicM13T.js";import{t as n}from"./strings-CNSnmhhc.js";function r({locale:e,version:t}){return{href:`./naidan-standalone-${e}.zip`,fileName:`naidan-standalone-${e}-v${t}.zip`}}e();function i({version:e}){return t(()=>r({locale:n.value,version:e}))}export{i as t};
+//# sourceMappingURL=usePortableAppDownload-ZZBPAHUl.js.map

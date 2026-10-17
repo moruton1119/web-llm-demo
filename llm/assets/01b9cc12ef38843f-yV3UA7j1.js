@@ -1,0 +1,2 @@
+import{n as e,t}from"./ja-DtNs5K1S2.js";var n={SI:()=>`このNaidanビルドには画像用ランタイムの成果物が導入されていません。導入方法はこの機能のREADMEを参照してください。`,TM:()=>`この実験機能は現在、配信版のみで利用できます。standalone版の他の機能には影響しません。`,TU:()=>`このブラウザはJSPI（JavaScript Promise Integration）に対応していません。Asyncifyのプロファイルを選択してください。`,Ub:e,Uc:t,Uf:()=>`このブラウザでは64ビットWebAssemblyを利用できません。Wasm32のプロファイルを選択してください。`,Vm:()=>`WebGPU、安全な接続環境、gzip展開、キャンバスの対応が必要です。`};export{n as default};
+//# sourceMappingURL=01b9cc12ef38843f-yV3UA7j1.js.map

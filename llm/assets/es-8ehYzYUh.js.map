@@ -1,0 +1,1 @@
+{"version":3,"file":"es-8ehYzYUh.js","names":[],"sources":["../../../src/strings/messages/fileExplorer__download/es.ts"],"sourcesContent":["export const fileExplorer__download = (): string => 'Descargar';\n"],"mappings":"AAAA,IAAa,MAAuC"}

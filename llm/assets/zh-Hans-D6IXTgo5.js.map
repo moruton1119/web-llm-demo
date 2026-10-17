@@ -1,0 +1,1 @@
+{"version":3,"file":"zh-Hans-D6IXTgo5.js","names":[],"sources":["../../../src/strings/messages/WelcomeScreen__data_is_cleared_on_reload/zh-Hans.ts"],"sourcesContent":["export const WelcomeScreen__data_is_cleared_on_reload = (): string => '重新加载时数据会被清除。';\n"],"mappings":"AAAA,IAAa,MAAyD"}

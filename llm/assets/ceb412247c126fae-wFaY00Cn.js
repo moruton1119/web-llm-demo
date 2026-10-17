@@ -1,0 +1,2 @@
+import{t as e}from"./en-C_mi5PX3.js";var t={oe:()=>`Discard unsaved data`,of:()=>`Discard this unsaved image? Saved images are not deleted.`,og:()=>`Download image`,oh:()=>`Retry saving the original images without generating them again. Unsaved images are lost when this browser tab closes.`,oi:()=>`Unsaved images`,Oi:e};export{t as default};
+//# sourceMappingURL=ceb412247c126fae-wFaY00Cn.js.map

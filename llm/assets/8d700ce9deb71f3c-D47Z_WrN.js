@@ -1,0 +1,2 @@
+var e={xW:()=>`Eliminar perfil`,xX:()=>`Ve a Conexión para crear uno`,xY:()=>`Sin modelo predeterminado`,xZ:()=>`Aún no hay perfiles guardados.`,x$:({profileName:e})=>`Perfil "${e}" eliminado`,x_:()=>`Perfiles de proveedores`,ya:()=>`Cambiar nombre del perfil`,yb:()=>`Guarda y cambia fácilmente entre distintas configuraciones de proveedores de IA.`,yc:({modelId:e})=>`Título: ${e}`,yd:()=>`Deshacer`};export{e as default};
+//# sourceMappingURL=8d700ce9deb71f3c-D47Z_WrN.js.map

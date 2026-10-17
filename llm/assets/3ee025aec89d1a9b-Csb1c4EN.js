@@ -1,0 +1,2 @@
+import{t as e}from"./ja-CIYu5YPu.js";import{t}from"./ja-c2GHBjbK.js";var n={mz:()=>`プレビューを閉じる`,mA:()=>`詳細と操作`,mB:e,mC:()=>`次の画像`,mD:()=>`前の画像`,mE:()=>`全体を表示`,mF:()=>`拡大`,mG:()=>`縮小`,Tt:t};export{n as default};
+//# sourceMappingURL=3ee025aec89d1a9b-Csb1c4EN.js.map

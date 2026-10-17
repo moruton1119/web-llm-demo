@@ -1,0 +1,2 @@
+var e={mI:()=>`Das Bild konnte nicht geladen werden.`,mJ:()=>`Diese Bilddatei ist nicht verfügbar.`,mK:()=>`Bild wird geladen…`};export{e as default};
+//# sourceMappingURL=4d903f38555a9143-CmAzFVg6.js.map

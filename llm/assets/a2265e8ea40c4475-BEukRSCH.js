@@ -1,0 +1,2 @@
+import{t as e}from"./ko-DG0Baw5s.js";import{t}from"./ko-BWK2s9ky.js";var n={d:e,S$:()=>`폴더 선택`,TO:()=>`로컬 모델 추가`,TP:()=>`모델 폴더를 여기에 놓거나 선택하여 추가하세요.`,TQ:()=>`저장소를 로컬 저장소에 복사 중…`,UM:t};export{n as default};
+//# sourceMappingURL=a2265e8ea40c4475-BEukRSCH.js.map

@@ -1,0 +1,2 @@
+var e={y_:({days:e})=>`há ${e} d`,za:({hours:e})=>`há ${e} h`,zb:()=>`agora mesmo`,zc:({minutes:e})=>`há ${e} min`,zd:({seconds:e})=>`há ${e} s`};export{e as default};
+//# sourceMappingURL=4eb5ca3bbe451ba1-PseniiAg.js.map

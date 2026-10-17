@@ -1,0 +1,1 @@
+{"version":3,"file":"b2dd9226e8c38da8-DzTJW95p.js","names":[],"sources":["../../../src/strings/messages/CustomDialog__dialog/zh-Hans.ts"],"sourcesContent":["export const CustomDialog__dialog = (): string => '对话框';\n"],"mappings":"8FAAkD"}

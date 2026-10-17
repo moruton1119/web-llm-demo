@@ -1,0 +1,1 @@
+{"version":3,"file":"de-XMhIIttF2.js","names":[],"sources":["../../../src/strings/messages/SHARED__browser_provided/de.ts"],"sourcesContent":["export const SHARED__browser_provided = (): string => 'Vom Browser bereitgestellt';\n"],"mappings":"AAAA,IAAa,MAAyC"}

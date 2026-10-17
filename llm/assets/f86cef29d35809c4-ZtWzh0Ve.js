@@ -1,0 +1,2 @@
+var e={iN:()=>`Configuración global`,iO:()=>`Establece los valores predeterminados para todos los chats. Los grupos de chats y los chats individuales pueden sobrescribir la configuración de cada herramienta de forma independiente.`,iP:()=>`Herramientas`};export{e as default};
+//# sourceMappingURL=f86cef29d35809c4-ZtWzh0Ve.js.map

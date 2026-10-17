@@ -1,0 +1,1 @@
+{"version":3,"file":"zh-Hans-CSnF0uLM.js","names":[],"sources":["../../../src/strings/messages/SHARED__new_chat/zh-Hans.ts"],"sourcesContent":["export const SHARED__new_chat = (): string => '新建聊天';\n"],"mappings":"AAAA,IAAa,MAAiC"}

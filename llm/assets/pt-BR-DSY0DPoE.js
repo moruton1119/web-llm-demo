@@ -1,0 +1,2 @@
+var e=()=>`Mostrar prévia durante a geração`,t=()=>`Maior lado da prévia`,n=()=>`Método da prévia`,r=()=>`Tamanho original da prévia`,i=()=>`Pré-visualizar a partir da etapa`;export{e as a,t as i,r as n,n as r,i as t};
+//# sourceMappingURL=pt-BR-DSY0DPoE.js.map

@@ -1,0 +1,2 @@
+import{t as e}from"./zh-Hans-t0kM-0P82.js";import{n as t,r as n,t as r}from"./zh-Hans-5Zl4olbE2.js";import{t as i}from"./zh-Hans-lpe2y3aB2.js";var a={mY:()=>`计算设备`,mZ:()=>`生成前，请在 Naidan RPC 设置中手动连接。`,m$:()=>`明确指定模型配置`,m_:()=>`获取远程模型列表`,na:()=>`刷新连接列表`,nc:()=>`只能选择远程设备上已有的模型文件。有意不提供下载、导入和修改提供方设置的操作。`,nd:e,ne:()=>`使用此配置`,RC:n,RM:i,RR:t,Sa:r};export{a as default};
+//# sourceMappingURL=33ed76d33ba3ee2d-Ae48J9wa.js.map

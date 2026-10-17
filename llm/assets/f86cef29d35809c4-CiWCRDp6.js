@@ -1,0 +1,2 @@
+var e={iN:()=>`Globale Einstellungen`,iO:()=>`Lege die Standardwerte für alle Chats fest. Chatgruppen und einzelne Chats können jedes Tool unabhängig überschreiben.`,iP:()=>`Tools`};export{e as default};
+//# sourceMappingURL=f86cef29d35809c4-CiWCRDp6.js.map

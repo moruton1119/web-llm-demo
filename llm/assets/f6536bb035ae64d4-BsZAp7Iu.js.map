@@ -1,0 +1,1 @@
+{"version":3,"file":"f6536bb035ae64d4-BsZAp7Iu.js","names":[],"sources":["../../../src/strings/messages/AssistantWaitingIndicator__waiting_for_response/zh-Hans.ts"],"sourcesContent":["export const AssistantWaitingIndicator__waiting_for_response = (): string => '正在等待响应...';\n"],"mappings":"aAA6E"}

@@ -1,0 +1,2 @@
+var e={vM:()=>`Ollama-Laufzeit`,vN:()=>`Modelle anzeigen und entladen, die dieser Ollama-Server derzeit im Arbeitsspeicher hält.`};export{e as default};
+//# sourceMappingURL=57d64a4d5877a885-Df0Y0o-X.js.map

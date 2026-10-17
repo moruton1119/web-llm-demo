@@ -1,0 +1,1 @@
+{"version":3,"file":"ko-DmwNa4s-.js","names":[],"sources":["../../../src/strings/messages/llamaCppBrowserDownloads__set_as_default/ko.ts"],"sourcesContent":["export const llamaCppBrowserDownloads__set_as_default = (): string => \"기본값으로 설정\";\n"],"mappings":"AAAA,IAAa,MAAyD"}

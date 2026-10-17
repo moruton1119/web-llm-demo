@@ -1,0 +1,2 @@
+import{t as e}from"./es-D2li-y0A.js";var t={aB:({count:e})=>`${e} ${e===1?`CHAT`:`CHATS`}`,aC:()=>`Grupo vacío`,aD:()=>`Vista previa del grupo`,aE:()=>`Abrir chat`,aF:()=>`Selecciona un chat para previsualizarlo`,o:e};export{t as default};
+//# sourceMappingURL=ac6002488698729c-CUsUlHRG.js.map

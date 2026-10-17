@@ -1,0 +1,2 @@
+import{n as e,t}from"./ko-D-wEJDC_.js";var n={I$:({count:e})=>`추가 ${e.toLocaleString()}개`,Jc:({count:e})=>`배치 불가 ${e.toLocaleString()}개`,Je:()=>`배치할 수 없음`,JA:()=>`기존`,Kb:({count:e})=>`병합 ${e.toLocaleString()}개`,Ke:e,Kl:()=>`아직 변경되지 않음`,Ko:({count:e})=>`덮어쓰기 ${e.toLocaleString()}개`,Kx:()=>`배치 미리보기`,Ky:()=>`추가 예정`,Kz:()=>`병합 예정`,KA:()=>`덮어쓰기 예정`,KL:t,KN:()=>`상태`};export{n as default};
+//# sourceMappingURL=3057cfce84cab063-By6eIZkt.js.map

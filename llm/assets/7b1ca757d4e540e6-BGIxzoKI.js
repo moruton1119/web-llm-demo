@@ -1,0 +1,2 @@
+import{t as e}from"./ja-BMQkDiJB.js";var t={ze:()=>`相手から利用できる機能`,zf:()=>`チャット推論`,zg:()=>`提供状況を確認中…`,zh:()=>`接続すると相手が提供する機能を確認できます`,zi:()=>`提供状況を確認できませんでした。更新して再確認してください。`,zj:()=>`画像生成`,zk:()=>`提供なし`,zl:()=>`一部のみ提供`,zm:()=>`提供中`,Sk:e};export{t as default};
+//# sourceMappingURL=7b1ca757d4e540e6-BGIxzoKI.js.map

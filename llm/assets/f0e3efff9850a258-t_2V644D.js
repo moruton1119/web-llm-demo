@@ -1,0 +1,2 @@
+import{t as e}from"./ja-dlNnA4f8.js";import{n as t,t as n}from"./ja-D-tkIkYt.js";import{n as r,r as i,t as a}from"./ja-DmwR14LX2.js";var o={Jh:()=>`カラム表示`,Jj:i,Jv:r,Jw:a,JR:()=>`名前で絞り込み...`,JX:()=>`プレビューを隠す`,JY:()=>`アイコン表示`,J$:()=>`リスト表示`,Ka:()=>`ロック中 — クリックして解除`,Kf:t,Kg:()=>`新しいファイル（ロック解除で有効）`,Kh:n,Ki:()=>`新しいフォルダ（ロック解除で有効）`,KC:()=>`更新`,KG:()=>`検索`,KK:()=>`プレビューを表示`,KR:()=>`ロック解除済み — クリックしてロック`,KT:e,KU:()=>`ファイルをアップロード（ロック解除で有効）`};export{o as default};
+//# sourceMappingURL=f0e3efff9850a258-t_2V644D.js.map

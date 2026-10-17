@@ -1,0 +1,2 @@
+import{t as e}from"./zh-Hans-B5-3-5Cq.js";import{t}from"./zh-Hans-C9Q1Z_bd.js";var n={d:e,S$:()=>`选择文件夹`,TO:()=>`导入本地模型`,TP:()=>`将模型文件夹拖到此处，或选择文件夹以添加。`,TQ:()=>`正在复制仓库到本地存储…`,UM:t};export{n as default};
+//# sourceMappingURL=a2265e8ea40c4475-BIZNIQP9.js.map

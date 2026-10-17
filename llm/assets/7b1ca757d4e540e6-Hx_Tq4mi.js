@@ -1,0 +1,2 @@
+import{t as e}from"./en-B1VOJD5m.js";var t={ze:()=>`Available from peer`,zf:()=>`Chat inference`,zg:()=>`Checking provided functions…`,zh:()=>`Connect to check the peer’s provided functions`,zi:()=>`Could not check provided functions. Try refreshing.`,zj:()=>`Image generation`,zk:()=>`Not provided`,zl:()=>`Partially provided`,zm:()=>`Provided`,Sk:e};export{t as default};
+//# sourceMappingURL=7b1ca757d4e540e6-Hx_Tq4mi.js.map

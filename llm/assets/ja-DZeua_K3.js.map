@@ -1,0 +1,1 @@
+{"version":3,"file":"ja-DZeua_K3.js","names":[],"sources":["../../../src/strings/messages/audioGeneration__audio_generation/ja.ts"],"sourcesContent":["export const audioGeneration__audio_generation = (): string => \"音声生成\";\n"],"mappings":"AAAA,IAAa,MAAkD"}

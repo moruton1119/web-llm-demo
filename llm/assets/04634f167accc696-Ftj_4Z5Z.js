@@ -1,0 +1,2 @@
+import{t as e}from"./pt-BR-DJF0oLBv.js";import{t}from"./pt-BR-CEZdwyEW.js";import{t as n}from"./pt-BR-RMUxddLX2.js";var r={d:e,Pj:()=>`Alterar o modelo padrão?`,Pn:()=>`Modelo padrão`,Pr:()=>`Tipo de endpoint`,Pt:()=>`Isso altera as configurações padrão. As configurações próprias de conversas e grupos não serão alteradas.`,Py:()=>`Não definido`,PK:n,PL:()=>`As configurações mudaram. Confira os novos valores e tente novamente.`,Qr:t};export{r as default};
+//# sourceMappingURL=04634f167accc696-Ftj_4Z5Z.js.map

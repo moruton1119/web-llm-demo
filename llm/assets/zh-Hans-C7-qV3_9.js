@@ -1,0 +1,2 @@
+var e=()=>`GPU 工作内存目标（MiB）`,t=()=>`Execution profile`,n=()=>`权重驻留位置`,r=()=>`自动（推荐）`,i=()=>`CPU 支持的权重`,a=()=>`磁盘支持的权重`,o=()=>`混合（文本/VAE 在 CPU，扩散从磁盘读取）`;export{n as a,r as i,a as n,t as o,i as r,e as s,o as t};
+//# sourceMappingURL=zh-Hans-C7-qV3_9.js.map

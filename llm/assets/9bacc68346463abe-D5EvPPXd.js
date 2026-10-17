@@ -1,0 +1,2 @@
+import{t as e}from"./ko-EPprpR84.js";import{t}from"./ko-BbDdjYne.js";var n={oc:()=>`항목 검색`,od:()=>`모델에 포함된 구성 요소 사용`,tm:t,Po:e,Tf:()=>`필수`,TR:()=>`선택 불가`,UX:()=>`모델 파일 선택`,Ve:()=>`구조 일치 (가중치 동일성 미검증)`,Vh:()=>`미검증`};export{n as default};
+//# sourceMappingURL=9bacc68346463abe-D5EvPPXd.js.map

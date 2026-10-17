@@ -1,0 +1,2 @@
+var e={VK:({chatTitle:e})=>{switch(e.type){case`titled`:return`Chat "${e.value}" excluído`;case`untitled`:return`Chat "Sem título" excluído`;default:return e}},VL:()=>`Desfazer`};export{e as default};
+//# sourceMappingURL=63d356a80e86cea1-K-_SrTG-.js.map

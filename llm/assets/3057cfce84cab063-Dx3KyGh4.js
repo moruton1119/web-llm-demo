@@ -1,0 +1,2 @@
+import{n as e,t}from"./zh-Hans-B8dleByO.js";var n={I$:({count:e})=>`新增 ${e.toLocaleString()} 项`,Jc:({count:e})=>`无法放置 ${e.toLocaleString()} 项`,Je:()=>`无法放置`,JA:()=>`现有`,Kb:({count:e})=>`合并 ${e.toLocaleString()} 项`,Ke:e,Kl:()=>`尚未更改`,Ko:({count:e})=>`覆盖 ${e.toLocaleString()} 项`,Kx:()=>`放置预览`,Ky:()=>`将添加`,Kz:()=>`将合并`,KA:()=>`将覆盖`,KL:t,KN:()=>`状态`};export{n as default};
+//# sourceMappingURL=3057cfce84cab063-Dx3KyGh4.js.map

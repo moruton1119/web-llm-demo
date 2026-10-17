@@ -1,0 +1,2 @@
+var e={yS:()=>`Nome do grupo de conversas`,yT:({recipeCount:e})=>`Receitas detectadas (${e})`,yU:()=>`Importe do JSON configurações predefinidas de grupos de conversas (prompts, parâmetros e regras de modelo).`,yV:()=>`Importar selecionados`,yW:()=>`Seleção de modelo`,yX:()=>`Cole o JSON da receita (objetos JSON concatenados são compatíveis)`,yY:()=>`Receitas`,yZ:({behavior:e})=>`Prompt de sistema (${e})`,y$:()=>`Usar modelo padrão`};export{e as default};
+//# sourceMappingURL=d6ffe5aa66394b56-DHdokpNr.js.map

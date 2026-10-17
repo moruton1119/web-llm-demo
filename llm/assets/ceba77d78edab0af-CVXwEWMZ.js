@@ -1,0 +1,2 @@
+import{t as e}from"./es-DJF0oLBv.js";import{t}from"./es-B46i6JQp.js";import{t as n}from"./es-CXCgDaXt.js";import{t as r}from"./es-BPoy59fl.js";var i={d:e,PU:()=>`Elegir archivos GGUF`,PV:()=>`Elegir carpeta del modelo`,PZ:()=>`Suelta carpetas de modelos o archivos GGUF aquí`,Qc:r,Qd:n,Qr:t,Qs:()=>`O elige archivos descargados de tu dispositivo. Se guardan localmente en este navegador.`};export{i as default};
+//# sourceMappingURL=ceba77d78edab0af-CVXwEWMZ.js.map

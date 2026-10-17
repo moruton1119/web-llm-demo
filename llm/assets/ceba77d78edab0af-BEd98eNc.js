@@ -1,0 +1,2 @@
+import{t as e}from"./zh-Hans-B5-3-5Cq.js";import{t}from"./zh-Hans-CiCvLgLt.js";import{t as n}from"./zh-Hans-wxnBy6oQ.js";import{t as r}from"./zh-Hans-BwEGabwK.js";var i={d:e,PU:()=>`选择 GGUF 文件`,PV:()=>`选择模型文件夹`,PZ:()=>`将模型文件夹或 GGUF 文件拖放到此处`,Qc:r,Qd:n,Qr:t,Qs:()=>`也可以选择设备上已下载的文件。文件将保存在此浏览器中。`};export{i as default};
+//# sourceMappingURL=ceba77d78edab0af-BEd98eNc.js.map

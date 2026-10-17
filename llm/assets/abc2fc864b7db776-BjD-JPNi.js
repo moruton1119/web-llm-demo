@@ -1,0 +1,2 @@
+import{t as e}from"./ko-DOPrcHdl.js";import{t}from"./ko-DLhHV8KD.js";import{t as n}from"./ko-CABj94tY.js";var r={pS:()=>`Open Link folder beside a download destination to reconnect.`,Pm:()=>`검색 지우기`,Px:()=>`일치하는 모델이 없습니다`,PJ:()=>`모델 이름 검색`,PX:()=>`모델 삭제`,P_:t,Qc:n,Qh:()=>`가져온 후 연결에서 llama.cpp browser를 선택하고 해당 파일을 모델로 선택하세요. 파일 이름은 고유해야 합니다.`,Qi:()=>`가져온 모델`,Qn:()=>`모델 목록을 불러오는 중`,Qq:()=>`가져온 모델이 없습니다`,Qr:e,Qw:()=>`모델 목록 새로고침`};export{r as default};
+//# sourceMappingURL=abc2fc864b7db776-BjD-JPNi.js.map

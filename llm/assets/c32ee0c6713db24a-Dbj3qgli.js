@@ -1,0 +1,2 @@
+import{t as e}from"./ko-iyYOisV7.js";import{t}from"./ko-C7uJaI1W.js";var n={qX:t,o:e,Ib:()=>`첨부 파일을 저장할 수 없습니다`,Ic:()=>`취소`,Id:()=>`그래도 계속`,Ie:({chatTitle:e})=>`"${e}"에서 생성 실패`,If:()=>`5MB 제한이 있는 로컬 저장소를 사용 중입니다. 첨부 파일은 이 세션 동안 사용할 수 있지만 기록에는 저장되지 않습니다. 영구 저장을 사용하려면 설정에서 OPFS 저장소로 전환하세요.`,Ig:()=>`이미지 생성 모델을 찾을 수 없습니다(x/z-image-turbo:로 시작하는 모델).`,Ih:()=>`보기`};export{n as default};
+//# sourceMappingURL=c32ee0c6713db24a-Dbj3qgli.js.map

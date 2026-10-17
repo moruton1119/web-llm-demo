@@ -1,0 +1,2 @@
+import{t as e}from"./ja-CE7ssYJZ.js";import{t}from"./ja-BhtJyKCW.js";var n={Po:e,Te:()=>`自動選択はファイル名だけでなくテンソル構造に基づきます。同じ構造の派生モデルでも結果は変わり得ます。このテキストから画像を生成する画面では、画像編集用のprojectorは使用しません。`,Tg:()=>`モデルの構成`,TS:t,TT:()=>`確認が必要なファイル`,Va:()=>`未検証のローカル重みも表示（詳細設定）`};export{n as default};
+//# sourceMappingURL=f3031838687b7d63-fVG0P4Yi.js.map

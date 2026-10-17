@@ -1,0 +1,2 @@
+var e={VK:({chatTitle:e})=>{switch(e.type){case`titled`:return`Chat „${e.value}“ gelöscht`;case`untitled`:return`Chat „Ohne Titel“ gelöscht`;default:return e}},VL:()=>`Rückgängig`};export{e as default};
+//# sourceMappingURL=63d356a80e86cea1-Dv_lC8_Z.js.map

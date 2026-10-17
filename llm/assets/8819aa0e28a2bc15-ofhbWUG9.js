@@ -1,0 +1,2 @@
+var e={IF:()=>`Compactar contexto requiere un modelo y un endpoint configurados.`,IG:()=>`La respuesta de compactación de contexto estaba vacía.`};export{e as default};
+//# sourceMappingURL=8819aa0e28a2bc15-ofhbWUG9.js.map

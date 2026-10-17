@@ -1,0 +1,2 @@
+var e={xW:()=>`删除配置文件`,xX:()=>`前往“连接”创建一个`,xY:()=>`没有默认模型`,xZ:()=>`尚未保存任何配置文件。`,x$:({profileName:e})=>`已删除配置文件“${e}”`,x_:()=>`提供商配置文件`,ya:()=>`重命名配置文件`,yb:()=>`轻松保存并切换不同的 AI 提供商配置。`,yc:({modelId:e})=>`标题：${e}`,yd:()=>`撤销`};export{e as default};
+//# sourceMappingURL=8d700ce9deb71f3c-CKCels4u.js.map

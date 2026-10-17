@@ -1,0 +1,1 @@
+{"version":3,"file":"en-CXi7bQet2.js","names":[],"sources":["../../../src/strings/messages/SHARED__confirm/en.ts"],"sourcesContent":["export const SHARED__confirm = (): string => 'Confirm';\n"],"mappings":"AAAA,IAAa,MAAgC"}

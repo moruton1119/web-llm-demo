@@ -1,0 +1,2 @@
+var e={rU:()=>`既定値`,rV:()=>`空欄ではプロバイダーの既定値を使用`,rW:()=>`無効なJSONです`,rX:()=>`LMパラメータ`,rY:()=>`最大トークン数`,rZ:()=>`文字列の配列である必要があります`,r$:()=>`Presence Penalty`,r_:()=>`すべてリセット`,sa:()=>`既定値に戻す`,sb:()=>`停止シーケンス（JSON配列）`,sc:()=>`Temperature`,sd:()=>`Top P`};export{e as default};
+//# sourceMappingURL=26ae3111cfcacff0-D3VJkOkL.js.map

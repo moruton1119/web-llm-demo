@@ -1,0 +1,1 @@
+{"version":3,"file":"en-C5huRZJs.js","names":[],"sources":["../../../src/strings/messages/volumes__failed_to_copy/en.ts"],"sourcesContent":["export const volumes__failed_to_copy = ({ errorMessage }: { errorMessage: string }): string => `Failed to copy: ${errorMessage}`;\n"],"mappings":"AAAA,IAAa,GAA2B,CAAA,EAAE,KAAqD,mBAAmB"}

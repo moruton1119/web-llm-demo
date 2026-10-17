@@ -1,0 +1,1 @@
+{"version":3,"file":"cfa05ab770a72a84-CSqzZ-7r.js","names":[],"sources":["../../../src/strings/messages/PWAManager__app_ready_to_work_offline/ja.ts"],"sourcesContent":["export const PWAManager__app_ready_to_work_offline = (): string => 'オフラインで使用する準備ができました';\n"],"mappings":"cAAmE"}

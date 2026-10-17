@@ -1,0 +1,2 @@
+var e={ar:()=>`Recolher conteúdo`,at:()=>`Referência de imagem gerada`,au:()=>`Mostrar conteúdo`,av:()=>`Conteúdo de texto oculto`};export{e as default};
+//# sourceMappingURL=25b0ae4709a560e4-BEAxyuBN.js.map

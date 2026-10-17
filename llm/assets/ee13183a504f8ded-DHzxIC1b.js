@@ -1,0 +1,2 @@
+var e={VH:()=>`Excluir objeto binário?`,VI:({name:e})=>`Tem certeza de que deseja excluir "${e}"? Esta ação não pode ser desfeita. Qualquer mensagem de chat que faça referência a este arquivo o mostrará como ausente.`,VJ:()=>`Excluir permanentemente`};export{e as default};
+//# sourceMappingURL=ee13183a504f8ded-DHzxIC1b.js.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"4bc6858b42cb525a-5GrND5qn.js","names":[],"sources":["../../../src/strings/messages/fileExplorer__empty_folder/zh-Hans.ts"],"sourcesContent":["export const fileExplorer__empty_folder = (): string => '空文件夹';\n"],"mappings":"cAAwD"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"269059de9918b102-Dwqzp-e3.js","names":[],"sources":["../../../src/strings/messages/usePrompt__prompt/ko.ts"],"sourcesContent":["export const usePrompt__prompt = (): string => '프롬프트';\n"],"mappings":"4FAA+C"}

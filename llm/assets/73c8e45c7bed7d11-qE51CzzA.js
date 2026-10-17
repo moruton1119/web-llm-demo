@@ -1,0 +1,2 @@
+import{t as e}from"./pt-BR-C0CnJq2w.js";var t={l:e,VN:()=>`Falha ao gerar imagem.`,VO:({format:e})=>`Falha ao recodificar a imagem para ${e}; usando o original`,VP:()=>`Nenhum modelo de geração de imagem adequado encontrado (começando com x/z-image-turbo:)`};export{t as default};
+//# sourceMappingURL=73c8e45c7bed7d11-qE51CzzA.js.map

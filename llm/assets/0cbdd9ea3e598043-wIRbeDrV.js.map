@@ -1,0 +1,1 @@
+{"version":3,"file":"0cbdd9ea3e598043-wIRbeDrV.js","names":[],"sources":["../../../src/strings/messages/chatApproval__keyword_label/pt-BR.ts"],"sourcesContent":["export const chatApproval__keyword_label = (): string => 'Palavra-chave:';\n"],"mappings":"cAAyD"}

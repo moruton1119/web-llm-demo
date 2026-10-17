@@ -1,0 +1,2 @@
+import{n as e,r as t,t as n}from"./pt-BR-BcIpFGHI.js";var r={Hl:()=>`Objetos binários`,Ho:()=>`Data`,Hp:t,Hq:e,Ht:()=>`Carregando mais... (clique para carregar manualmente)`,Hu:()=>`Carregando objetos...`,Hv:()=>`Gerencie e navegue pelos arquivos persistidos`,Hw:()=>`Nome`,Hx:()=>`Nenhum objeto encontrado`,HA:()=>`Pesquisar por nome, ID ou tipo...`,HB:()=>`Tamanho`,HC:n};export{r as default};
+//# sourceMappingURL=a878b1834abbc66e-CDVbpV1I.js.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"c7320b209ad56add-CocrQBtB.js","names":[],"sources":["../../../src/strings/messages/UnselectedChatPane__select_or_create_a_chat_to_start/ja.ts"],"sourcesContent":["export const UnselectedChatPane__select_or_create_a_chat_to_start = (): string => 'チャットを選択するか作成してください';\n"],"mappings":"cAAkF"}

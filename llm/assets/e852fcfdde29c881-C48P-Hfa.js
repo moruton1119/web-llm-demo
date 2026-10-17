@@ -1,0 +1,2 @@
+var e={su:()=>`Base`,sv:({version:e})=>`Comparando base v${e}`,sw:()=>`Copiado!`,sx:()=>`Copiar resultado`,sy:()=>`Copiar esta versão`,sz:()=>`Diff ativado`,sA:()=>`Não incluir no diff`,sB:()=>`Incluir`,sC:()=>`Incluir no diff`,sD:()=>`Carregando mais versões...`,sE:()=>`Histórico de mensagens e comparação`,sF:()=>`Desativado`,sG:()=>`Redefinir seleção`,sH:()=>`Selecione versões para comparar diferenças`,sI:()=>`Ignorar`,sJ:()=>`Destino`,sK:({version:e})=>`Destino v${e}`};export{e as default};
+//# sourceMappingURL=e852fcfdde29c881-C48P-Hfa.js.map

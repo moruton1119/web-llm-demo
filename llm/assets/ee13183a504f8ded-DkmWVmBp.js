@@ -1,0 +1,2 @@
+var e={VH:()=>`Binärobjekt löschen?`,VI:({name:e})=>`Möchtest du „${e}“ wirklich löschen? Diese Aktion kann nicht rückgängig gemacht werden. Chatnachrichten, die auf diese Datei verweisen, zeigen sie als fehlend an.`,VJ:()=>`Dauerhaft löschen`};export{e as default};
+//# sourceMappingURL=ee13183a504f8ded-DkmWVmBp.js.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"pt-BR-kNxHe6LS.js","names":[],"sources":["../../../src/strings/messages/MessageActions__copied/pt-BR.ts"],"sourcesContent":["export const MessageActions__copied = (): string => 'Copiado!';\n"],"mappings":"AAAA,IAAa,MAAuC"}

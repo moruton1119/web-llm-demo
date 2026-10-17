@@ -1,0 +1,1 @@
+{"version":3,"file":"ko-ihNAOREA.js","names":[],"sources":["../../../src/strings/messages/WelcomeScreen__data_is_cleared_on_reload/ko.ts"],"sourcesContent":["export const WelcomeScreen__data_is_cleared_on_reload = (): string => '새로고침하면 데이터가 삭제됩니다.';\n"],"mappings":"AAAA,IAAa,MAAyD"}

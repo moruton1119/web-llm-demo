@@ -1,0 +1,2 @@
+import{t as e}from"./de-BoZmzJXR.js";var t={l:e,HL:()=>`Metadaten konnten nicht in das Bild eingebettet werden.`,HM:()=>`Bild konnte nicht geladen werden`,HO:()=>`Bild wurde im Speicher nicht gefunden`,HP:()=>`Ungültige Bildblockdaten`};export{t as default};
+//# sourceMappingURL=d0440fa2208f3bd4-CEnQABeg.js.map

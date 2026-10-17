@@ -1,0 +1,2 @@
+import{t as e}from"./ja-CARQBgdm2.js";import{n as t,r as n,t as r}from"./ja-CdzxuE0P2.js";import{t as i}from"./ja-MaiGE1Zj2.js";var a={mY:()=>`計算先`,mZ:()=>`生成する前に、Naidan RPC設定で接続してください。`,m$:()=>`モデル構成を明示的に指定`,m_:()=>`相手のモデル一覧を取得`,na:()=>`接続一覧を更新`,nc:()=>`相手側にあるモデルファイルだけを選択できます。モデルのダウンロード・取り込み・相手側の設定変更は、意図的に提供していません。`,nd:e,ne:()=>`この構成を使う`,RC:n,RM:i,RR:t,Sa:r};export{a as default};
+//# sourceMappingURL=33ed76d33ba3ee2d-CFlqKNMD.js.map

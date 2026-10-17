@@ -1,0 +1,1 @@
+{"version":3,"file":"pt-BR-C7woyuWK.js","names":[],"sources":["../../../src/strings/messages/llamaCppBrowserDownloads__details/pt-BR.ts"],"sourcesContent":["export const llamaCppBrowserDownloads__details = (): string => \"Detalhes\";\n"],"mappings":"AAAA,IAAa,MAAkD"}

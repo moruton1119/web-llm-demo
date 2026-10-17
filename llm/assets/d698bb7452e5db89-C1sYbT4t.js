@@ -1,0 +1,2 @@
+var e={zu:()=>`从官方网站下载安装程序。`,zv:()=>`从 llama.cpp 发布页面下载最新二进制文件，或从源代码构建。`,zw:()=>`外部`,zx:()=>`使用 Homebrew 安装：`,zy:()=>`发布版本`,zz:()=>`运行 Gemma 3n：`,zA:()=>`运行安装脚本：`,zB:()=>`启动服务器：`};export{e as default};
+//# sourceMappingURL=d698bb7452e5db89-C1sYbT4t.js.map

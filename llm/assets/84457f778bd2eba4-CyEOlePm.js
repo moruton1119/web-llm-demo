@@ -1,0 +1,2 @@
+var e={gB:()=>`Application state synchronized`,gC:()=>`Clear Logs`,gD:()=>`Close Panel`,gE:()=>`Development Tools`,gF:({a:e})=>`${e} Errors`,gG:()=>`Explore OPFS`,gH:()=>`Intentional test error triggered by user`,gI:()=>`No events recorded`,gJ:()=>`System Events`,gK:()=>`This is used to verify the error event system UI.`,gL:({a:e})=>`Total: ${e}`,gM:()=>`Trigger Test Error`,gN:()=>`Trigger Test Info`,rQ:()=>`llama.cpp browser`};export{e as default};
+//# sourceMappingURL=84457f778bd2eba4-CyEOlePm.js.map

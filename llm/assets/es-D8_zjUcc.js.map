@@ -1,0 +1,1 @@
+{"version":3,"file":"es-D8_zjUcc.js","names":[],"sources":["../../../src/strings/messages/fileExplorer__folder/es.ts"],"sourcesContent":["export const fileExplorer__folder = (): string => 'Carpeta';\n"],"mappings":"AAAA,IAAa,MAAqC"}

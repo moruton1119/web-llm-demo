@@ -1,0 +1,2 @@
+import{t as e}from"./de-B0wJnwYW.js";import{t}from"./de-ux1P7Czx.js";import{t as n}from"./de-J5pcVh88.js";var r={d:e,Pj:()=>`Standardmodell ändern?`,Pn:()=>`Standardmodell`,Pr:()=>`Endpunkttyp`,Pt:()=>`Die Standardeinstellungen werden geändert. Eigene Einstellungen von Chats und Gruppen bleiben erhalten.`,Py:()=>`Nicht festgelegt`,PK:n,PL:()=>`Die Einstellungen wurden inzwischen geändert. Prüfen Sie die neuen Werte und versuchen Sie es erneut.`,Qr:t};export{r as default};
+//# sourceMappingURL=04634f167accc696-C3OMAkFa.js.map

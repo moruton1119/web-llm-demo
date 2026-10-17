@@ -1,0 +1,2 @@
+var e=()=>`音声生成モデル`,t=()=>`音声用mmprojの処理先`,n=()=>`本体のtemperature`,r=()=>`本体のtop K`,i=()=>`本体のtop P`,a=()=>`コンテキストのトークン数`,o=()=>`読み上げるテキスト`,s=()=>`言語`,c=()=>`生成ステップ数の上限`,l=()=>`シード（4294967295でランダム）`;export{a,n as c,o as i,t as l,c as n,i as o,s as r,r as s,l as t,e as u};
+//# sourceMappingURL=ja-Dw89Jsea2.js.map

@@ -1,0 +1,2 @@
+import{t as e}from"./es-2Xj-2Z_4.js";var t={sh:()=>`Comparar versiones`,si:e,sj:()=>`Copiar enlace`,sk:()=>`Copiar mensaje`,sl:()=>`Copiar datos sin procesar`,sm:()=>`Editar mensaje`,sn:()=>`No se pudo copiar el enlace del mensaje.`,so:()=>`Bifurcar chat`,sp:()=>`Enlace del mensaje copiado al portapapeles.`,sq:()=>`Más acciones`,sr:()=>`Más herramientas de mensajes`,ss:()=>`Regenerar respuesta`,st:()=>`Reenviar mensaje`};export{t as default};
+//# sourceMappingURL=9738797f6274a02b-DyrRYhUG.js.map

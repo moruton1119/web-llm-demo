@@ -1,0 +1,1 @@
+{"version":3,"file":"c7320b209ad56add-3clLiy0W.js","names":[],"sources":["../../../src/strings/messages/UnselectedChatPane__select_or_create_a_chat_to_start/zh-Hans.ts"],"sourcesContent":["export const UnselectedChatPane__select_or_create_a_chat_to_start = (): string => '选择或创建聊天以开始';\n"],"mappings":"cAAkF"}

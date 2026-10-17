@@ -1,0 +1,1 @@
+{"version":3,"file":"68bca216d450fc4e-CVuhrpaO.js","names":[],"sources":["../../../src/strings/messages/fileExplorer__empty/de.ts"],"sourcesContent":["export const fileExplorer__empty = (): string => 'Leer';\n"],"mappings":"cAAiD"}

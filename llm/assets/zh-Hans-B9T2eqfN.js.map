@@ -1,0 +1,1 @@
+{"version":3,"file":"zh-Hans-B9T2eqfN.js","names":[],"sources":["../../../src/strings/messages/fileExplorer__close/zh-Hans.ts"],"sourcesContent":["export const fileExplorer__close = (): string => '关闭';\n"],"mappings":"AAAA,IAAa,MAAoC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"pt-BR-BZY7FC1J2.js","names":[],"sources":["../../../src/strings/messages/fileExplorer__folder/pt-BR.ts"],"sourcesContent":["export const fileExplorer__folder = (): string => 'Pasta';\n"],"mappings":"AAAA,IAAa,MAAqC"}

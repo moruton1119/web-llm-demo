@@ -1,0 +1,1 @@
+{"version":3,"file":"pt-BR-DrGcI69r.js","names":[],"sources":["../../../src/strings/messages/stableDiffusionCppBrowser__generate/pt-BR.ts"],"sourcesContent":["// English fallback for this experimental workspace.\nexport const stableDiffusionCppBrowser__generate = (): string => \"Generate\";\n"],"mappings":"AACA,IAAa,MAAoD"}

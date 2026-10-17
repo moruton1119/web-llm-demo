@@ -1,0 +1,1 @@
+{"version":3,"file":"zh-Hans-DrGcI69r2.js","names":[],"sources":["../../../src/strings/messages/stableDiffusionCppBrowser__generate/zh-Hans.ts"],"sourcesContent":["// English fallback for this experimental workspace.\nexport const stableDiffusionCppBrowser__generate = (): string => \"Generate\";\n"],"mappings":"AACA,IAAa,MAAoD"}

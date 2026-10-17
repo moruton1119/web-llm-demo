@@ -1,0 +1,1 @@
+{"version":3,"file":"ja-CdQlj-i12.js","names":[],"sources":["../../../src/strings/messages/SHARED__browser_provided/ja.ts"],"sourcesContent":["export const SHARED__browser_provided = (): string => 'ブラウザ提供';\n"],"mappings":"AAAA,IAAa,MAAyC"}

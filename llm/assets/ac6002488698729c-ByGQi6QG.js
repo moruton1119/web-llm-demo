@@ -1,0 +1,2 @@
+import{t as e}from"./de-CuZVKdD-2.js";var t={aB:({count:e})=>`${e} ${e===1?`CHAT`:`CHATS`}`,aC:()=>`Leere Gruppe`,aD:()=>`Gruppenvorschau`,aE:()=>`Chat öffnen`,aF:()=>`Chat für die Vorschau auswählen`,o:e};export{t as default};
+//# sourceMappingURL=ac6002488698729c-ByGQi6QG.js.map

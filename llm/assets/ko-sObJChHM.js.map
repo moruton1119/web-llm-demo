@@ -1,0 +1,1 @@
+{"version":3,"file":"ko-sObJChHM.js","names":[],"sources":["../../../src/strings/messages/fileExplorer__files/ko.ts"],"sourcesContent":["export const fileExplorer__files = (): string => '파일';\n"],"mappings":"AAAA,IAAa,MAAoC"}

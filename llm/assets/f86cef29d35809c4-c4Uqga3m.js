@@ -1,0 +1,2 @@
+var e={iN:()=>`Global Settings`,iO:()=>`Set the defaults for every chat. Chat groups and individual chats can override each tool independently.`,iP:()=>`Tools`};export{e as default};
+//# sourceMappingURL=f86cef29d35809c4-c4Uqga3m.js.map

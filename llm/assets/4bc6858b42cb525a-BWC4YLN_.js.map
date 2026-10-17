@@ -1,0 +1,1 @@
+{"version":3,"file":"4bc6858b42cb525a-BWC4YLN_.js","names":[],"sources":["../../../src/strings/messages/fileExplorer__empty_folder/pt-BR.ts"],"sourcesContent":["export const fileExplorer__empty_folder = (): string => 'Pasta vazia';\n"],"mappings":"cAAwD"}

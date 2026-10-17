@@ -1,0 +1,1 @@
+{"version":3,"file":"de-BukfVfqK.js","names":[],"sources":["../../../src/strings/messages/naidanRpc__no_connections/de.ts"],"sourcesContent":["export const naidanRpc__no_connections = (): string => \"Keine gespeicherten Verbindungen. Registriere eine im Tab „Naidan RPC“.\";\n"],"mappings":"AAAA,IAAa,MAA0C"}

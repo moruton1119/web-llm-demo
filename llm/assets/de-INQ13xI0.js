@@ -1,0 +1,2 @@
+var e=()=>`Gespeicherte Verbindung auswählen`,t=()=>`Aktiviere zuerst Naidan RPC in den Entwicklereinstellungen.`,n=()=>`Naidan RPC-Einstellungen öffnen`;export{t as n,e as r,n as t};
+//# sourceMappingURL=de-INQ13xI0.js.map

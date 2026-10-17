@@ -1,0 +1,2 @@
+import{t as e}from"./zh-Hans-CSnF0uLM.js";var t={aB:({count:e})=>`${e} 个聊天`,aC:()=>`空组`,aD:()=>`组预览`,aE:()=>`打开聊天`,aF:()=>`选择要预览的聊天`,o:e};export{t as default};
+//# sourceMappingURL=ac6002488698729c-Dz9-Y-K2.js.map

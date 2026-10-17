@@ -1,0 +1,1 @@
+{"version":3,"file":"zh-Hans-DXOpntnW.js","names":[],"sources":["../../../src/strings/messages/llamaCppBrowserDownloads__resume/zh-Hans.ts"],"sourcesContent":["export const llamaCppBrowserDownloads__resume = (): string => \"继续\";\n"],"mappings":"AAAA,IAAa,MAAiD"}

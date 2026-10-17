@@ -1,0 +1,1 @@
+{"version":3,"file":"pt-BR-DwPLO_sk2.js","names":[],"sources":["../../../src/strings/messages/fileExplorer__name/pt-BR.ts","../../../src/strings/messages/fileExplorer__size/pt-BR.ts"],"sourcesContent":["export const fileExplorer__name = (): string => 'Nome';\n","export const fileExplorer__size = (): string => 'Tamanho';\n"],"mappings":"AAAA,IAAa,MAAmC,OCAnC,MAAmC"}

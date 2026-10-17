@@ -1,0 +1,1 @@
+{"version":3,"file":"ko-dLWv9JFL.js","names":[],"sources":["../../../src/strings/messages/MessageActions__copied/ko.ts"],"sourcesContent":["export const MessageActions__copied = (): string => '복사됨!';\n"],"mappings":"AAAA,IAAa,MAAuC"}

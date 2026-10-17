@@ -1,0 +1,2 @@
+var e={pW:()=>`복사하지 못했습니다. URL을 선택하여 직접 복사하세요.`,pX:()=>`URL 복사`,pY:()=>`현재 처리 중인 파일`,pZ:()=>`파일 및 다운로드 출처`,p$:()=>`Naidan이 요청하는 파일 URL입니다.`,p_:()=>`리비전`,qa:()=>`URL을 복사했습니다.`};export{e as default};
+//# sourceMappingURL=6d340ebfc7918c90-Ucuh5HrR.js.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"pt-BR-jvw-njeC2.js","names":[],"sources":["../../../src/strings/messages/fileExplorer__delete/pt-BR.ts"],"sourcesContent":["export const fileExplorer__delete = (): string => 'Excluir';\n"],"mappings":"AAAA,IAAa,MAAqC"}

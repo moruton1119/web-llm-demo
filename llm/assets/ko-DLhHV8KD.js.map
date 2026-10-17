@@ -1,0 +1,1 @@
+{"version":3,"file":"ko-DLhHV8KD.js","names":[],"sources":["../../../src/strings/messages/llamaCppBrowser__files_changed_review_before_deleting/ko.ts"],"sourcesContent":["export const llamaCppBrowser__files_changed_review_before_deleting = (): string => \"파일이 변경되어 삭제를 중단했습니다. 목록을 확인한 후 다시 시도하세요.\";\n"],"mappings":"AAAA,IAAa,MAAsE"}

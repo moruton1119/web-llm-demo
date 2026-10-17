@@ -1,0 +1,2 @@
+var e={jv:()=>`Descargar imagen`,jw:()=>`Incrustar prompt, semilla, etc.`,jx:()=>`Más opciones`,jy:()=>`No compatible con este formato`,jz:()=>`Con metadatos`};export{e as default};
+//# sourceMappingURL=a603ab3620074b55-DLNIEUHT.js.map

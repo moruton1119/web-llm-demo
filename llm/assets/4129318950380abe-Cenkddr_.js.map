@@ -1,0 +1,1 @@
+{"version":3,"file":"4129318950380abe-Cenkddr_.js","names":[],"sources":["../../../src/strings/messages/blockMarkdown__unknown_token_type/en.ts"],"sourcesContent":["export const blockMarkdown__unknown_token_type = ({ tokenType }: { tokenType: string }): string => `Unknown token type: ${tokenType}`;\n"],"mappings":"WAAkD,CAAA,EAAE,KAA+C,uBAAuB"}

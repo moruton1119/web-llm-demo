@@ -1,0 +1,1 @@
+{"version":3,"file":"zh-Hans-C66JAkPZ.js","names":[],"sources":["../../../src/strings/messages/ImageInfoDisplay__copy_prompt/zh-Hans.ts"],"sourcesContent":["export const ImageInfoDisplay__copy_prompt = (): string => '复制提示词';\n"],"mappings":"AAAA,IAAa,MAA8C"}

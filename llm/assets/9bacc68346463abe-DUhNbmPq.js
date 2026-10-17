@@ -1,0 +1,2 @@
+import{t as e}from"./zh-Hans-8SqsMXK1.js";import{t}from"./zh-Hans-Bw31wemN.js";var n={oc:()=>`搜索候选项`,od:()=>`使用模型内置组件`,tm:t,Po:e,Tf:()=>`必需`,TR:()=>`不可选择`,UX:()=>`选择模型文件`,Ve:()=>`结构匹配（未验证权重一致性）`,Vh:()=>`未验证`};export{n as default};
+//# sourceMappingURL=9bacc68346463abe-DUhNbmPq.js.map

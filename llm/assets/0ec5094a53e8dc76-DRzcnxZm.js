@@ -1,0 +1,2 @@
+import{t as e}from"./de-DOlfLyUc.js";var t={qh:({hours:e,minutes:t})=>`Noch etwa ${e} Std. ${t} Min.`,qi:({hours:e})=>`Noch etwa ${e} Std.`,qj:({minutes:e})=>`Noch etwa ${e} Min.`,qk:({seconds:e})=>`Noch etwa ${e} Sekunden`,qz:e,qA:()=>`Verbleibende Zeit wird geschätzt…`,qI:()=>`Abschließende Prüfung…`};export{t as default};
+//# sourceMappingURL=0ec5094a53e8dc76-DRzcnxZm.js.map

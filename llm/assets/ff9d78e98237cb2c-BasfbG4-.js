@@ -1,0 +1,2 @@
+import{t as e}from"./es-8ehYzYUh.js";import{t}from"./es-D8_zjUcc.js";var n={Jb:()=>`Archivo binario`,Jg:()=>`Cerrar vista previa`,Jr:e,JP:()=>`El archivo es demasiado grande para previsualizarlo`,JS:t,JU:()=>`Formato`,J_:()=>`Cargar de todos modos`,Kd:()=>`Modificado:`,KB:()=>`Vista previa`,KH:()=>`Selecciona un archivo`,KM:()=>`Tamaño:`};export{n as default};
+//# sourceMappingURL=ff9d78e98237cb2c-BasfbG4-.js.map

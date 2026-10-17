@@ -1,0 +1,2 @@
+var e={xj:()=>`The browser-provided model is ready.`,xn:()=>`Checking browser-provided language model availability…`,xs:()=>`Downloading browser-provided model…`,xt:({a:e})=>`Downloading browser-provided model: ${e}%`,xF:()=>`Prepare browser-provided model`,xG:()=>`Preparing browser-provided model…`,r:()=>`Uses a language model provided and managed by the browser.`};export{e as default};
+//# sourceMappingURL=1a4c1eee8dff3f5e-BLlr6rOS.js.map

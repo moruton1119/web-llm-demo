@@ -1,0 +1,1 @@
+{"version":3,"file":"ko-Dfbv_KoL.js","names":[],"sources":["../../../src/strings/messages/llamaCppBrowserDownloads__resume/ko.ts"],"sourcesContent":["export const llamaCppBrowserDownloads__resume = (): string => \"다시 시작\";\n"],"mappings":"AAAA,IAAa,MAAiD"}

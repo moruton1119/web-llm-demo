@@ -1,0 +1,2 @@
+var e={VH:()=>`바이너리 객체를 삭제할까요?`,VI:({name:e})=>`"${e}" 파일을 삭제하시겠습니까? 이 작업은 실행 취소할 수 없습니다. 이 파일을 참조하는 채팅 메시지에서는 파일이 누락된 것으로 표시됩니다.`,VJ:()=>`영구 삭제`};export{e as default};
+//# sourceMappingURL=ee13183a504f8ded-BwfZ70YC.js.map

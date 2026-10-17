@@ -1,0 +1,2 @@
+import{n as e,t}from"./zh-Hans-CIBKTmPn.js";var n={hi:()=>`创建长示例聊天`,hj:()=>`创建示例聊天`,hl:()=>`调试与测试`,hn:()=>`开发者工具`,hp:()=>`实验性功能`,hq:()=>`执行一次简单的窗口重新加载`,hr:()=>`重新加载应用`,hw:()=>`添加示例对话，用于渲染检查和长对话导航测试。`,hx:()=>`模拟 PWA 更新`,hy:()=>`切换更新通知以进行测试`,tU:e,uj:t};export{n as default};
+//# sourceMappingURL=308eb922f4ef543a-CEXG3ORP.js.map

@@ -1,0 +1,2 @@
+var e={gO:()=>`생성된 URL에서 제외할 데이터를 선택하세요.`,gP:({host:e})=>`${e}용 URL 복사됨`,gQ:({host:e})=>`${e}용 URL 복사`,gR:()=>`선별됨`,gS:()=>`develop 브랜치`,gT:()=>`첨부 파일 제외`,gU:()=>`채팅 기록 제외`,gV:()=>`채팅 제외`,gW:()=>`제외된 데이터`,gX:({errorMessage:e})=>`현재 상태 URL을 복사하지 못했습니다: ${e}`,gY:({errorMessage:e})=>`현재 상태 URL을 열지 못했습니다: ${e}`,gZ:()=>`로컬 전용`,g$:()=>`현재 상태 열기`,g_:({host:e})=>`${e} 열기`,ha:()=>`URL로 공유와 동일한 URL 가져오기 형식을 사용하여 다른 배포에서 이 저장소 상태를 엽니다.`,hb:()=>`프로덕션`,hc:()=>`표준`,hd:()=>`상태 내용`};export{e as default};
+//# sourceMappingURL=39e03c71b057b55b-CQL3gQvZ.js.map

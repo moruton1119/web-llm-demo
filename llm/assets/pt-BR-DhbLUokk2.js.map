@@ -1,0 +1,1 @@
+{"version":3,"file":"pt-BR-DhbLUokk2.js","names":[],"sources":["../../../src/strings/messages/fileExplorer__download/pt-BR.ts"],"sourcesContent":["export const fileExplorer__download = (): string => 'Baixar';\n"],"mappings":"AAAA,IAAa,MAAuC"}

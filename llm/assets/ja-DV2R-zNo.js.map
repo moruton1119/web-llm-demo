@@ -1,0 +1,1 @@
+{"version":3,"file":"ja-DV2R-zNo.js","names":[],"sources":["../../../src/strings/messages/SHARED__assistant/ja.ts"],"sourcesContent":["export const SHARED__assistant = (): string => 'アシスタント';\n"],"mappings":"AAAA,IAAa,MAAkC"}

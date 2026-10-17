@@ -1,0 +1,1 @@
+{"version":3,"file":"1950867418996272-DFCRx1IA.js","names":[],"sources":["../../../src/strings/messages/fileExplorer__selected_count_label/de.ts"],"sourcesContent":["export const fileExplorer__selected_count_label = ({ count }: { count: number }): string => `${count} ausgewählt`;\n"],"mappings":"qDAAmD,CAAE,WAAuC,GAAG,EAAM"}

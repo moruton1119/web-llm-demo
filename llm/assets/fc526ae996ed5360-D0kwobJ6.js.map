@@ -1,0 +1,1 @@
+{"version":3,"file":"fc526ae996ed5360-D0kwobJ6.js","names":[],"sources":["../../../src/strings/messages/TransformersJsLoadingIndicator__loading_model_progress/zh-Hans.ts"],"sourcesContent":["export const TransformersJsLoadingIndicator__loading_model_progress = ({ progress }: { progress: number }): string => `(${progress}%) 正在加载模型...`;\n"],"mappings":"WAAuE,CAAE,cAA6C,IAAI,EAAS"}

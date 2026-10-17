@@ -1,0 +1,2 @@
+var e={Cm:({modelName:e})=>`Baixando ${e}...`,Cn:()=>`Baixando os pesos do modelo do Hugging Face. Isso acontece apenas uma vez por modelo.`,Co:({modelName:e})=>`Inicializando ${e}...`,Cq:()=>`Carregando os pesos do modelo na memória do navegador para inferência local.`,Cr:()=>`modelo`,Cs:()=>`Execução no dispositivo`,Ct:()=>`Erro do Transformers.js`};export{e as default};
+//# sourceMappingURL=32b9a214b1bdad27-B5gQOJLB.js.map

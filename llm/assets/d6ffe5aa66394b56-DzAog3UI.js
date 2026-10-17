@@ -1,0 +1,2 @@
+var e={yS:()=>`Name der Chatgruppe`,yT:({recipeCount:e})=>`Erkannte Rezepte (${e})`,yU:()=>`Importiere vordefinierte Chatgruppen-Einstellungen (Prompts, Parameter und Modellregeln) aus JSON.`,yV:()=>`Auswahl importieren`,yW:()=>`Modellauswahl`,yX:()=>`Rezept-JSON einfügen (verkettete JSON-Objekte werden unterstützt)`,yY:()=>`Rezepte`,yZ:({behavior:e})=>`System-Prompt (${e})`,y$:()=>`Standardmodell verwenden`};export{e as default};
+//# sourceMappingURL=d6ffe5aa66394b56-DzAog3UI.js.map

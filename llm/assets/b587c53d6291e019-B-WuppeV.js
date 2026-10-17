@@ -1,0 +1,2 @@
+import{t as e}from"./ja-BxJxIZYX.js";var t={Pg:({a:e})=>`${e}件取得中`,Ph:()=>`すべて`,Ps:()=>`ほかのモデルを探す`,Pv:()=>`メモリ`,Pw:()=>`モデルカタログ`,Qr:e};export{t as default};
+//# sourceMappingURL=b587c53d6291e019-B-WuppeV.js.map

@@ -1,0 +1,2 @@
+import{t as e}from"./de-B0wJnwYW.js";import{t}from"./de-ux1P7Czx.js";import{t as n}from"./de-DVF13XOh.js";import{t as r}from"./de-CWbz9ZrM.js";var i={d:e,PU:()=>`GGUF-Dateien auswählen`,PV:()=>`Modellordner auswählen`,PZ:()=>`Modellordner oder GGUF-Dateien hier ablegen`,Qc:r,Qd:n,Qr:t,Qs:()=>`Oder heruntergeladene Dateien auf Ihrem Gerät auswählen. Sie werden lokal in diesem Browser gespeichert.`};export{i as default};
+//# sourceMappingURL=ceba77d78edab0af-Dz1qXfQ5.js.map

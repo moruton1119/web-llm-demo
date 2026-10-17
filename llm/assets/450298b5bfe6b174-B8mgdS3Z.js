@@ -1,0 +1,2 @@
+import{t as e}from"./ja-DZeua_K3.js";import{t}from"./ja-D5cuhyld.js";var n={zV:()=>`デバッグイベント`,zW:()=>`ファイルエクスプローラー`,zX:()=>`その他の操作`,zY:()=>`クイックアクセス`,zZ:()=>`最近のチャット`,z$:()=>`Wesh ターミナル`,Fl:e,TN:t};export{n as default};
+//# sourceMappingURL=450298b5bfe6b174-B8mgdS3Z.js.map

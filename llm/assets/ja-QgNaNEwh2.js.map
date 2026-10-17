@@ -1,0 +1,1 @@
+{"version":3,"file":"ja-QgNaNEwh2.js","names":[],"sources":["../../../src/strings/messages/llamaCppBrowserDownloads__set_as_default/ja.ts"],"sourcesContent":["export const llamaCppBrowserDownloads__set_as_default = (): string => \"デフォルトに設定\";\n"],"mappings":"AAAA,IAAa,MAAyD"}

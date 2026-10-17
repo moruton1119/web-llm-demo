@@ -1,0 +1,1 @@
+{"version":3,"file":"ja-CBVWqUbD2.js","names":[],"sources":["../../../src/strings/messages/llamaCppBrowserDownloads__waiting/ja.ts"],"sourcesContent":["export const llamaCppBrowserDownloads__waiting = (): string => \"待機中\";\n"],"mappings":"AAAA,IAAa,MAAkD"}

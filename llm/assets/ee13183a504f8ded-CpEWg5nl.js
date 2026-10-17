@@ -1,0 +1,2 @@
+var e={VH:()=>`¿Eliminar objeto binario?`,VI:({name:e})=>`¿Seguro que quieres eliminar "${e}"? Esta acción no se puede deshacer. Los mensajes de chat que hagan referencia a este archivo lo mostrarán como ausente.`,VJ:()=>`Eliminar permanentemente`};export{e as default};
+//# sourceMappingURL=ee13183a504f8ded-CpEWg5nl.js.map

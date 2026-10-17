@@ -1,0 +1,1 @@
+{"version":3,"file":"ko-DmtMsbBp.js","names":[],"sources":["../../../src/strings/messages/llamaCppBrowserDownloads__pause/ko.ts"],"sourcesContent":["export const llamaCppBrowserDownloads__pause = (): string => \"일시중지\";\n"],"mappings":"AAAA,IAAa,MAAgD"}

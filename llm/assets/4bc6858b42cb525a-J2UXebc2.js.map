@@ -1,0 +1,1 @@
+{"version":3,"file":"4bc6858b42cb525a-J2UXebc2.js","names":[],"sources":["../../../src/strings/messages/fileExplorer__empty_folder/de.ts"],"sourcesContent":["export const fileExplorer__empty_folder = (): string => 'Leerer Ordner';\n"],"mappings":"cAAwD"}

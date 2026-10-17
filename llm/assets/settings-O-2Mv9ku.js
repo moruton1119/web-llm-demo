@@ -1,0 +1,2 @@
+import{D as e,S as t,V as n,W as r,j as i}from"./vue.runtime.esm-bundler-CbicM13T.js";import{ln as a}from"./app-DnBqaxXf.js";i();var o=e({__name:`index`,setup(e,{expose:i}){let o=a();return n(()=>{o.replace(`/settings/connection`)}),i({}),(e,n)=>(r(),t(`div`))}});export{o as default};
+//# sourceMappingURL=settings-O-2Mv9ku.js.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"zh-Hans-CpQoYoYH.js","names":[],"sources":["../../../src/strings/messages/MessageActions__copied/zh-Hans.ts"],"sourcesContent":["export const MessageActions__copied = (): string => '已复制！';\n"],"mappings":"AAAA,IAAa,MAAuC"}

@@ -1,0 +1,2 @@
+var e={jv:()=>`Bild herunterladen`,jw:()=>`Prompt, Seed usw. einbetten`,jx:()=>`Weitere Optionen`,jy:()=>`Für dieses Format nicht unterstützt`,jz:()=>`Mit Metadaten`};export{e as default};
+//# sourceMappingURL=a603ab3620074b55-BqNMYu8z.js.map

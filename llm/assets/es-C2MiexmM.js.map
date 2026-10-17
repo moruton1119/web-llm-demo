@@ -1,0 +1,1 @@
+{"version":3,"file":"es-C2MiexmM.js","names":[],"sources":["../../../src/strings/messages/imageGeneration__favorite/es.ts","../../../src/strings/messages/imageGeneration__tags/es.ts"],"sourcesContent":["export const imageGeneration__favorite = (): string => \"Favorite\";\n","export const imageGeneration__tags = (): string => \"Tags\";\n"],"mappings":"AAAA,IAAa,MAA0C,WCA1C,MAAsC"}

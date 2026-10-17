@@ -1,0 +1,1 @@
+{"version":3,"file":"es-i1BCNqC1.js","names":[],"sources":["../../../src/strings/messages/stableDiffusionCppBrowser__generation_time/es.ts"],"sourcesContent":["export const stableDiffusionCppBrowser__generation_time = (): string => \"Tiempo\";\n"],"mappings":"AAAA,IAAa,MAA2D"}

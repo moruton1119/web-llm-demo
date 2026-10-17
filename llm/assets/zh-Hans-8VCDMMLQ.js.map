@@ -1,0 +1,1 @@
+{"version":3,"file":"zh-Hans-8VCDMMLQ.js","names":[],"sources":["../../../src/strings/messages/volumes__delete/zh-Hans.ts"],"sourcesContent":["export const volumes__delete = (): string => '删除';\n"],"mappings":"AAAA,IAAa,MAAgC"}

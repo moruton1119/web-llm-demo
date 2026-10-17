@@ -1,0 +1,2 @@
+import{n as e,r as t,t as n}from"./pt-BR-BcIpFGHI.js";var r={Hm:()=>`Fechar (Esc)`,Hn:()=>`Copiar nome`,Hp:t,Hq:e,Hr:()=>`Este tipo de arquivo não pode ser visualizado diretamente.`,Hs:()=>`CARREGANDO...`,Hy:()=>`Visualização indisponível`,Hz:()=>`Redefinir zoom`,HC:n,HD:()=>`Aumentar zoom`,HE:()=>`Diminuir zoom`};export{r as default};
+//# sourceMappingURL=4d2331cba501c69d-CkL0Dz1-.js.map

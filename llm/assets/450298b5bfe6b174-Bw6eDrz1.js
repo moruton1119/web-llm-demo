@@ -1,0 +1,2 @@
+import{t as e}from"./ko-sZ9aav-o.js";import{t}from"./ko-BOSuZQRk.js";var n={zV:()=>`디버그 이벤트`,zW:()=>`파일 탐색기`,zX:()=>`추가 작업`,zY:()=>`빠른 액세스`,zZ:()=>`최근 채팅`,z$:()=>`Wesh 터미널`,Fl:e,TN:t};export{n as default};
+//# sourceMappingURL=450298b5bfe6b174-Bw6eDrz1.js.map

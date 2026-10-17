@@ -1,0 +1,2 @@
+import{t as e}from"./de-DAySwLMk.js";var t={nf:e,ng:()=>`Seed kopieren`,nh:()=>`Bildinformationen`,ni:()=>`Prompt`,nj:()=>`Seed`,nk:()=>`Größe`,nl:()=>`Schritte`};export{t as default};
+//# sourceMappingURL=444892d141a90c6d-fpCiuWjY.js.map

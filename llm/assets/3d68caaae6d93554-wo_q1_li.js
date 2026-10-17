@@ -1,0 +1,2 @@
+var e={jA:()=>`Descargar`,jB:()=>`Opciones de descarga`,jC:()=>`Se aplica a la copia descargada. Las imágenes guardadas no cambian.`,jD:()=>`Formato de imagen`,jE:()=>`Incluir ajustes de generación`};export{e as default};
+//# sourceMappingURL=3d68caaae6d93554-wo_q1_li.js.map

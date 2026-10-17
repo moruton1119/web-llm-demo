@@ -1,0 +1,2 @@
+var e=()=>`Ziel für GPU-Arbeitsspeicher (MiB)`,t=()=>`Execution profile`,n=()=>`Gewichts-Residenz`,r=()=>`Automatisch (empfohlen)`,i=()=>`CPU-gestützte Gewichte`,a=()=>`Festplatten-gestützte Gewichte`,o=()=>`Hybrid (Text/VAE auf CPU, Diffusion von Datenträger)`;export{n as a,r as i,a as n,t as o,i as r,e as s,o as t};
+//# sourceMappingURL=de-DE3acKDC.js.map

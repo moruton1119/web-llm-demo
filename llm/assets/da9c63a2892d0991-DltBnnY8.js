@@ -1,0 +1,2 @@
+var e={gw:()=>`Debug`,gx:()=>`Debug tools`,gy:()=>`File-protocol standalone verification`,gz:()=>`Open an isolated diagnostic page without adding Debug-only behavior to the normal application flow.`,gA:()=>`Verify generated scripts, routing, lazy styles, SystemJS recovery, and the reusable Worker factory.`};export{e as default};
+//# sourceMappingURL=da9c63a2892d0991-DltBnnY8.js.map

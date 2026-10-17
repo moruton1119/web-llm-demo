@@ -1,0 +1,2 @@
+import{t as e}from"./ja-DS29AZwW2.js";import{t}from"./ja-DmKKja9v2.js";import{n,t as r}from"./ja-D-tkIkYt.js";var i={Ji:()=>`コピー`,Jl:()=>`切り取り`,Jm:e,Jr:t,JV:()=>`情報を見る`,Kf:n,Kh:r,Km:()=>`開く`,Kp:()=>`貼り付け`,KE:()=>`名前を変更`,KI:()=>`すべて選択`,KQ:()=>`ロックを解除すると有効になります`};export{i as default};
+//# sourceMappingURL=dfd99cc48f97773c-BlLM6E0X.js.map

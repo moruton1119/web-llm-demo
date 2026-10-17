@@ -1,0 +1,1 @@
+{"version":3,"file":"ko-Bxrkieqh.js","names":[],"sources":["../../../src/strings/messages/contextCompact__compact_context/ko.ts"],"sourcesContent":["export const contextCompact__compact_context = (): string => '컨텍스트 압축';\n"],"mappings":"AAAA,IAAa,MAAgD"}

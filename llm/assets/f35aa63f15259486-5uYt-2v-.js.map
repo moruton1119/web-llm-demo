@@ -1,0 +1,1 @@
+{"version":3,"file":"f35aa63f15259486-5uYt-2v-.js","names":[],"sources":["../../../src/strings/messages/weshTerminal__debug_terminal/es.ts"],"sourcesContent":["export const weshTerminal__debug_terminal = (): string => 'Terminal de depuración';\n"],"mappings":"yFAA0D"}

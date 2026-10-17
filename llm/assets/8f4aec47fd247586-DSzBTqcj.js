@@ -1,0 +1,2 @@
+import{t as e}from"./ko-Bxrkieqh.js";var t={Im:()=>`균형`,Io:()=>`취소`,Ip:()=>`압축`,Iq:e,Ir:()=>`지금 압축`,Is:()=>`압축 프롬프트`,Iv:({count:e})=>`압축하면 처음 ${e}개 메시지가 하나의 요약으로 합쳐집니다. 핵심 컨텍스트를 유지하면서 토큰 사용량을 줄입니다.`,Ix:()=>`심층`,Iy:()=>`편집 가능한 프롬프트`,IA:()=>`메모리 재구성`,IB:()=>`유지할 메시지`,IC:()=>`컨텍스트 더 많이`,ID:()=>`기록 더 많이`,IH:({count:e})=>`압축할 항목 ${e}개`,II:({count:e})=>`유지할 항목 ${e}개`};export{t as default};
+//# sourceMappingURL=8f4aec47fd247586-DSzBTqcj.js.map

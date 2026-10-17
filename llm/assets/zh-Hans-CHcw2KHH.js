@@ -1,0 +1,2 @@
+var e=()=>`添加适配器`,t=()=>`请选择适用于当前模型的适配器。生成图像成功并不代表 LoRA 已应用。启用调试模式可查看运行日志。这些选择不会保存。`,n=()=>`选择已保存的适配器`,r=()=>`启用`,i=()=>`LoRA`,a=()=>`移除`,o=()=>`已保存的适配器`,s=({count:e})=>`已启用${e}个`,c=()=>`强度`;export{i as a,t as c,a as i,e as l,s as n,r as o,o as r,n as s,c as t};
+//# sourceMappingURL=zh-Hans-CHcw2KHH.js.map

@@ -1,0 +1,2 @@
+var e={gj:()=>`압축 중단`,gk:()=>`요청 숨기기`,gl:()=>`실시간 출력`,gm:()=>`요청 표시`,Ik:()=>`중단됨.`,Il:()=>`압축 브랜치 적용 중.`,In:()=>`압축 요청 생성 중.`,It:()=>`컨텍스트 압축 중`,Iu:()=>`컨텍스트 압축 실패`,Iw:()=>`완료.`,Iz:({outputChars:e})=>`압축 컨텍스트 생성 중, ${e}자 수신됨.`,IE:({compactedMessageCount:e,suffixMessageCount:t})=>`메시지 ${e}개를 준비하고 최근 ${t}개를 유지합니다.`,IJ:()=>`모델을 기다리는 중.`};export{e as default};
+//# sourceMappingURL=664f1de5a0260fda-COO4pq-i.js.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"pt-BR-o_Ef6WTn.js","names":[],"sources":["../../../src/strings/messages/WelcomeScreen__data_is_cleared_on_reload/pt-BR.ts"],"sourcesContent":["export const WelcomeScreen__data_is_cleared_on_reload = (): string => 'Os dados são apagados ao recarregar.';\n"],"mappings":"AAAA,IAAa,MAAyD"}

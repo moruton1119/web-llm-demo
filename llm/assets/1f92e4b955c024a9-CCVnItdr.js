@@ -1,0 +1,2 @@
+import{t as e}from"./ko-iyYOisV7.js";var t={ym:()=>`필터`,yn:()=>`최근 채팅 필터링...`,yo:()=>`이동`,yp:()=>`필터와 일치하는 채팅이 없습니다.`,yq:()=>`최근 채팅이 없습니다.`,yr:()=>`꺼짐`,ys:()=>`켜짐`,yt:()=>`빠른 보기`,yu:()=>`미리 보기`,yv:()=>`선택`,o:e};export{t as default};
+//# sourceMappingURL=1f92e4b955c024a9-CCVnItdr.js.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"ja-DtdWs_A8.js","names":[],"sources":["../../../src/strings/messages/fileExplorer__close/ja.ts"],"sourcesContent":["export const fileExplorer__close = (): string => '閉じる';\n"],"mappings":"AAAA,IAAa,MAAoC"}

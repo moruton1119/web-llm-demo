@@ -1,0 +1,2 @@
+import{t as e}from"./pt-BR-DJF0oLBv.js";import{t}from"./pt-BR-ps8D4AMQ.js";var n={d:e,S$:()=>`Escolher pasta`,TO:()=>`Importar modelos locais`,TP:()=>`Solte uma pasta de modelo aqui ou selecione uma para adicioná-la.`,TQ:()=>`Copiando repositório para o armazenamento local…`,UM:t};export{n as default};
+//# sourceMappingURL=a2265e8ea40c4475-B8vYJcNH.js.map

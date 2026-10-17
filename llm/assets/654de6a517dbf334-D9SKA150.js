@@ -1,0 +1,2 @@
+import{a as e,i as t,n,r,t as i}from"./pt-BR-CLWe-24d2.js";var a={ye:e,yf:()=>`* Os níveis de esforço podem ser ignorados por alguns modelos.`,yg:t,yh:r,yi:()=>`Méd.`,yj:n,yk:i,yl:()=>`Pensar`};export{a as default};
+//# sourceMappingURL=654de6a517dbf334-D9SKA150.js.map

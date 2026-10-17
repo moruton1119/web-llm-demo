@@ -1,0 +1,2 @@
+var e={gn:()=>`AI`,go:()=>`Close Conversation Outline`,gp:()=>`Conversation Outline`,gq:()=>`(empty message)`,gr:()=>`Peek`,gs:()=>`System`,gt:()=>`Tool`,gu:()=>`You`};export{e as default};
+//# sourceMappingURL=e56153d0b3c59e5d-FLQZ5oq_.js.map

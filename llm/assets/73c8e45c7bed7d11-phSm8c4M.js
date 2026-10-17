@@ -1,0 +1,2 @@
+import{t as e}from"./de-BoZmzJXR.js";var t={l:e,VN:()=>`Bild konnte nicht generiert werden.`,VO:({format:e})=>`Bild konnte nicht in ${e} neu kodiert werden; das Original wird verwendet`,VP:()=>`Kein geeignetes Bildgenerierungsmodell gefunden (beginnend mit x/z-image-turbo:)`};export{t as default};
+//# sourceMappingURL=73c8e45c7bed7d11-phSm8c4M.js.map

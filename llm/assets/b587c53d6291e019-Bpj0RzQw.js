@@ -1,0 +1,2 @@
+import{t as e}from"./de-ux1P7Czx.js";var t={Pg:({count:e})=>`${e} aktiv`,Ph:()=>`Alle`,Ps:()=>`Weitere Modelle entdecken`,Pv:()=>`Arbeitsspeicher`,Pw:()=>`Modellkatalog`,Qr:e};export{t as default};
+//# sourceMappingURL=b587c53d6291e019-Bpj0RzQw.js.map

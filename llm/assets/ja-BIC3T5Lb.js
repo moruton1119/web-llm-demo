@@ -1,0 +1,2 @@
+var e=({a:e})=>`ほか ${e} 件`,t=()=>`プロセスの詳細`,n=({a:e})=>`思考 ${e} ステップ`,r=({a:e})=>`ツール実行 ${e} 件`,i=({a:e})=>`使用したツール：${e}`;export{e as a,t as i,r as n,n as r,i as t};
+//# sourceMappingURL=ja-BIC3T5Lb.js.map

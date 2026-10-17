@@ -1,0 +1,1 @@
+{"version":3,"file":"4bc6858b42cb525a-Dyp2OVKo.js","names":[],"sources":["../../../src/strings/messages/fileExplorer__empty_folder/en.ts"],"sourcesContent":["export const fileExplorer__empty_folder = (): string => 'Empty Folder';\n"],"mappings":"cAAwD"}

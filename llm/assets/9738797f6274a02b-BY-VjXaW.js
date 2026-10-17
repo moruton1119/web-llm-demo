@@ -1,0 +1,2 @@
+import{t as e}from"./de-DfZVtfPi.js";var t={sh:()=>`Versionen vergleichen`,si:e,sj:()=>`Link kopieren`,sk:()=>`Nachricht kopieren`,sl:()=>`Rohdaten kopieren`,sm:()=>`Nachricht bearbeiten`,sn:()=>`Nachrichtenlink konnte nicht kopiert werden.`,so:()=>`Chat verzweigen`,sp:()=>`Nachrichtenlink in die Zwischenablage kopiert.`,sq:()=>`Weitere Aktionen`,sr:()=>`Weitere Nachrichten-Tools`,ss:()=>`Antwort neu generieren`,st:()=>`Nachricht erneut senden`};export{t as default};
+//# sourceMappingURL=9738797f6274a02b-BY-VjXaW.js.map

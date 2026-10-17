@@ -1,0 +1,2 @@
+import{t as e}from"./de-BLps5HOK2.js";import{t}from"./de-DI3iC8Vt2.js";import{n,t as r}from"./de-bVc8P8GB.js";var i={Ji:()=>`Kopieren`,Jl:()=>`Ausschneiden`,Jm:e,Jr:t,JV:()=>`Informationen`,Kf:n,Kh:r,Km:()=>`Öffnen`,Kp:()=>`Einfügen`,KE:()=>`Umbenennen`,KI:()=>`Alle auswählen`,KQ:()=>`Zum Aktivieren entsperren`};export{i as default};
+//# sourceMappingURL=dfd99cc48f97773c-H4sf_FrU.js.map

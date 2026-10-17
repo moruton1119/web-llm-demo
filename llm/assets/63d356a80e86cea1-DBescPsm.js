@@ -1,0 +1,2 @@
+var e={VK:({a:e})=>{switch(e.type){case`titled`:return`「${e.value}」を削除しました`;case`untitled`:return`「無題」を削除しました`;default:return e}},VL:()=>`元に戻す`};export{e as default};
+//# sourceMappingURL=63d356a80e86cea1-DBescPsm.js.map

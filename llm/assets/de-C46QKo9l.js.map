@@ -1,0 +1,1 @@
+{"version":3,"file":"de-C46QKo9l.js","names":[],"sources":["../../../src/strings/messages/LlamaCppBrowserModelLaunch__chat_settings_changed/de.ts"],"sourcesContent":["export const LlamaCppBrowserModelLaunch__chat_settings_changed = (): string => \"Dieser Chat nutzt andere Einstellungen. Der Modelllink überschreibt sie nicht.\";\n"],"mappings":"AAAA,IAAa,MAAkE"}

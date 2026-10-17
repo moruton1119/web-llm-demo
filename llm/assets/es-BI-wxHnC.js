@@ -1,0 +1,2 @@
+var e=()=>`Las descargas completas del modelo están desactivadas durante la investigación, incluso si se permite el acceso a la red externa.`,t=()=>`Investigación de compatibilidad del modelo`;export{e as n,t};
+//# sourceMappingURL=es-BI-wxHnC.js.map

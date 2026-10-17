@@ -1,0 +1,1 @@
+{"version":3,"file":"88eb1c65ed22fbae-CsvfftTu.js","names":[],"sources":["../../../src/strings/messages/Sidebar__close_sidebar/ja.ts","../../../src/strings/messages/Sidebar__open_sidebar/ja.ts"],"sourcesContent":["export const Sidebar__close_sidebar = (): string => 'サイドバーを閉じる';\n","export const Sidebar__open_sidebar = (): string => 'サイドバーを開く';\n"],"mappings":"cAAoD,mBCAD"}

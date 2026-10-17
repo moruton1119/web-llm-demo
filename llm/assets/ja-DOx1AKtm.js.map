@@ -1,0 +1,1 @@
+{"version":3,"file":"ja-DOx1AKtm.js","names":[],"sources":["../../../src/strings/messages/MessageActions__copied/ja.ts"],"sourcesContent":["export const MessageActions__copied = (): string => 'コピーしました';\n"],"mappings":"AAAA,IAAa,MAAuC"}

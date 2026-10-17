@@ -1,0 +1,1 @@
+{"version":3,"file":"ja-MaiGE1Zj2.js","names":[],"sources":["../../../src/strings/messages/naidanRpc__disabled/ja.ts"],"sourcesContent":["export const naidanRpc__disabled = (): string => \"Naidan RPCは無効です\";\n"],"mappings":"AAAA,IAAa,MAAoC"}

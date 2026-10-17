@@ -1,0 +1,2 @@
+var e={xW:()=>`Delete Profile`,xX:()=>`Go to Connection to Create One`,xY:()=>`No default model`,xZ:()=>`No profiles saved yet.`,x$:({a:e})=>`Profile "${e}" deleted`,x_:()=>`Provider Profiles`,ya:()=>`Rename Profile`,yb:()=>`Save and switch between different AI provider configurations easily.`,yc:({a:e})=>`Title: ${e}`,yd:()=>`Undo`};export{e as default};
+//# sourceMappingURL=8d700ce9deb71f3c-dQ7oD_qK.js.map

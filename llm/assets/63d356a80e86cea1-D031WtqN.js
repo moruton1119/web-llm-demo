@@ -1,0 +1,2 @@
+var e={VK:({a:e})=>{switch(e.type){case`titled`:return`Chat "${e.value}" deleted`;case`untitled`:return`Chat "Untitled" deleted`;default:return e}},VL:()=>`Undo`};export{e as default};
+//# sourceMappingURL=63d356a80e86cea1-D031WtqN.js.map

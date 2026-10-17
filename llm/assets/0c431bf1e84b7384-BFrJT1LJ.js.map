@@ -1,0 +1,1 @@
+{"version":3,"file":"0c431bf1e84b7384-BFrJT1LJ.js","names":[],"sources":["../../../src/strings/messages/fileExplorer__modified/ja.ts","../../../src/strings/messages/fileExplorer__type/ja.ts"],"sourcesContent":["export const fileExplorer__modified = (): string => '更新日時';\n","export const fileExplorer__type = (): string => '種類';\n"],"mappings":"sDAAoD,wBCAJ"}

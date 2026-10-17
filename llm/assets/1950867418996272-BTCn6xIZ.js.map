@@ -1,0 +1,1 @@
+{"version":3,"file":"1950867418996272-BTCn6xIZ.js","names":[],"sources":["../../../src/strings/messages/fileExplorer__selected_count_label/en.ts"],"sourcesContent":["export const fileExplorer__selected_count_label = ({ count }: { count: number }): string => `${count} selected`;\n"],"mappings":"qDAAmD,CAAA,EAAE,KAAuC,GAAG,EAAM"}

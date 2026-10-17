@@ -1,0 +1,2 @@
+import{t as e}from"./zh-Hans-CSnF0uLM.js";var t={ym:()=>`筛选`,yn:()=>`筛选最近的聊天…`,yo:()=>`导航`,yp:()=>`没有符合筛选条件的聊天。`,yq:()=>`没有最近的聊天。`,yr:()=>`关`,ys:()=>`开`,yt:()=>`快速查看`,yu:()=>`预览`,yv:()=>`选择`,o:e};export{t as default};
+//# sourceMappingURL=1f92e4b955c024a9-Dsbf21lW.js.map

@@ -1,0 +1,2 @@
+import{t as e}from"./en-CSSB3Rtm.js";import{t}from"./en-BIcS6nRJ.js";import{n,t as r}from"./en-MMyUf5p7.js";var i={Ji:()=>`Copy`,Jl:()=>`Cut`,Jm:e,Jr:t,JV:()=>`Get Info`,Kf:n,Kh:r,Km:()=>`Open`,Kp:()=>`Paste`,KE:()=>`Rename`,KI:()=>`Select All`,KQ:()=>`Unlock to enable`};export{i as default};
+//# sourceMappingURL=dfd99cc48f97773c-B4ZgVfhy.js.map

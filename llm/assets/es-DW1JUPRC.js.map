@@ -1,0 +1,1 @@
+{"version":3,"file":"es-DW1JUPRC.js","names":[],"sources":["../../../src/strings/messages/Sidebar__settings/es.ts"],"sourcesContent":["export const Sidebar__settings = (): string => 'Configuración';\n"],"mappings":"AAAA,IAAa,MAAkC"}

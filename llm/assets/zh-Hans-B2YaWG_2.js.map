@@ -1,0 +1,1 @@
+{"version":3,"file":"zh-Hans-B2YaWG_2.js","names":[],"sources":["../../../src/strings/messages/fileExplorer__download/zh-Hans.ts"],"sourcesContent":["export const fileExplorer__download = (): string => '下载';\n"],"mappings":"AAAA,IAAa,MAAuC"}

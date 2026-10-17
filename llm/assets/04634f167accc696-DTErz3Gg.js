@@ -1,0 +1,2 @@
+import{t as e}from"./en-x6cpthD9.js";import{t}from"./en-C5GwF1cZ.js";import{t as n}from"./en-Cr3SYmZo2.js";var r={d:e,Pj:()=>`Change the default model?`,Pn:()=>`Default model`,Pr:()=>`Endpoint type`,Pt:()=>`This changes the default settings. Chats and groups with their own settings are not changed.`,Py:()=>`Not set`,PK:n,PL:()=>`Settings changed while this dialog was open. Review the new values and try again.`,Qr:t};export{r as default};
+//# sourceMappingURL=04634f167accc696-DTErz3Gg.js.map

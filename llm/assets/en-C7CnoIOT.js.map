@@ -1,0 +1,1 @@
+{"version":3,"file":"en-C7CnoIOT.js","names":[],"sources":["../../../src/strings/messages/WelcomeScreen__data_is_cleared_on_reload/en.ts"],"sourcesContent":["export const WelcomeScreen__data_is_cleared_on_reload = (): string => 'Data is cleared on reload.';\n"],"mappings":"AAAA,IAAa,MAAyD"}

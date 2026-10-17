@@ -1,0 +1,2 @@
+var e={yS:()=>`聊天组名称`,yT:({recipeCount:e})=>`检测到的配方（${e}）`,yU:()=>`从 JSON 导入预定义的聊天组设置（提示词、参数和模型规则）。`,yV:()=>`导入所选项`,yW:()=>`模型选择`,yX:()=>`粘贴配方 JSON（支持连接的 JSON 对象）`,yY:()=>`配方`,yZ:({behavior:e})=>`系统提示词（${e}）`,y$:()=>`使用默认模型`};export{e as default};
+//# sourceMappingURL=d6ffe5aa66394b56-CC0Aw-QK.js.map

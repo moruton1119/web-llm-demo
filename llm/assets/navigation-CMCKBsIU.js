@@ -1,0 +1,2 @@
+import{_t as e,st as t}from"./vue.runtime.esm-bundler-CbicM13T.js";t();var n=e();function r(){return{active:n}}function i({navigation:e}){if(n.value)throw Error(`An Image Generation navigation owner is already mounted.`);return n.value=e,()=>{n.value===e&&(n.value=void 0)}}export{r as n,i as t};
+//# sourceMappingURL=navigation-CMCKBsIU.js.map

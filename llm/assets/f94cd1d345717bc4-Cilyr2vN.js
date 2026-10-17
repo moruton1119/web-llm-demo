@@ -1,0 +1,2 @@
+var e={AE:()=>`检查 file 协议启动、路由、样式、延迟加载分块、SystemJS 和重复创建 Worker，且不会更改聊天或设置。`,AF:()=>`复制的诊断信息可能在浏览器提供的错误堆栈或资源计时条目中包含本地文件路径。`,AG:()=>`复制 JSON`,AH:({errorMessage:e})=>`复制独立版验证 JSON 失败：${e}`,AI:()=>`运行独立版验证`,AJ:()=>`正在运行…`,AK:()=>`独立版验证`,AL:()=>`独立版验证 JSON 已复制`,AM:()=>`这些检查需要通过 file:// 打开的独立版构建。`,AN:({errorMessage:e})=>`独立版验证运行失败：${e}`,AO:({status:e,passed:t,failed:n})=>`${e} — ${t} 项通过 / ${n} 项失败`};export{e as default};
+//# sourceMappingURL=f94cd1d345717bc4-Cilyr2vN.js.map

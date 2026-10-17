@@ -1,0 +1,2 @@
+var e=({count:e})=>`y ${e} más`,t=()=>`Detalles del proceso`,n=({count:e})=>`${e} ${e===1?`paso de razonamiento`:`pasos de razonamiento`}`,r=({count:e})=>`${e} ${e===1?`ejecución de herramienta`:`ejecuciones de herramienta`}`,i=({toolNames:e})=>`Usó ${e}`;export{e as a,t as i,r as n,n as r,i as t};
+//# sourceMappingURL=es-Bjp7Mdez.js.map

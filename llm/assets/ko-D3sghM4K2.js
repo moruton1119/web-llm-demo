@@ -1,0 +1,2 @@
+var e=()=>`F32는 BF16 값을 보존하며 해당 가중치 메모리를 두 배로 사용합니다. F16은 같은 메모리를 사용하지만 정밀도와 수치 범위가 줄어들 수 있습니다. 기존 양자화는 변경되지 않습니다.`,t=()=>`조건화 캐시 항목 수`,n=()=>`증류 가이던스`,r=()=>`Flash Attention (실험적)`,i=()=>`Height`,a=()=>`모델 인수`,o=()=>`Qwen 복원 타일을 16×16 이하로 제한`,s=()=>`실행 환경 및 고급 설정`,c=()=>`VAE 타일 크기 (잠재 픽셀)`,l=()=>`VAE 타일 디코딩`,u=()=>`Width`;export{o as a,r as c,e as d,s as i,n as l,l as n,a as o,c as r,i as s,u as t,t as u};
+//# sourceMappingURL=ko-D3sghM4K2.js.map

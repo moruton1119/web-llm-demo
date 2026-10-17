@@ -1,0 +1,2 @@
+import{t as e}from"./en-B2wzOqPa.js";var t={l:e,HL:()=>`Failed to embed metadata in image.`,HM:()=>`Failed to load image`,HO:()=>`Image not found in storage`,HP:()=>`Invalid Image Block Data`};export{t as default};
+//# sourceMappingURL=d0440fa2208f3bd4-BudWSRD_.js.map

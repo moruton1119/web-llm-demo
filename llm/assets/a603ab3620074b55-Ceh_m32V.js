@@ -1,0 +1,2 @@
+var e={jv:()=>`Baixar imagem`,jw:()=>`Incorporar prompt, semente etc.`,jx:()=>`Mais opções`,jy:()=>`Não compatível com este formato`,jz:()=>`Com metadados`};export{e as default};
+//# sourceMappingURL=a603ab3620074b55-Ceh_m32V.js.map

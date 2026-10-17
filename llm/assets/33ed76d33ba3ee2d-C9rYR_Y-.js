@@ -1,0 +1,2 @@
+import{t as e}from"./ko-BvZL7sLF.js";import{n as t,r as n,t as r}from"./ko-CglopsBm.js";import{t as i}from"./ko-BoaVpSW3.js";var a={mY:()=>`계산에 사용할 대상`,mZ:()=>`생성하기 전에 Naidan RPC 설정에서 명시적으로 연결하세요.`,m$:()=>`명시적 모델 구성`,m_:()=>`원격 모델 목록 가져오기`,na:()=>`연결 목록 새로고침`,nc:()=>`원격 기기에 이미 있는 모델 파일만 선택할 수 있습니다. 다운로드, 가져오기, 제공자 설정 변경은 의도적으로 제공하지 않습니다.`,nd:e,ne:()=>`이 구성 사용`,RC:n,RM:i,RR:t,Sa:r};export{a as default};
+//# sourceMappingURL=33ed76d33ba3ee2d-C9rYR_Y-.js.map

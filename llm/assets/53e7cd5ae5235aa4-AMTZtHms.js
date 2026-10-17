@@ -1,0 +1,2 @@
+import{t as e}from"./zh-Hans-CSnF0uLM.js";import{t}from"./zh-Hans-PcowuB9q.js";import{a as n,i as r,n as i,r as a,t as o}from"./zh-Hans-1e3G2KRG.js";var s={G:n,I:r,K:a,L:i,M:o,dq:()=>`AI`,dr:()=>`参数`,ds:()=>`缺少二进制错误详情`,dt:()=>`[错误：缺少二进制对象]`,du:()=>`聊天`,dv:()=>`拖放文件或文件夹以附加`,dw:({errorMessage:e})=>`生成共享 URL 失败：${e}`,dx:({endpointUrl:e})=>`已通过 ${e} 为此聊天启用 Fake LM`,dy:()=>`处理序列`,dz:()=>`结果`,dA:()=>`共享 URL 已复制到剪贴板！`,dB:()=>`系统`,dC:()=>`思考`,dD:()=>`工具`,dE:()=>`工具执行`,dF:()=>`[工具仍在执行]`,dG:()=>`用户`,o:e,JQ:t};export{s as default};
+//# sourceMappingURL=53e7cd5ae5235aa4-AMTZtHms.js.map

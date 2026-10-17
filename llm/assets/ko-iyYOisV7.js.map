@@ -1,0 +1,1 @@
+{"version":3,"file":"ko-iyYOisV7.js","names":[],"sources":["../../../src/strings/messages/SHARED__new_chat/ko.ts"],"sourcesContent":["export const SHARED__new_chat = (): string => '새 채팅';\n"],"mappings":"AAAA,IAAa,MAAiC"}

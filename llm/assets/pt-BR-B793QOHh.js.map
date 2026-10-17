@@ -1,0 +1,1 @@
+{"version":3,"file":"pt-BR-B793QOHh.js","names":[],"sources":["../../../src/strings/messages/llamaCppBrowserDownloads__save_file_to_device/pt-BR.ts"],"sourcesContent":["export const llamaCppBrowserDownloads__save_file_to_device = (): string => \"Salvar arquivo no dispositivo\";\n"],"mappings":"AAAA,IAAa,MAA8D"}

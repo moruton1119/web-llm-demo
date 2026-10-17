@@ -1,0 +1,2 @@
+import{t as e}from"./ko-Dnob2ovw.js";import{t}from"./ko-Cx_OK7_r.js";import{n,t as r}from"./ko-Bt_LPfGT.js";var i={Ji:()=>`복사`,Jl:()=>`잘라내기`,Jm:e,Jr:t,JV:()=>`정보 보기`,Kf:n,Kh:r,Km:()=>`열기`,Kp:()=>`붙여넣기`,KE:()=>`이름 변경`,KI:()=>`모두 선택`,KQ:()=>`잠금 해제 후 사용`};export{i as default};
+//# sourceMappingURL=dfd99cc48f97773c-DUlFwxMc.js.map

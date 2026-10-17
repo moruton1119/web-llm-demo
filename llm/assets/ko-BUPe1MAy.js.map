@@ -1,0 +1,1 @@
+{"version":3,"file":"ko-BUPe1MAy.js","names":[],"sources":["../../../src/strings/messages/ImageInfoDisplay__copy_prompt/ko.ts"],"sourcesContent":["export const ImageInfoDisplay__copy_prompt = (): string => '프롬프트 복사';\n"],"mappings":"AAAA,IAAa,MAA8C"}

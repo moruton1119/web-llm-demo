@@ -1,0 +1,2 @@
+import{t as e}from"./ja-CiZRiyQ8.js";import{t}from"./ja-Dn8le1Jp.js";import{t as n}from"./ja-DB0PLwJi.js";var r={d:e,Na:()=>`実行状態・プレビュー・一時的な結果`,Nk:()=>`生成先セッション`,NK:()=>`別のセッションで生成中`,NN:()=>`保存できませんでした。完成した画像を保持しています。再保存またはダウンロードするまで、この画面を閉じないでください。`,NO:()=>`生成中のプレビューはここに表示されます。完成した画像は下のギャラリーに追加されます。`,NQ:()=>`進捗のみ`,Oi:n,Pf:()=>`ビジュアル表示`,UD:t};export{r as default};
+//# sourceMappingURL=93c4a825b3559bc7-D5pp5AEw.js.map

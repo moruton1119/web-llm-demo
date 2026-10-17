@@ -1,0 +1,2 @@
+import{t as e}from"./zh-Hans-PcowuB9q.js";var t={cd:()=>`取消`,ce:({name:e})=>`正在复制“${e}”`,cf:()=>`编辑图像`,cg:({name:e,errorMessage:t})=>`无法复制“${e}”：${t}`,ch:({errorMessage:e})=>`文件夹链接失败：${e}`,ci:()=>`隐藏输入框`,cj:()=>`最大化输入框`,ck:()=>`最小化输入框`,cl:()=>`打开高级编辑器`,cm:()=>`移除`,cn:()=>`移除文件夹`,co:({shortcut:e})=>`发送消息（${e}）`,cp:()=>`显示输入框`,cq:({shortcut:e})=>`停止生成（${e}）`,cr:()=>`在此聊天中停止使用此文件夹？文件夹中的文件不会被删除。`,cs:()=>`输入消息...`,ct:()=>`取消链接`,cu:()=>`取消文件夹链接`,JQ:e};export{t as default};
+//# sourceMappingURL=9895e27ec1042a14-BXDRu8YI.js.map

@@ -1,0 +1,2 @@
+import{t as e}from"./ja-DB0PLwJi.js";var t={oe:()=>`未保存のデータを破棄`,of:()=>`この未保存の画像を破棄しますか？保存済みの画像は削除されません。`,og:()=>`画像をダウンロード`,oh:()=>`元の画像を再生成せずに保存し直します。未保存の画像は、このブラウザタブを閉じると失われます。`,oi:()=>`未保存の画像`,Oi:e};export{t as default};
+//# sourceMappingURL=ceb412247c126fae-CIeixaio.js.map

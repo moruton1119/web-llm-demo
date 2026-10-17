@@ -1,0 +1,1 @@
+{"version":3,"file":"es-B2zsgW-m.js","names":[],"sources":["../../../src/strings/messages/llamaCppBrowserDownloads__set_as_default/es.ts"],"sourcesContent":["export const llamaCppBrowserDownloads__set_as_default = (): string => \"Establecer como predeterminado\";\n"],"mappings":"AAAA,IAAa,MAAyD"}

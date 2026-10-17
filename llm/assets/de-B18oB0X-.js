@@ -1,0 +1,2 @@
+var e=()=>`Vorschau während der Generierung`,t=()=>`Maximale Vorschaukante`,n=()=>`Vorschaumethode`,r=()=>`Originale Vorschaugröße`,i=()=>`Vorschau ab Schritt`;export{e as a,t as i,r as n,n as r,i as t};
+//# sourceMappingURL=de-B18oB0X-.js.map

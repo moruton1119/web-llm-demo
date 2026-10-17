@@ -1,0 +1,1 @@
+{"version":3,"file":"4b146371e1f01fc5-BZ-jXgUJ.js","names":[],"sources":["../../../src/strings/messages/chatHistoryFlow__fork_of_chat/de.ts"],"sourcesContent":["export const chatHistoryFlow__fork_of_chat = ({ chatTitle }: { chatTitle: string }): string => `Abzweigung von ${chatTitle}`;\n"],"mappings":"qDAA8C,CAAE,eAA+C,kBAAkB"}

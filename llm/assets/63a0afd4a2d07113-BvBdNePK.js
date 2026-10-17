@@ -1,0 +1,2 @@
+var e={O:()=>`A private copy is saved in your browser`,P:()=>`Attach files or folder`,Q:()=>`Chrome, Edge, Brave, Opera — over HTTPS. Links your folder directly without copying.`,R:()=>`Files`,S:()=>`Folder (copy)`,T:()=>`Folder (link)`,U:()=>`Naidan works from the copy — your original files on disk stay safe and intact.`,V:()=>`Requires a Chromium-based browser`,W:()=>`What is Folder (copy)?`,X:()=>`What is Folder (link)?`,Y:()=>`Why is Folder (link) unavailable?`};export{e as default};
+//# sourceMappingURL=63a0afd4a2d07113-BvBdNePK.js.map

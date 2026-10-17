@@ -1,0 +1,1 @@
+{"version":3,"file":"3c65adbc12dfb45d-YzSWZZA9.js","names":[],"sources":["../../../src/strings/messages/LlamaCppBrowserModelLaunch__no_installation_or_environment_setup/pt-BR.ts"],"sourcesContent":["export const LlamaCppBrowserModelLaunch__no_installation_or_environment_setup = (): string => \"Sem instalação nem configuração.\";\n"],"mappings":"cAA8F"}

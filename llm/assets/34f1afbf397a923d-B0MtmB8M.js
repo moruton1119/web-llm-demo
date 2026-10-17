@@ -1,0 +1,2 @@
+import{t as e}from"./en-CPwstTqo.js";var t={HG:()=>`Code`,HH:e,HJ:()=>`Copy Source`,HN:()=>`Failed to render mermaid diagram`,HQ:()=>`Preview`,HR:()=>`Split View`};export{t as default};
+//# sourceMappingURL=34f1afbf397a923d-B0MtmB8M.js.map

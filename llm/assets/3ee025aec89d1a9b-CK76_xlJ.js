@@ -1,0 +1,2 @@
+import{t as e}from"./de-CtRkd_cU2.js";import{t}from"./de-XC2oGSF0.js";var n={mz:()=>`Vorschau schließen`,mA:()=>`Details and actions`,mB:e,mC:()=>`Nächstes Bild`,mD:()=>`Vorheriges Bild`,mE:()=>`Bild einpassen`,mF:()=>`Vergrößern`,mG:()=>`Verkleinern`,Tt:t};export{n as default};
+//# sourceMappingURL=3ee025aec89d1a9b-CK76_xlJ.js.map

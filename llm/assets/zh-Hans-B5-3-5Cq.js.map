@@ -1,0 +1,1 @@
+{"version":3,"file":"zh-Hans-B5-3-5Cq.js","names":[],"sources":["../../../src/strings/messages/SHARED__cancel/zh-Hans.ts"],"sourcesContent":["export const SHARED__cancel = (): string => '取消';\n"],"mappings":"AAAA,IAAa,MAA+B"}

@@ -1,0 +1,2 @@
+var e={pW:()=>`Could not copy. Select the URL to copy it manually.`,pX:()=>`Copy URL`,pY:()=>`Current file`,pZ:()=>`Files and download sources`,p$:()=>`These are the file URLs requested by Naidan.`,p_:()=>`Revision`,qa:()=>`URL copied.`};export{e as default};
+//# sourceMappingURL=6d340ebfc7918c90-ByVPxg7b.js.map

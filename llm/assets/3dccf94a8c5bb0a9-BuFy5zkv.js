@@ -1,0 +1,2 @@
+import{t as e}from"./es-CXCgDaXt.js";var t={Qd:e,Qf:()=>`Seleccione un archivo GGUF ya descargado. Se guardará en el almacenamiento privado del navegador.`,Qo:()=>`Modelos GGUF locales`};export{t as default};
+//# sourceMappingURL=3dccf94a8c5bb0a9-BuFy5zkv.js.map

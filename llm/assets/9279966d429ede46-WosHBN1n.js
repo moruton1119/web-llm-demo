@@ -1,0 +1,2 @@
+var e={qb:()=>`Firefox 的 WebGPU 实现存在一个已知问题，可能导致模型运行速度显著下降。`,qc:()=>`追踪定时轮询导致 GPU 处理完成通知延迟的问题。`,qd:()=>`使用 mapAsync() 从 GPU 读回数据速度慢的问题复现报告。`,qe:()=>`Mozilla 错误报告（英文）`,qf:()=>`为了获得更快的运行速度，建议使用 Chrome、Edge、Brave 等基于 Chromium 的浏览器。`,qg:()=>`技术详情`};export{e as default};
+//# sourceMappingURL=9279966d429ede46-WosHBN1n.js.map

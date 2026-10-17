@@ -1,0 +1,2 @@
+import{t as e}from"./zh-Hans-D6IXTgo5.js";var t={Ei:()=>`所有对话均存储在本地。`,Ej:()=>`头脑风暴`,Ek:()=>`代码帮助`,El:()=>`对话存储在内存中。`,Em:e,En:()=>`下载便携版应用`,Eo:()=>`下载独立便携版`,Ep:()=>`请说明如何在 TypeScript 中使用 Vue 3 Composition API，并提供一个简短示例。`,Eq:()=>`请给我 5 个适合周末、与家庭自动化有关的创意项目点子。`,Er:()=>`总结`,Es:()=>`总结各种本地 LM 架构之间的主要差异。`,Et:()=>`写故事`,Eu:()=>`写一个以赛博朋克城市为背景、讲述时间旅行侦探的短篇故事。`,Ev:()=>`你的数据保留在设备上。`};export{t as default};
+//# sourceMappingURL=b98330410e805100-DidiIyG4.js.map

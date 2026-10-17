@@ -1,0 +1,1 @@
+{"version":3,"file":"zh-Hans-D0kmmK2x.js","names":[],"sources":["../../../src/strings/messages/llamaCppBrowserDownloads__save_file_to_device/zh-Hans.ts"],"sourcesContent":["export const llamaCppBrowserDownloads__save_file_to_device = (): string => \"将文件保存到设备\";\n"],"mappings":"AAAA,IAAa,MAA8D"}

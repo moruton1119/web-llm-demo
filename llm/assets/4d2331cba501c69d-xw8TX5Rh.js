@@ -1,0 +1,2 @@
+import{n as e,r as t,t as n}from"./es-DBi424U8.js";var r={Hm:()=>`Cerrar (Esc)`,Hn:()=>`Copiar nombre`,Hp:t,Hq:e,Hr:()=>`Este tipo de archivo no se puede previsualizar directamente.`,Hs:()=>`CARGANDO...`,Hy:()=>`Vista previa no disponible`,Hz:()=>`Restablecer zoom`,HC:n,HD:()=>`Acercar`,HE:()=>`Alejar`};export{r as default};
+//# sourceMappingURL=4d2331cba501c69d-xw8TX5Rh.js.map

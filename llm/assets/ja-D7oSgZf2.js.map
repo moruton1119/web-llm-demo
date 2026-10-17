@@ -1,0 +1,1 @@
+{"version":3,"file":"ja-D7oSgZf2.js","names":[],"sources":["../../../src/strings/messages/imageGeneration__new_session/ja.ts"],"sourcesContent":["export const imageGeneration__new_session = (): string => \"新しいセッション\";\n"],"mappings":"AAAA,IAAa,MAA6C"}

@@ -1,0 +1,2 @@
+import{n as e,t}from"./es-m1W-gXaZ.js";import{t as n}from"./es-CNxq9_gr.js";import{n as r,t as i}from"./es-DG1cF9qG.js";import{t as a}from"./es-D5uQ5KdS.js";import{t as o}from"./es-ZYlVJwAE.js";var s={Pl:a,Pz:o,PA:e,PG:n,PH:t,Tr:()=>`Descargado`,Ts:r,Tu:i,Tv:()=>`Descargando…`};export{s as default};
+//# sourceMappingURL=10ac2759734884a4-DKlKtH1E.js.map

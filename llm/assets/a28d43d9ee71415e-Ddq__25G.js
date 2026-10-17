@@ -1,0 +1,2 @@
+var e={JM:({errorMessage:e})=>`Dateien konnten nicht hochgeladen werden: ${e}`,KZ:()=>`Das Ziel wurde geändert, daher wurde die Vorschau aktualisiert.`};export{e as default};
+//# sourceMappingURL=a28d43d9ee71415e-Ddq__25G.js.map

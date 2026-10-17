@@ -1,0 +1,2 @@
+import{t as e}from"./ja-BtuiN_am.js";var t={l:e,VN:()=>`画像を生成できませんでした。`,VO:({a:e})=>`画像を ${e} に再エンコードできなかったため、元の形式を使用します`,VP:()=>`適切な画像生成モデルが見つかりません（x/z-image-turbo: で始まるモデル）`};export{t as default};
+//# sourceMappingURL=73c8e45c7bed7d11-Cgfo-DR3.js.map

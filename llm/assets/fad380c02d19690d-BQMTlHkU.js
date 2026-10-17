@@ -1,0 +1,2 @@
+import{t as e}from"./ja-MaiGE1Zj2.js";import{t}from"./ja-Bwnm3VAJ.js";import{t as n}from"./ja-Cin-jKdW.js";import{t as r}from"./ja-C05zmZrz.js";var i={q:n,MY:t,Oy:()=>`ヘッダーを追加`,OF:r,OG:()=>`翻訳の接続先`,OH:()=>`ヘッダー名`,OI:()=>`ヘッダー値`,OJ:()=>`リクエストヘッダー`,OK:()=>`継承する`,ON:()=>`翻訳モデル（空欄で継承）`,OQ:()=>`翻訳の設定は、セッション → 画像生成の設定 → 全体設定の順で項目ごとに解決します。空欄は継承です。通常のチャット設定は変更しません。`,OS:()=>`接続プロファイルからコピー`,OU:()=>`ヘッダーを削除`,OV:()=>`すべて継承に戻す`,OY:()=>`翻訳設定を保存`,O$:()=>`翻訳設定を保存できませんでした。再試行してから翻訳してください。`,RM:e};export{i as default};
+//# sourceMappingURL=fad380c02d19690d-BQMTlHkU.js.map

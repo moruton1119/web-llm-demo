@@ -1,0 +1,2 @@
+import{j as e,v as t}from"./vue.runtime.esm-bundler-CbicM13T.js";import{st as n}from"./app-DnBqaxXf.js";import{A as r,b as i,z as a}from"./useChatNavigation-f1HGY22a.js";e();function o(){let{settings:e}=n(),o=i({currentChatRef:r,rootItems:a,getSettings:()=>e.value});return{chats:t(()=>o.chats.value)}}export{o as t};
+//# sourceMappingURL=useChatListData-Bj55ANcS.js.map

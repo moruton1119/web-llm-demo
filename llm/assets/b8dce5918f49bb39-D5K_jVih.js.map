@@ -1,0 +1,1 @@
+{"version":3,"file":"b8dce5918f49bb39-D5K_jVih.js","names":[],"sources":["../../../src/strings/messages/fileExplorer__go_back/pt-BR.ts"],"sourcesContent":["export const fileExplorer__go_back = (): string => 'Voltar';\n"],"mappings":"cAAmD"}

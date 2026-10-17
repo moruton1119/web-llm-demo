@@ -1,0 +1,2 @@
+import{t as e}from"./es-AQTUEf052.js";var t={b:e,BW:({toolNames:e,remainingCount:t})=>{let n=e.join(`, `);return t>0?`Se usaron ${n} y ${t} más`:`Se usaron ${n}`},VA:()=>`Ocultar ejecuciones de herramientas`};export{t as default};
+//# sourceMappingURL=cfb9e9eca848515a-Dv1yYd1q.js.map

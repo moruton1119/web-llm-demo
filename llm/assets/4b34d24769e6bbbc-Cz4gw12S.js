@@ -1,0 +1,2 @@
+import{t as e}from"./zh-Hans-DXOpntnW.js";import{t}from"./zh-Hans-Draeo2C1.js";import{t as n}from"./zh-Hans-BVZJjtsW.js";import{t as r}from"./zh-Hans-D6IXTgo5.js";var i={qX:n,qY:()=>`正在检查此设备上的模型文件…`,q_:()=>`无法准备模型。请重试或在设置中检查文件。`,ra:()=>`聊天分组已就绪，但无法保存全局默认设置。`,ri:()=>`发送消息时将重新尝试准备模型。`,rj:()=>`量化`,rk:()=>`已准备好开始聊天。`,rl:()=>`检查可用变体`,rm:()=>`正在恢复模型信息…`,rn:t,rp:()=>`开始使用此模型`,rq:()=>`此环境无法运行模型。请在设置中查看详情。`,Em:r,PG:e};export{i as default};
+//# sourceMappingURL=4b34d24769e6bbbc-Cz4gw12S.js.map

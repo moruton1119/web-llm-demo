@@ -1,0 +1,2 @@
+import{t as e}from"./en-x6cpthD9.js";import{t}from"./en-C5GwF1cZ.js";import{t as n}from"./en-DMqv1OIc.js";import{t as r}from"./en-NtkQ5IfI.js";var i={d:e,PU:()=>`Choose GGUF files`,PV:()=>`Choose model folder`,PZ:()=>`Drop model folders or GGUF files here`,Qc:r,Qd:n,Qr:t,Qs:()=>`Or choose downloaded files from your device. They are stored locally in this browser.`};export{i as default};
+//# sourceMappingURL=ceba77d78edab0af-D3rv7Xs3.js.map

@@ -1,0 +1,2 @@
+import{n as e,r as t,t as n}from"./de-wxX8s1Ny.js";var r={Hl:()=>`Binärobjekte`,Ho:()=>`Datum`,Hp:t,Hq:e,Ht:()=>`Weitere werden geladen... (zum manuellen Laden klicken)`,Hu:()=>`Objekte werden geladen...`,Hv:()=>`Persistierte Dateien verwalten und durchsuchen`,Hw:()=>`Name`,Hx:()=>`Keine Objekte gefunden`,HA:()=>`Nach Name, ID oder Typ suchen...`,HB:()=>`Größe`,HC:n};export{r as default};
+//# sourceMappingURL=a878b1834abbc66e-BhNN8LtH.js.map

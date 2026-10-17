@@ -1,0 +1,2 @@
+var e={se:()=>`Los cambios solo se aplican a esta sesión del navegador mientras la persistencia de la configuración de herramientas esté desactivada.`,sf:()=>`No se pudo guardar la configuración de herramientas del chat.`};export{e as default};
+//# sourceMappingURL=4372e806fd0c901c-BDGNSD_U.js.map

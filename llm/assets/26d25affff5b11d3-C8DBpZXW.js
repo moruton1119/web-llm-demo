@@ -1,0 +1,2 @@
+var e={xP:()=>`Konfigurationsvorschau`,xQ:()=>`Endpunkt-URL`,xR:()=>`Header`,xS:()=>`LM-Parameter`,xT:()=>`Keine`,xU:()=>`Anbieter & Modell`,xV:()=>`System-Prompt`};export{e as default};
+//# sourceMappingURL=26d25affff5b11d3-C8DBpZXW.js.map

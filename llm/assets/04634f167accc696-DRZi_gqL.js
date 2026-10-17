@@ -1,0 +1,2 @@
+import{t as e}from"./zh-Hans-B5-3-5Cq.js";import{t}from"./zh-Hans-CiCvLgLt.js";import{t as n}from"./zh-Hans-B2oPun2S.js";var r={d:e,Pj:()=>`更改默认模型？`,Pn:()=>`默认模型`,Pr:()=>`端点类型`,Pt:()=>`将更改默认设置。聊天和分组的独立设置不会更改。`,Py:()=>`未设置`,PK:n,PL:()=>`确认期间设置已更改。请检查新值后重试。`,Qr:t};export{r as default};
+//# sourceMappingURL=04634f167accc696-DRZi_gqL.js.map

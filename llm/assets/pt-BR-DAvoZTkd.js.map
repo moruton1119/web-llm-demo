@@ -1,0 +1,1 @@
+{"version":3,"file":"pt-BR-DAvoZTkd.js","names":[],"sources":["../../../src/strings/messages/imageBenchmark__running/pt-BR.ts"],"sourcesContent":["export const imageBenchmark__running = (): string => \"Executando\";\n"],"mappings":"AAAA,IAAa,MAAwC"}

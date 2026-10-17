@@ -1,0 +1,2 @@
+import{t as e}from"./de-BJRYlZDq.js";var t={HG:()=>`Code`,HH:e,HJ:()=>`Quelle kopieren`,HN:()=>`Mermaid-Diagramm konnte nicht gerendert werden`,HQ:()=>`Vorschau`,HR:()=>`Geteilte Ansicht`};export{t as default};
+//# sourceMappingURL=34f1afbf397a923d-BuVpJjw0.js.map

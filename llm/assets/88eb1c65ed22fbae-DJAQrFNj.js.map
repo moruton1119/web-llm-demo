@@ -1,0 +1,1 @@
+{"version":3,"file":"88eb1c65ed22fbae-DJAQrFNj.js","names":[],"sources":["../../../src/strings/messages/Sidebar__close_sidebar/ko.ts","../../../src/strings/messages/Sidebar__open_sidebar/ko.ts"],"sourcesContent":["export const Sidebar__close_sidebar = (): string => '사이드바 닫기';\n","export const Sidebar__open_sidebar = (): string => '사이드바 열기';\n"],"mappings":"cAAoD,iBCAD"}

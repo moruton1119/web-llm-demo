@@ -1,0 +1,1 @@
+{"version":3,"file":"ko-CgdxjlXp.js","names":[],"sources":["../../../src/strings/messages/llamaCppBrowserDownloads__waiting/ko.ts"],"sourcesContent":["export const llamaCppBrowserDownloads__waiting = (): string => \"대기 중\";\n"],"mappings":"AAAA,IAAa,MAAkD"}

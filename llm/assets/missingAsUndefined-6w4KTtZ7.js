@@ -1,0 +1,2 @@
+import{X as e,lt as t}from"./privacy-fetch-broker/worker-transport-1jpiQ9uS.js";var n=Symbol(`missingAsUndefined`),r=e(e=>e===n),i=e=>t([e,r]).optional().default(n),a=e=>{for(let t of Object.keys(e)){let r=e;r[t]===n&&(r[t]=void 0)}return e},o=e=>e.overwrite(a);export{o as n,i as t};
+//# sourceMappingURL=missingAsUndefined-6w4KTtZ7.js.map

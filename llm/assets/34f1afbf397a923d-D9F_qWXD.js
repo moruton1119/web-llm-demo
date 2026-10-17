@@ -1,0 +1,2 @@
+import{t as e}from"./pt-BR-BehMb-dc.js";var t={HG:()=>`Código`,HH:e,HJ:()=>`Copiar fonte`,HN:()=>`Falha ao renderizar diagrama Mermaid`,HQ:()=>`Visualização`,HR:()=>`Visualização dividida`};export{t as default};
+//# sourceMappingURL=34f1afbf397a923d-D9F_qWXD.js.map

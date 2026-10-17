@@ -1,0 +1,2 @@
+var e={vM:()=>`Entorno de ejecución de Ollama`,vN:()=>`Consulta y quita de la memoria los modelos que este servidor Ollama mantiene actualmente cargados.`};export{e as default};
+//# sourceMappingURL=57d64a4d5877a885-Cm0g3f6m.js.map

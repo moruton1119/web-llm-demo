@@ -1,0 +1,1 @@
+{"version":3,"file":"pt-BR-eCgL5eHE.js","names":[],"sources":["../../../src/strings/messages/imageGeneration__translation_effective/pt-BR.ts"],"sourcesContent":["export const imageGeneration__translation_effective = (): string => \"Translation destination\";\n"],"mappings":"AAAA,IAAa,MAAuD"}

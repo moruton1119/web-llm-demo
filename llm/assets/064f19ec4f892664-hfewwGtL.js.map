@@ -1,0 +1,1 @@
+{"version":3,"file":"064f19ec4f892664-hfewwGtL.js","names":[],"sources":["../../../src/strings/messages/weshTerminal__session/zh-Hans.ts"],"sourcesContent":["export const weshTerminal__session = ({ sessionNumber }: { sessionNumber: number }): string => `会话 ${sessionNumber}`;\n"],"mappings":"WAAsC,CAAE,mBAAuD,MAAM"}

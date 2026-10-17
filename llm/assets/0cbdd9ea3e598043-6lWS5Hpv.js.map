@@ -1,0 +1,1 @@
+{"version":3,"file":"0cbdd9ea3e598043-6lWS5Hpv.js","names":[],"sources":["../../../src/strings/messages/chatApproval__keyword_label/es.ts"],"sourcesContent":["export const chatApproval__keyword_label = (): string => 'Palabra clave:';\n"],"mappings":"cAAyD"}

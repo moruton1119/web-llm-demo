@@ -1,0 +1,1 @@
+{"version":3,"file":"de-B0wJnwYW.js","names":[],"sources":["../../../src/strings/messages/SHARED__cancel/de.ts"],"sourcesContent":["export const SHARED__cancel = (): string => 'Abbrechen';\n"],"mappings":"AAAA,IAAa,MAA+B"}

@@ -1,0 +1,2 @@
+var e={gB:()=>`애플리케이션 상태 동기화됨`,gC:()=>`로그 지우기`,gD:()=>`패널 닫기`,gE:()=>`개발 도구`,gF:({count:e})=>`오류 ${e}개`,gG:()=>`OPFS 탐색`,gH:()=>`사용자가 의도적인 테스트 오류를 발생시켰습니다`,gI:()=>`기록된 이벤트가 없습니다`,gJ:()=>`시스템 이벤트`,gK:()=>`오류 이벤트 시스템 UI를 검증하는 데 사용됩니다.`,gL:({count:e})=>`합계: ${e}`,gM:()=>`테스트 오류 발생`,gN:()=>`테스트 정보 발생`,rQ:()=>`llama.cpp browser`};export{e as default};
+//# sourceMappingURL=84457f778bd2eba4-Cfig_oQV.js.map

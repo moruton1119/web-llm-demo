@@ -1,0 +1,2 @@
+var e={xd:()=>`Applying update…`,xe:()=>`Update found — preparing…`,xf:()=>`Reload to Update`,xg:()=>`Switch now using the network. Offline use may be temporarily unavailable.`};export{e as default};
+//# sourceMappingURL=4961c5296860c4bc-Do7MQUZF.js.map

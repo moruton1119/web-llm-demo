@@ -1,0 +1,1 @@
+{"version":3,"file":"zh-Hans-CJLaSQHs2.js","names":[],"sources":["../../../src/strings/messages/SHARED__confirm/zh-Hans.ts"],"sourcesContent":["export const SHARED__confirm = (): string => '确认';\n"],"mappings":"AAAA,IAAa,MAAgC"}

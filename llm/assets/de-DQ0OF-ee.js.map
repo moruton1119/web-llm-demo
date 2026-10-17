@@ -1,0 +1,1 @@
+{"version":3,"file":"de-DQ0OF-ee.js","names":[],"sources":["../../../src/strings/messages/contextCompact__compact_context/de.ts"],"sourcesContent":["export const contextCompact__compact_context = (): string => 'Kontext komprimieren';\n"],"mappings":"AAAA,IAAa,MAAgD"}

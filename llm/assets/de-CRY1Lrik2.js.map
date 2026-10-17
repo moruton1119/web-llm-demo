@@ -1,0 +1,1 @@
+{"version":3,"file":"de-CRY1Lrik2.js","names":[],"sources":["../../../src/strings/messages/fileExplorer__name/de.ts","../../../src/strings/messages/fileExplorer__size/de.ts"],"sourcesContent":["export const fileExplorer__name = (): string => 'Name';\n","export const fileExplorer__size = (): string => 'Größe';\n"],"mappings":"AAAA,IAAa,MAAmC,OCAnC,MAAmC"}

@@ -1,0 +1,2 @@
+import{i as e,n as t,r as n,t as r}from"./de-d5LSH2C1.js";var i={Vu:e,Vv:n,Vw:()=>`Zeilenumbruch deaktivieren`,Vx:()=>`Zeilenumbruch aktivieren`,Vy:t,VD:()=>`Rohes JSON`,VE:r};export{i as default};
+//# sourceMappingURL=ac0a3a2068bcc9ac-twby6aJz.js.map

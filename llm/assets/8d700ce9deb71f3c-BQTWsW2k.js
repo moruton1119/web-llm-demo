@@ -1,0 +1,2 @@
+var e={xW:()=>`프로필 삭제`,xX:()=>`연결로 이동하여 만들기`,xY:()=>`기본 모델 없음`,xZ:()=>`아직 저장된 프로필이 없습니다.`,x$:({profileName:e})=>`"${e}" 프로필을 삭제했습니다`,x_:()=>`프로바이더 프로필`,ya:()=>`프로필 이름 변경`,yb:()=>`여러 AI 프로바이더 구성을 저장하고 쉽게 전환할 수 있습니다.`,yc:({modelId:e})=>`제목: ${e}`,yd:()=>`실행 취소`};export{e as default};
+//# sourceMappingURL=8d700ce9deb71f3c-BQTWsW2k.js.map

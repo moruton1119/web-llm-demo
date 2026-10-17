@@ -1,0 +1,2 @@
+var e=`https://fake-lm.invalid`;function t({endpointUrl:e}){if(e===void 0)return!1;try{let t=new URL(e);return(t.protocol===`http:`||t.protocol===`https:`)&&t.hostname===`fake-lm.invalid`}catch{return!1}}export{t as n,e as t};
+//# sourceMappingURL=fakeLmEndpointUrl-DYHSH7vY.js.map

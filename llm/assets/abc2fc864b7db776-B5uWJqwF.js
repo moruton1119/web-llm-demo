@@ -1,0 +1,2 @@
+import{t as e}from"./ja-BxJxIZYX.js";import{t}from"./ja-XJJzpyt6.js";import{t as n}from"./ja-BVicUxoa.js";var r={pS:()=>`ダウンロード先の「フォルダをリンク」からアクセスを再許可してください。`,Pm:()=>`検索をクリア`,Px:()=>`一致するモデルがありません`,PJ:()=>`モデル名で検索`,PX:()=>`モデルを削除`,P_:t,Qc:n,Qh:()=>`取り込み後にこのプロバイダーとファイル名を会話のモデル選択で選んでください。同名のモデルを置き換える場合は、先に削除してください。`,Qi:()=>`取り込んだモデル`,Qn:()=>`モデル一覧を読み込み中`,Qq:()=>`取り込まれたGGUFモデルはありません。`,Qr:e,Qw:()=>`モデル一覧を更新`};export{r as default};
+//# sourceMappingURL=abc2fc864b7db776-B5uWJqwF.js.map

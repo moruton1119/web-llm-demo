@@ -1,0 +1,2 @@
+import{t as e}from"./zh-Hans-CiCvLgLt.js";import{t}from"./zh-Hans-CaT4UUES.js";import{t as n}from"./zh-Hans-BwEGabwK.js";var r={pS:()=>`Open Link folder beside a download destination to reconnect.`,Pm:()=>`清除搜索`,Px:()=>`没有匹配的模型`,PJ:()=>`搜索模型名称`,PX:()=>`删除模型`,P_:t,Qc:n,Qh:()=>`导入后，请将连接设为 llama.cpp browser，并选择该文件作为模型。文件名必须唯一。`,Qi:()=>`已导入的模型`,Qn:()=>`正在加载模型列表`,Qq:()=>`没有已导入的模型`,Qr:e,Qw:()=>`刷新模型列表`};export{r as default};
+//# sourceMappingURL=abc2fc864b7db776-CL8vv3i_.js.map

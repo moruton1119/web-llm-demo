@@ -1,0 +1,2 @@
+import{t as e}from"./ko-4Fks9jXi2.js";var t={b:e,BW:({toolNames:e,remainingCount:t})=>{let n=e.join(`, `);return t>0?`${n} 및 ${t}개 도구를 더 사용함`:`${n} 사용함`},VA:()=>`도구 실행 숨기기`};export{t as default};
+//# sourceMappingURL=cfb9e9eca848515a-Do5CcrQe.js.map

@@ -1,0 +1,2 @@
+import{t as e}from"./en--FxFLY9Z.js";var t={tk:()=>`Filter models...`,tl:()=>`Inherit`,tm:e,tn:()=>`Refresh model list`,to:()=>`Select a model`};export{t as default};
+//# sourceMappingURL=71acc669f7e0f143-Cg2dydcZ.js.map

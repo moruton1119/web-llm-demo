@@ -1,0 +1,1 @@
+{"version":3,"file":"4129318950380abe-C7jLK90h.js","names":[],"sources":["../../../src/strings/messages/blockMarkdown__unknown_token_type/es.ts"],"sourcesContent":["export const blockMarkdown__unknown_token_type = ({ tokenType }: { tokenType: string }): string => `Tipo de token desconocido: ${tokenType}`;\n"],"mappings":"WAAkD,CAAE,eAA+C,8BAA8B"}

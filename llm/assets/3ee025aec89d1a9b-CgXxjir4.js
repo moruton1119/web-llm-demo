@@ -1,0 +1,2 @@
+import{t as e}from"./zh-Hans-CKi-6L99.js";import{t}from"./zh-Hans-XC2oGSF0.js";var n={mz:()=>`关闭预览`,mA:()=>`Details and actions`,mB:e,mC:()=>`下一张图片`,mD:()=>`上一张图片`,mE:()=>`适应图片`,mF:()=>`放大`,mG:()=>`缩小`,Tt:t};export{n as default};
+//# sourceMappingURL=3ee025aec89d1a9b-CgXxjir4.js.map

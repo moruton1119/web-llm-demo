@@ -1,0 +1,2 @@
+var e={Ay:()=>`Automatisch`,Az:()=>`Automatisch erkennen`,AA:({language:e})=>`Automatisch erkennen (${e})`,AB:()=>`Englisch`,AC:()=>`Sprache`,AD:()=>`Sprache erneut erkennen`};export{e as default};
+//# sourceMappingURL=578a5e6510f5820e-DsjIacT3.js.map

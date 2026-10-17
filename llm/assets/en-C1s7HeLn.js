@@ -1,0 +1,2 @@
+var e=({a:e})=>`and ${e} more`,t=()=>`Process Details`,n=({a:e})=>`${e} thinking step${e===1?``:`s`}`,r=({a:e})=>`${e} tool execution${e===1?``:`s`}`,i=({a:e})=>`Used ${e}`;export{e as a,t as i,r as n,n as r,i as t};
+//# sourceMappingURL=en-C1s7HeLn.js.map

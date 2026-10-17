@@ -1,0 +1,1 @@
+{"version":3,"file":"ko-Bt_LPfGT.js","names":[],"sources":["../../../src/strings/messages/fileExplorer__new_file/ko.ts","../../../src/strings/messages/fileExplorer__new_folder/ko.ts"],"sourcesContent":["export const fileExplorer__new_file = (): string => '새 파일';\n","export const fileExplorer__new_folder = (): string => '새 폴더';\n"],"mappings":"AAAA,IAAa,MAAuC,OCAvC,MAAyC"}

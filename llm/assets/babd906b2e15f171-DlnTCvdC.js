@@ -1,0 +1,2 @@
+import{n as e,t}from"./ja-BTwrWSR7.js";import{t as n}from"./ja-ckuHDKiz.js";import{t as r}from"./ja-D7oSgZf2.js";import{t as i}from"./ja-CPM8lRoB.js";var a={lG:e,Aq:n,Ll:t,Mr:()=>`チャットに戻る`,MS:()=>`セッションを削除`,MT:({a:e})=>`「${e}」の生成履歴・下書き・画像のタグ付けを削除します。画像ファイルと接続したチャットは削除しません。この操作は元に戻せません。必要な内容は先にエクスポートしてください。`,Nx:r,NE:()=>`生成すると最初のセッションが作られます。`,NY:()=>`セッション名を変更`,Oq:()=>`削除待ち・再試行できます`,Os:()=>`セッション`,TE:i};export{a as default};
+//# sourceMappingURL=babd906b2e15f171-DlnTCvdC.js.map

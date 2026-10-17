@@ -1,0 +1,2 @@
+import{n as e,r as t,t as n}from"./ja-CCesLANK.js";var r={Hm:()=>`閉じる（Esc）`,Hn:()=>`名前をコピー`,Hp:t,Hq:e,Hr:()=>`このファイル形式は直接プレビューできません。`,Hs:()=>`読み込み中...`,Hy:()=>`プレビューできません`,Hz:()=>`ズームをリセット`,HC:n,HD:()=>`拡大`,HE:()=>`縮小`};export{r as default};
+//# sourceMappingURL=4d2331cba501c69d-BzDEkRJ3.js.map

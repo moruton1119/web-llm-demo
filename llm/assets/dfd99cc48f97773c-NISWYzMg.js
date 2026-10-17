@@ -1,0 +1,2 @@
+import{t as e}from"./es-DApNlYpm.js";import{t}from"./es-8ehYzYUh.js";import{n,t as r}from"./es-Bt4BL7HV.js";var i={Ji:()=>`Copiar`,Jl:()=>`Cortar`,Jm:e,Jr:t,JV:()=>`Obtener información`,Kf:n,Kh:r,Km:()=>`Abrir`,Kp:()=>`Pegar`,KE:()=>`Cambiar nombre`,KI:()=>`Seleccionar todo`,KQ:()=>`Desbloquea para activar`};export{i as default};
+//# sourceMappingURL=dfd99cc48f97773c-NISWYzMg.js.map

@@ -1,0 +1,2 @@
+var e={Xt:()=>`Close session`,Xx:()=>`Initializing worker…`,Xy:()=>`New`,Xz:()=>`No sessions. Press "New" to start a worker-backed shell.`};export{e as default};
+//# sourceMappingURL=c7515bf8c74ee72f-D_QNUNmP.js.map

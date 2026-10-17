@@ -1,0 +1,2 @@
+var e=()=>`Las copias ZIP incluyen imágenes, pero no el historial que las vincula con sus ajustes. Reemplazar datos desde una copia elimina ese historial.`,t=()=>`Guardar el historial es experimental. Las actualizaciones de Naidan pueden provocar la pérdida de imágenes o información de generación. Descarga las imágenes que quieras conservar.`,n=()=>`El historial está disponible cuando Naidan usa OPFS. Puedes generar y descargar imágenes sin él.`,r=()=>`Acerca del historial guardado`;export{e as i,n,t as r,r as t};
+//# sourceMappingURL=es-E7eELSLU.js.map

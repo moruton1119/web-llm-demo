@@ -1,0 +1,1 @@
+{"version":3,"file":"c2f2f5f5ddb32b0f-C--3aO1F.js","names":[],"sources":["../../../src/strings/messages/useChatOrganization__copy_of_chat_group/en.ts"],"sourcesContent":["export const useChatOrganization__copy_of_chat_group = ({ groupName }: { groupName: string }): string => `Copy of ${groupName}`;\n"],"mappings":"WAAwD,CAAA,EAAE,KAA+C,WAAW"}

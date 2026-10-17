@@ -1,0 +1,1 @@
+{"version":3,"file":"en-C2LsnTrC.js","names":[],"sources":["../../../src/strings/messages/MessageActions__copied/en.ts"],"sourcesContent":["export const MessageActions__copied = (): string => 'Copied!';\n"],"mappings":"AAAA,IAAa,MAAuC"}

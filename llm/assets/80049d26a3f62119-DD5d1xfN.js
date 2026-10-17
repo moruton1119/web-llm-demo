@@ -1,0 +1,2 @@
+import{t as e}from"./es-D2li-y0A.js";var t={o:e,zn:()=>`OTRA RAMA`,zo:()=>`Coincidencia en la conversación`,zp:()=>`... mensajes siguientes ...`,zq:({count:e})=>`${e} ${e===1?`mensaje`:`mensajes`}`,zr:()=>`... mensajes anteriores ...`,zs:()=>`Historial reciente`,zt:()=>`Selecciona un elemento para previsualizar`};export{t as default};
+//# sourceMappingURL=80049d26a3f62119-DD5d1xfN.js.map

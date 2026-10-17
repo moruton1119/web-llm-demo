@@ -1,0 +1,2 @@
+var e={gO:()=>`选择生成的 URL 中要省略的数据。`,gP:({host:e})=>`已复制 ${e} 的 URL`,gQ:({host:e})=>`复制 ${e} 的 URL`,gR:()=>`精选`,gS:()=>`develop 分支`,gT:()=>`排除附件`,gU:()=>`排除聊天历史记录`,gV:()=>`排除聊天`,gW:()=>`已排除的数据`,gX:({errorMessage:e})=>`复制当前状态 URL 失败：${e}`,gY:({errorMessage:e})=>`打开当前状态 URL 失败：${e}`,gZ:()=>`仅本地`,g$:()=>`打开当前状态`,g_:({host:e})=>`打开 ${e}`,ha:()=>`使用与“通过 URL 分享”相同的 URL 导入格式，在另一个部署中打开此存储状态。`,hb:()=>`生产环境`,hc:()=>`标准`,hd:()=>`状态内容`};export{e as default};
+//# sourceMappingURL=39e03c71b057b55b-uWrIIKXA.js.map

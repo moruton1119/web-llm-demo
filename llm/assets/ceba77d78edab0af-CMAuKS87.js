@@ -1,0 +1,2 @@
+import{t as e}from"./pt-BR-DJF0oLBv.js";import{t}from"./pt-BR-CEZdwyEW.js";import{t as n}from"./pt-BR-Ldi27BoR.js";import{t as r}from"./pt-BR-jzdbG2Wg.js";var i={d:e,PU:()=>`Escolher arquivos GGUF`,PV:()=>`Escolher pasta do modelo`,PZ:()=>`Solte pastas de modelos ou arquivos GGUF aqui`,Qc:r,Qd:n,Qr:t,Qs:()=>`Ou escolha arquivos baixados no seu dispositivo. Eles são salvos localmente neste navegador.`};export{i as default};
+//# sourceMappingURL=ceba77d78edab0af-CMAuKS87.js.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"f6536bb035ae64d4-APNSvbbM.js","names":[],"sources":["../../../src/strings/messages/AssistantWaitingIndicator__waiting_for_response/de.ts"],"sourcesContent":["export const AssistantWaitingIndicator__waiting_for_response = (): string => 'Warten auf Antwort...';\n"],"mappings":"aAA6E"}

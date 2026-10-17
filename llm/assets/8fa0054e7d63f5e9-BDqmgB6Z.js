@@ -1,0 +1,2 @@
+import{t as e}from"./pt-BR-D5uQ5KdS.js";import{t}from"./pt-BR-CEO1Qg6C2.js";var n={q$:()=>`É necessário escolher um arquivo complementar. Revise os arquivos nas configurações.`,re:()=>`Não foi possível abrir o link. Verifique o repositório e a variante e tente novamente.`,rh:()=>`Abrindo a conversa…`,rn:t,rs:()=>`A variante solicitada não existe ou é ambígua. Nenhuma alternativa foi selecionada.`,Pl:e};export{n as default};
+//# sourceMappingURL=8fa0054e7d63f5e9-BDqmgB6Z.js.map

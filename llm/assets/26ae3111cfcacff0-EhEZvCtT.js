@@ -1,0 +1,2 @@
+var e={rU:()=>`Predeterminado`,rV:()=>`Los campos vacíos usan los valores predeterminados del proveedor`,rW:()=>`JSON no válido`,rX:()=>`Parámetros del LM`,rY:()=>`Máximo de tokens`,rZ:()=>`Debe ser un array de cadenas`,r$:()=>`Penalización por presencia`,r_:()=>`Restablecer todo`,sa:()=>`Restablecer al valor predeterminado`,sb:()=>`Secuencias de parada (array JSON)`,sc:()=>`Temperatura`,sd:()=>`Top P`};export{e as default};
+//# sourceMappingURL=26ae3111cfcacff0-EhEZvCtT.js.map

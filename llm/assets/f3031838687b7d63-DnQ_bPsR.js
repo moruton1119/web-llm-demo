@@ -1,0 +1,2 @@
+import{t as e}from"./zh-Hans-8SqsMXK1.js";import{t}from"./zh-Hans-3EE5yX-22.js";var n={Po:e,Te:()=>`自动选择依据张量结构。同结构衍生模型仍可能改变结果。此文本生图界面不使用图像编辑投影器。`,Tg:()=>`模型组件`,TS:t,TT:()=>`需要检查的文件`,Va:()=>`显示未验证的本地权重（高级）`};export{n as default};
+//# sourceMappingURL=f3031838687b7d63-DnQ_bPsR.js.map

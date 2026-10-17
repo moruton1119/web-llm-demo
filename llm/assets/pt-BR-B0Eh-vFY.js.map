@@ -1,0 +1,1 @@
+{"version":3,"file":"pt-BR-B0Eh-vFY.js","names":[],"sources":["../../../src/strings/messages/LlamaCppBrowserHuggingFaceManager__download_failed_retry_or_resume/pt-BR.ts"],"sourcesContent":["export const LlamaCppBrowserHuggingFaceManager__download_failed_retry_or_resume = (): string => \"A operação falhou. Tente novamente ou retome o download.\";\n"],"mappings":"AAAA,IAAa,MAAmF"}

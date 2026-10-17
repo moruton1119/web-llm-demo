@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="en">
+  <head>
+<script>
+  /* MoruLabo Web AI Lab: PC-only guard */
+  if (/Android|iPhone|iPad|iPod|Mobile|Silk/i.test(navigator.userAgent)) {
+    location.replace('../mobile-block.html');
+  }
+</script>
+    <style>:root {
+  --naidan-page-background: #f9fafb;
+}
+:root[data-naidan-resolved-theme='dark'] {
+  --naidan-page-background: #030712;
+}
+html,
+body,
+#app {
+  min-height: 100%;
+  margin: 0;
+  background-color: var(--naidan-page-background);
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-naidan-resolved-theme]) {
+    --naidan-page-background: #030712;
+    color-scheme: dark;
+  }
+}</style>
+    <script id="naidan-initial-theme-bootstrap" data-file-protocol-standalone-script-phase="pre-runtime">/**
+ * PERFORMANCE-CRITICAL PERSISTENCE EXCEPTION
+ *
+ * Measurements showed the browser's default white page remained visible until
+ * the normal app module graph and Vue startup completed. This generated
+ * reader intentionally validates naidan:theme_mode without Zod so the
+ * correct page background can be applied before the first paint. This is the
+ * only approved non-Zod persistence read in Naidan. It is read-only, falls back
+ * to system, and must never be copied to another persisted value without an
+ * independently reviewed first-paint requirement.
+ */
+(function () {
+  var mode = 'system';
+  try {
+    var rawMode = localStorage.getItem("naidan:theme_mode");
+    switch (rawMode) {
+    case "light":
+      mode = rawMode;
+      break;
+    case "dark":
+      mode = rawMode;
+      break;
+    case "system":
+      mode = rawMode;
+      break;
+    case null:
+      break;
+    default:
+      break;
+    }
+  } catch (_error) {
+    mode = 'system';
+  }
+
+  var systemIsDark = typeof matchMedia === 'function'
+    && matchMedia('(prefers-color-scheme: dark)').matches;
+  var resolvedTheme = 'light';
+  switch (mode) {
+  case 'light':
+    resolvedTheme = 'light';
+    break;
+  case 'dark':
+    resolvedTheme = 'dark';
+    break;
+  case 'system':
+    resolvedTheme = systemIsDark ? 'dark' : 'light';
+    break;
+  }
+  var root = document.documentElement;
+  if (resolvedTheme === 'dark') {
+    root.classList.add('dark');
+  } else {
+    root.classList.remove('dark');
+  }
+  root.style.colorScheme = resolvedTheme;
+  root.setAttribute("data-naidan-resolved-theme", resolvedTheme);
+  root.setAttribute("data-naidan-theme-control", 'document-bootstrap');
+})();</script>
+
+    <meta charset="UTF-8" />
+    <meta name="referrer" content="no-referrer" />
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <title data-document-metadata="">Naidan | Run AI on your device, directly in your browser</title><meta name="description" data-document-metadata="" content="A privacy-focused, local-first AI app. Run models on your device, directly in your browser, or connect to OpenAI-compatible APIs and Ollama."><meta property="og:title" data-document-metadata="" content="Naidan | Run AI on your device, directly in your browser"><meta property="og:description" data-document-metadata="" content="A privacy-focused, local-first AI app. Run models on your device, directly in your browser, or connect to OpenAI-compatible APIs and Ollama."><meta name="twitter:title" data-document-metadata="" content="Naidan | Run AI on your device, directly in your browser"><meta name="twitter:description" data-document-metadata="" content="A privacy-focused, local-first AI app. Run models on your device, directly in your browser, or connect to OpenAI-compatible APIs and Ollama."><meta property="og:url" content="https://naidan.nwtgck.org"><meta property="og:type" content="website"><meta property="og:image" content="https://naidan.nwtgck.org/favicon.svg"><meta name="twitter:card" content="summary"><meta name="twitter:image" content="https://naidan.nwtgck.org/favicon.svg"><link rel="canonical" href="https://naidan.nwtgck.org"><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"Naidan","url":"https://naidan.nwtgck.org","description":"A privacy-focused, local-first AI app. Run models on your device, directly in your browser, or connect to OpenAI-compatible APIs and Ollama.","applicationCategory":"UtilitiesApplication","operatingSystem":"Any"}</script>
+    <script type="module" crossorigin src="./assets/app-DnBqaxXf.js"></script>
+    <link rel="modulepreload" crossorigin href="./assets/privacy-fetch-broker/worker-transport-1jpiQ9uS.js">
+    <link rel="modulepreload" crossorigin href="./assets/rolldown-runtime-CNC7AqOf.js">
+    <link rel="modulepreload" crossorigin href="./assets/vue.runtime.esm-bundler-CbicM13T.js">
+    <link rel="modulepreload" crossorigin href="./assets/ui-locale-BDppyGjz.js">
+    <link rel="modulepreload" crossorigin href="./assets/strings-CNSnmhhc.js">
+    <link rel="modulepreload" crossorigin href="./assets/preload-helper-DYl5dUZ5.js">
+    <link rel="modulepreload" crossorigin href="./assets/useConfirm-BVYUCyeZ.js">
+    <link rel="modulepreload" crossorigin href="./assets/ac1b5c0961a7269b6a053ee64276ed0e20a7f48aefb9f67519539d23aaf10149-Dn_Qbla5.js">
+    <link rel="modulepreload" crossorigin href="./assets/lm-parameters-DKdoW9i8.js">
+    <link rel="modulepreload" crossorigin href="./assets/id-C-7ZtHvq.js">
+    <link rel="modulepreload" crossorigin href="./assets/missingAsUndefined-6w4KTtZ7.js">
+    <link rel="modulepreload" crossorigin href="./assets/dto-O92OkoyM.js">
+    <link rel="modulepreload" crossorigin href="./assets/exact-object-CkmgpEMY.js">
+    <link rel="modulepreload" crossorigin href="./assets/mappers-B6vkFSVZ.js">
+    <link rel="modulepreload" crossorigin href="./assets/experimental-image-generation.dto-BBxHBs8z.js">
+    <link rel="modulepreload" crossorigin href="./assets/image-generation-history-CgD8Djsa.js">
+    <link rel="modulepreload" crossorigin href="./assets/image-generation-TMZDBvtq.js">
+    <link rel="modulepreload" crossorigin href="./assets/llama-cpp-browser-model-launch-BG4-zWOn.js">
+    <link rel="modulepreload" crossorigin href="./assets/constants-DFPZFX1I.js">
+    <link rel="modulepreload" crossorigin href="./assets/promise-BSD_Cqkf.js">
+    <link rel="modulepreload" crossorigin href="./assets/opfs-detection-Cr7U6RwZ.js">
+    <link rel="modulepreload" crossorigin href="./assets/useGlobalEvents-Bz9q95M0.js">
+    <link rel="modulepreload" crossorigin href="./assets/service-Dr_nhUGL.js">
+    <link rel="modulepreload" crossorigin href="./assets/types-B25iuca6.js">
+    <link rel="modulepreload" crossorigin href="./assets/debug-log-D_zLMy6T.js">
+    <link rel="modulepreload" crossorigin href="./assets/memory-diagnostics-C1XuythS.js">
+    <link rel="modulepreload" crossorigin href="./assets/memory-diagnostics-store-CiKe_Lw7.js">
+    <link rel="modulepreload" crossorigin href="./assets/index-hosted-CPF9Tqej.js">
+    <link rel="modulepreload" crossorigin href="./assets/module-loader-CZQG6-5b.js">
+    <link rel="modulepreload" crossorigin href="./assets/fakeLmEndpointUrl-DYHSH7vY.js">
+    <link rel="modulepreload" crossorigin href="./assets/createLucideIcon-BJaUlhYa.js">
+    <link rel="stylesheet" crossorigin href="./assets/app-hR9Y8IAv.css">
+  <link rel="manifest" href="./manifest.webmanifest"></head>
+  <body>
+    <div id="app"></div>
+  </body>
+</html>

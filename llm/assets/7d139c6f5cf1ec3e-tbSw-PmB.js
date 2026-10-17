@@ -1,0 +1,2 @@
+import{t as e}from"./zh-Hans-DeGDwHYb.js";var t={sL:()=>`取消`,sM:()=>`清除`,sN:()=>`清除所有文本`,sO:()=>`下载图像`,sP:()=>`生成失败`,sQ:()=>`高`,sR:()=>`图像已生成。`,sS:({fileName:e,fileSize:t})=>`图像缺失（${e}）- ${t}`,sT:()=>`低`,sU:()=>`中`,sV:()=>`更多消息工具`,sW:()=>`关闭`,sX:()=>`打开高级编辑器`,sY:()=>`选项/工具`,sZ:()=>`重试`,s$:()=>`发送并分支`,s_:()=>`停止生成`,ta:()=>`思考`,tb:()=>`思考：已禁用`,tc:({effortLabel:e})=>`思考：${e} 强度\n（注意：某些模型可能会忽略特定强度级别）`,td:()=>`工具`,te:()=>`更新并分支`,tf:()=>`你`,b:e};export{t as default};
+//# sourceMappingURL=7d139c6f5cf1ec3e-tbSw-PmB.js.map

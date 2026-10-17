@@ -1,0 +1,2 @@
+import{t as e}from"./es-Cd0-joEY2.js";import{t}from"./es-XC2oGSF0.js";var n={mz:()=>`Cerrar vista previa`,mA:()=>`Details and actions`,mB:e,mC:()=>`Imagen siguiente`,mD:()=>`Imagen anterior`,mE:()=>`Ajustar imagen`,mF:()=>`Acercar`,mG:()=>`Alejar`,Tt:t};export{n as default};
+//# sourceMappingURL=3ee025aec89d1a9b-C8Uyz3Vg.js.map

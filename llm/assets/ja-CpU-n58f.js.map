@@ -1,0 +1,1 @@
+{"version":3,"file":"ja-CpU-n58f.js","names":[],"sources":["../../../src/strings/messages/naidanRpc__title/ja.ts"],"sourcesContent":["export const naidanRpc__title = (): string => \"Naidan RPC\";\n"],"mappings":"AAAA,IAAa,MAAiC"}

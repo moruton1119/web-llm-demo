@@ -1,0 +1,2 @@
+var e={pG:()=>`Also delete shared multimodal files`,pH:()=>`Other variants in this repository also use these files and will lose multimodal support.`,PY:()=>`Delete this model from this browser? The original file is not changed.`,Qa:()=>`Files to delete`};export{e as default};
+//# sourceMappingURL=83ba18f0a777ec5b-Cf4oqPLL.js.map

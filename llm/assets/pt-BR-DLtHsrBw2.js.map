@@ -1,0 +1,1 @@
+{"version":3,"file":"pt-BR-DLtHsrBw2.js","names":[],"sources":["../../../src/strings/messages/SHARED__browser_provided/pt-BR.ts"],"sourcesContent":["export const SHARED__browser_provided = (): string => 'Fornecido pelo navegador';\n"],"mappings":"AAAA,IAAa,MAAyC"}

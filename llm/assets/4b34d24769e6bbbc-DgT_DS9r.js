@@ -1,0 +1,2 @@
+import{t as e}from"./ja-BsUmx1qx.js";import{t}from"./ja-CwgFXl5a.js";import{t as n}from"./ja-BkDgVCOo.js";import{t as r}from"./ja-CW1qW4Gd.js";var i={qX:n,qY:()=>`端末内のモデルファイルを確認中…`,q_:()=>`モデルを準備できませんでした。再試行するか、設定画面でファイルを確認してください。`,ra:()=>`このチャットグループで会話できますが、グローバルのデフォルト設定を保存できませんでした。`,ri:()=>`モデルの準備は、送信時にもう一度試します。`,rj:()=>`量子化`,rk:()=>`チャットの準備ができました。`,rl:()=>`量子化の候補を確認`,rm:()=>`モデル情報を復元中…`,rn:t,rp:()=>`このモデルで始める`,rq:()=>`この環境では実行できません。設定画面で詳細を確認してください。`,Em:r,PG:e};export{i as default};
+//# sourceMappingURL=4b34d24769e6bbbc-DgT_DS9r.js.map

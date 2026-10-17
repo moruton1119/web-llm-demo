@@ -1,0 +1,2 @@
+import{t as e}from"./zh-Hans-CpU-n58f.js";import{n as t,t as n}from"./zh-Hans-Ch92QjAn.js";var r={zC:()=>`关于`,zD:()=>`连接`,zE:()=>`开发者`,zF:()=>`放弃`,zG:()=>`放弃未保存的更改？`,zH:()=>`连接设置中有未保存的更改。确定要放弃这些更改吗？`,zI:({errorMessage:e})=>`导入配方失败：${e}`,zJ:()=>`文件`,zK:()=>`文件夹`,zL:()=>`继续编辑`,zM:()=>`llama.cpp browser`,zN:()=>`提供商配置文件`,zO:()=>`配方`,zP:()=>`设置`,zQ:()=>`独立版`,zR:()=>`存储`,zS:({recipeCount:e})=>`已成功将 ${e} 个配方作为聊天组导入`,zT:()=>`工具`,zU:()=>`Transformers.js`,QQ:t,QW:()=>`Open speed investigation`,Rm:n,SA:e};export{r as default};
+//# sourceMappingURL=787e60e38a61b797-CtdfjYFH.js.map

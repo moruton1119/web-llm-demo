@@ -1,0 +1,2 @@
+var e={qQ:()=>`No native app to install or local inference server to set up.`,qR:()=>`Inference runs inside this browser, not in the cloud.`,qS:()=>`The model files are stored in your browser on this device. Downloading them uses the network.`,qT:()=>`Model files from Hugging Face`,qU:()=>`No separate app or server`,qV:()=>`On your device, inside your browser`,qW:()=>`This describes inference with this model. Tools and other model connections may use the network.`,ro:()=>`Private, in your browser`};export{e as default};
+//# sourceMappingURL=c720e512f3227161-PYNRK6hA.js.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"ko-CCG7RDLs.js","names":[],"sources":["../../../src/strings/messages/llamaCppBrowserDownloads__save_file_to_device/ko.ts"],"sourcesContent":["export const llamaCppBrowserDownloads__save_file_to_device = (): string => \"기기에 파일 저장\";\n"],"mappings":"AAAA,IAAa,MAA8D"}

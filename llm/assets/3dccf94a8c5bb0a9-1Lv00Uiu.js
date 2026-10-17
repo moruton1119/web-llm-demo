@@ -1,0 +1,2 @@
+import{t as e}from"./en-DMqv1OIc.js";var t={Qd:e,Qf:()=>`Import a downloaded GGUF file. Model files stay in this browser.`,Qo:()=>`Manage GGUF models`};export{t as default};
+//# sourceMappingURL=3dccf94a8c5bb0a9-1Lv00Uiu.js.map

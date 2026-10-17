@@ -1,0 +1,1 @@
+{"version":3,"file":"f35aa63f15259486-C5SMJNsE.js","names":[],"sources":["../../../src/strings/messages/weshTerminal__debug_terminal/zh-Hans.ts"],"sourcesContent":["export const weshTerminal__debug_terminal = (): string => '调试终端';\n"],"mappings":"8FAA0D"}

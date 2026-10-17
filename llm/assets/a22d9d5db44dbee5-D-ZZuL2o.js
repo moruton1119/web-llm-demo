@@ -1,0 +1,2 @@
+import{a as e,c as t,i as n,l as r,n as i,o as a,r as o,s,t as c}from"./zh-Hans-CHcw2KHH.js";var l={nK:r,nL:t,nM:()=>`选择文件`,nN:s,nO:()=>`请选择最多 16 个非空 GGUF 或 safetensors 文件。`,nP:a,nQ:e,nR:n,nS:()=>`尚未验证与所选模型的兼容性。仅添加您主动选择的适配器。`,nT:o,nU:i,nV:c};export{l as default};
+//# sourceMappingURL=a22d9d5db44dbee5-D-ZZuL2o.js.map

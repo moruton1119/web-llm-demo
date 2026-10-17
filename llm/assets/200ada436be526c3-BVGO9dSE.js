@@ -1,0 +1,2 @@
+import{t as e}from"./ko-DG0Baw5s.js";import{t}from"./ko-CM7ncooL.js";import{t as n}from"./ko-Dnob2ovw.js";import{t as r}from"./ko-Cx_OK7_r.js";import{t as i}from"./ko-DFGozGuf.js";import{t as a}from"./ko-CzoHhH2h.js";var o={d:e,IZ:()=>`추가`,Ja:()=>`아카이브 이름`,Jf:t,Jk:()=>`만드는 중…`,Jm:n,Jr:r,Js:()=>`디렉터리 다운로드`,Jy:()=>`항목 제외`,Jz:()=>`제외할 파일 또는 하위 디렉터리를 선택하세요. 디렉터리를 제외하면 그 아래의 모든 항목도 제외됩니다.`,JJ:()=>`제외 제안을 불러오지 못했습니다`,JN:a,JS:i,Kk:()=>`일치하는 항목이 없습니다`,Kn:()=>`선택 사항`,KD:()=>`상대 경로 입력`,KP:()=>`입력하여 결과 범위 좁히기`};export{o as default};
+//# sourceMappingURL=200ada436be526c3-BVGO9dSE.js.map

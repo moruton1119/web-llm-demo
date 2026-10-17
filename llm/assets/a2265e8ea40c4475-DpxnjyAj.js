@@ -1,0 +1,2 @@
+import{t as e}from"./de-B0wJnwYW.js";import{t}from"./de-C0mlW8yh.js";var n={d:e,S$:()=>`Ordner auswählen`,TO:()=>`Lokale Modelle importieren`,TP:()=>`Modellordner hier ablegen oder zum Hinzufügen auswählen.`,TQ:()=>`Repository wird lokal kopiert…`,UM:t};export{n as default};
+//# sourceMappingURL=a2265e8ea40c4475-DpxnjyAj.js.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"0c431bf1e84b7384-2Hda-jLr.js","names":[],"sources":["../../../src/strings/messages/fileExplorer__modified/zh-Hans.ts","../../../src/strings/messages/fileExplorer__type/zh-Hans.ts"],"sourcesContent":["export const fileExplorer__modified = (): string => '已修改';\n","export const fileExplorer__type = (): string => '类型';\n"],"mappings":"0DAAoD,uBCAJ"}

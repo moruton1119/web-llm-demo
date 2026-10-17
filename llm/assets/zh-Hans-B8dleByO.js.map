@@ -1,0 +1,1 @@
+{"version":3,"file":"zh-Hans-B8dleByO.js","names":[],"sources":["../../../src/strings/messages/fileExplorer__name/zh-Hans.ts","../../../src/strings/messages/fileExplorer__size/zh-Hans.ts"],"sourcesContent":["export const fileExplorer__name = (): string => '名称';\n","export const fileExplorer__size = (): string => '大小';\n"],"mappings":"AAAA,IAAa,MAAmC,KCAnC,MAAmC"}

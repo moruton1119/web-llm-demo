@@ -1,0 +1,2 @@
+import{t as e}from"./ko-CGonZLUV.js";var t={qh:({hours:e,minutes:t})=>`약 ${e}시간 ${t}분 남음`,qi:({hours:e})=>`약 ${e}시간 남음`,qj:({minutes:e})=>`약 ${e}분 남음`,qk:({seconds:e})=>`약 ${e}초 남음`,qz:e,qA:()=>`남은 시간 계산 중…`,qI:()=>`최종 확인 중…`};export{t as default};
+//# sourceMappingURL=0ec5094a53e8dc76-D9cG2CkU.js.map

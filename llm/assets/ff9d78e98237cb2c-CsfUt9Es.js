@@ -1,0 +1,2 @@
+import{t as e}from"./de-DI3iC8Vt2.js";import{t}from"./de-yMuQEm8n.js";var n={Jb:()=>`Binärdatei`,Jg:()=>`Vorschau schließen`,Jr:e,JP:()=>`Datei ist zu groß für die Vorschau`,JS:t,JU:()=>`Format`,J_:()=>`Trotzdem laden`,Kd:()=>`Geändert:`,KB:()=>`Vorschau`,KH:()=>`Datei auswählen`,KM:()=>`Größe:`};export{n as default};
+//# sourceMappingURL=ff9d78e98237cb2c-CsfUt9Es.js.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"1950867418996272-BTNLJfPV.js","names":[],"sources":["../../../src/strings/messages/fileExplorer__selected_count_label/zh-Hans.ts"],"sourcesContent":["export const fileExplorer__selected_count_label = ({ count }: { count: number }): string => `已选择 ${count} 项`;\n"],"mappings":"0DAAmD,CAAE,WAAuC,OAAO,EAAM"}

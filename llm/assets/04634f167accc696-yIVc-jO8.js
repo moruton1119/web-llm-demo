@@ -1,0 +1,2 @@
+import{t as e}from"./ko-DG0Baw5s.js";import{t}from"./ko-DOPrcHdl.js";import{t as n}from"./ko-DmwNa4s-.js";var r={d:e,Pj:()=>`기본 모델을 변경할까요?`,Pn:()=>`기본 모델`,Pr:()=>`엔드포인트 유형`,Pt:()=>`기본 설정이 변경됩니다. 개별 설정이 있는 채팅과 그룹은 변경되지 않습니다.`,Py:()=>`설정되지 않음`,PK:n,PL:()=>`확인 중 설정이 변경되었습니다. 새 값을 확인하고 다시 시도하세요.`,Qr:t};export{r as default};
+//# sourceMappingURL=04634f167accc696-yIVc-jO8.js.map

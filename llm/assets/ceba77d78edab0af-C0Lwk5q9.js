@@ -1,0 +1,2 @@
+import{t as e}from"./ja-CiZRiyQ8.js";import{t}from"./ja-BxJxIZYX.js";import{t as n}from"./ja-B-ewSUlk.js";import{t as r}from"./ja-BVicUxoa.js";var i={d:e,PU:()=>`GGUFファイルを選択`,PV:()=>`モデルのフォルダを選択`,PZ:()=>`モデルのフォルダまたはGGUFファイルをここにドロップ`,Qc:r,Qd:n,Qr:t,Qs:()=>`または、この端末にダウンロードしたファイルを選択してください。ファイルはこのブラウザ内に保存されます。`};export{i as default};
+//# sourceMappingURL=ceba77d78edab0af-C0Lwk5q9.js.map

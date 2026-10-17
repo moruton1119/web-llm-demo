@@ -1,0 +1,1 @@
+{"version":3,"file":"37c61d29c2b5cbd9-DWOOMXJb.js","names":[],"sources":["../../../src/strings/messages/imageBenchmark__override/de.ts"],"sourcesContent":["export const imageBenchmark__override = (): string => \"Überschreiben\";\n"],"mappings":"mTAAsD"}

@@ -1,0 +1,2 @@
+import{t as e}from"./ko-dLWv9JFL.js";var t={sh:()=>`버전 비교`,si:e,sj:()=>`링크 복사`,sk:()=>`메시지 복사`,sl:()=>`원본 복사`,sm:()=>`메시지 편집`,sn:()=>`메시지 링크를 복사하지 못했습니다.`,so:()=>`채팅 분기`,sp:()=>`메시지 링크를 클립보드에 복사했습니다.`,sq:()=>`추가 작업`,sr:()=>`추가 메시지 도구`,ss:()=>`응답 다시 생성`,st:()=>`메시지 다시 보내기`};export{t as default};
+//# sourceMappingURL=9738797f6274a02b-Cc4D9qJd.js.map

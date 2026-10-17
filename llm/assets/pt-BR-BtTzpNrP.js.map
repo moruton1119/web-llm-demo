@@ -1,0 +1,1 @@
+{"version":3,"file":"pt-BR-BtTzpNrP.js","names":[],"sources":["../../../src/strings/messages/naidanRpc__refresh/pt-BR.ts"],"sourcesContent":["export const naidanRpc__refresh = (): string => \"Recarregar conexões salvas\";\n"],"mappings":"AAAA,IAAa,MAAmC"}

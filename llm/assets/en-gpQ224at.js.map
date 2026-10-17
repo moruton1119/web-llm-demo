@@ -1,0 +1,1 @@
+{"version":3,"file":"en-gpQ224at.js","names":[],"sources":["../../../src/strings/messages/SHARED__browser_provided/en.ts"],"sourcesContent":["export const SHARED__browser_provided = (): string => 'Browser-provided';\n"],"mappings":"AAAA,IAAa,MAAyC"}

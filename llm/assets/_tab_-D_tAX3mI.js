@@ -1,0 +1,2 @@
+import{D as e,S as t,W as n,j as r}from"./vue.runtime.esm-bundler-CbicM13T.js";r();var i=e({__name:`[tab]`,setup(e,{expose:r}){return r({}),(e,r)=>(n(),t(`div`))}});export{i as default};
+//# sourceMappingURL=_tab_-D_tAX3mI.js.map

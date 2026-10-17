@@ -1,0 +1,2 @@
+import{t as e}from"./createLucideIcon-BJaUlhYa.js";var t=e(`panel-right`,[[`rect`,{width:`18`,height:`18`,x:`3`,y:`3`,rx:`2`,key:`afitv7`}],[`path`,{d:`M15 3v18`,key:`14nvp0`}]]);export{t};
+//# sourceMappingURL=panel-right-DHpE8oYz.js.map

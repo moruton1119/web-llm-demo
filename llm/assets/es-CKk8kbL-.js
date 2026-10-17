@@ -1,0 +1,2 @@
+var e=()=>`Añadir adaptador`,t=()=>`Elige adaptadores para el modelo seleccionado. Generar una imagen no confirma que se haya aplicado LoRA. Activa el modo de depuración para ver los registros. Esta selección no se guarda.`,n=()=>`Elegir un adaptador guardado`,r=()=>`Activado`,i=()=>`LoRA`,a=()=>`Quitar`,o=()=>`Adaptadores guardados`,s=({count:e})=>`${e} activadas`,c=()=>`Intensidad`;export{i as a,t as c,a as i,e as l,s as n,r as o,o as r,n as s,c as t};
+//# sourceMappingURL=es-CKk8kbL-.js.map

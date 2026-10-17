@@ -1,0 +1,2 @@
+import{t as e}from"./es-B6U9ncDR.js";var t={tk:()=>`Filtrar modelos...`,tl:()=>`Heredar`,tm:e,tn:()=>`Actualizar lista de modelos`,to:()=>`Seleccionar un modelo`};export{t as default};
+//# sourceMappingURL=71acc669f7e0f143-CegotHk0.js.map

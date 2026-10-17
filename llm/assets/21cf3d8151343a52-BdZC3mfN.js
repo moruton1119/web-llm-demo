@@ -1,0 +1,2 @@
+import{t as e}from"./es-XC2oGSF0.js";var t={jn:()=>`Imagen generada`,jo:()=>`No se conservó la imagen porque se alcanzó el límite de memoria para imágenes del lote.`,jp:()=>`No se conservó la imagen final de esta ejecución.`,jq:()=>`No hay una imagen final disponible para esta ejecución.`,Tt:e};export{t as default};
+//# sourceMappingURL=21cf3d8151343a52-BdZC3mfN.js.map

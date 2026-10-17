@@ -1,0 +1,2 @@
+import{t as e}from"./ja-CA_wnLjb2.js";import{t}from"./ja-BkDgVCOo.js";var n={qX:t,o:e,Ib:()=>`添付ファイルを保存できません`,Ic:()=>`キャンセル`,Id:()=>`このまま続ける`,Ie:({a:e})=>`「${e}」で生成に失敗しました`,If:()=>`現在使用しているローカルストレージには5MBの上限があります。添付ファイルはこのセッション中のみ利用でき、履歴には保存されません。永続的に保存するには、設定でストレージをOPFSへ切り替えてください。`,Ig:()=>`画像生成モデルが見つかりませんでした（x/z-image-turbo: で始まるモデル）。`,Ih:()=>`表示`};export{n as default};
+//# sourceMappingURL=c32ee0c6713db24a-B5Tud7IN.js.map

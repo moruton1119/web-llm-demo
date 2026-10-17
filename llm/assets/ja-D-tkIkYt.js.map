@@ -1,0 +1,1 @@
+{"version":3,"file":"ja-D-tkIkYt.js","names":[],"sources":["../../../src/strings/messages/fileExplorer__new_file/ja.ts","../../../src/strings/messages/fileExplorer__new_folder/ja.ts"],"sourcesContent":["export const fileExplorer__new_file = (): string => '新しいファイル';\n","export const fileExplorer__new_folder = (): string => '新しいフォルダ';\n"],"mappings":"AAAA,IAAa,MAAuC,UCAvC,MAAyC"}

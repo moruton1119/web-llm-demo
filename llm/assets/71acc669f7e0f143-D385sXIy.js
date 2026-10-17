@@ -1,0 +1,2 @@
+import{t as e}from"./pt-BR-B3c8Zbz_.js";var t={tk:()=>`Filtrar modelos...`,tl:()=>`Herdar`,tm:e,tn:()=>`Atualizar lista de modelos`,to:()=>`Selecionar um modelo`};export{t as default};
+//# sourceMappingURL=71acc669f7e0f143-D385sXIy.js.map

@@ -1,0 +1,2 @@
+import{t as e}from"./pt-BR-BgnoqNjp.js";var t={nf:e,ng:()=>`Copiar semente`,nh:()=>`Informações da imagem`,ni:()=>`Prompt`,nj:()=>`Semente`,nk:()=>`Tamanho`,nl:()=>`Etapas`};export{t as default};
+//# sourceMappingURL=444892d141a90c6d-B-jaqT3G.js.map

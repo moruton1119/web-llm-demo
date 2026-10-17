@@ -1,0 +1,2 @@
+var e=()=>`GPU作業メモリの目安（MiB）`,t=()=>`実行プロファイル`,n=()=>`重みの保持場所`,r=()=>`自動（推奨）`,i=()=>`CPU バックの重み`,a=()=>`ディスク再読込`,o=()=>`混合（テキスト/VAE は CPU、拡散はディスク）`;export{n as a,r as i,a as n,t as o,i as r,e as s,o as t};
+//# sourceMappingURL=ja-CASr51PJ.js.map

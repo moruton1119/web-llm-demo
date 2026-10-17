@@ -1,0 +1,2 @@
+import{t as e}from"./ko-DiJ4F8qe.js";var t={Qd:e,Qf:()=>`이미 다운로드한 GGUF 파일을 선택하세요. 브라우저의 비공개 저장소에 저장됩니다.`,Qo:()=>`로컬 GGUF 모델`};export{t as default};
+//# sourceMappingURL=3dccf94a8c5bb0a9-toZeJwx-.js.map

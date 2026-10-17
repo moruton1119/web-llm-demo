@@ -1,0 +1,2 @@
+var e={xW:()=>`Excluir perfil`,xX:()=>`Vá para Conexão para criar um`,xY:()=>`Nenhum modelo padrão`,xZ:()=>`Nenhum perfil salvo ainda.`,x$:({profileName:e})=>`Perfil "${e}" excluído`,x_:()=>`Perfis de provedores`,ya:()=>`Renomear perfil`,yb:()=>`Salve e alterne facilmente entre diferentes configurações de provedores de IA.`,yc:({modelId:e})=>`Título: ${e}`,yd:()=>`Desfazer`};export{e as default};
+//# sourceMappingURL=8d700ce9deb71f3c-Bf48ev9M.js.map

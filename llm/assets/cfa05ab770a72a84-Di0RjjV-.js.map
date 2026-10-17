@@ -1,0 +1,1 @@
+{"version":3,"file":"cfa05ab770a72a84-Di0RjjV-.js","names":[],"sources":["../../../src/strings/messages/PWAManager__app_ready_to_work_offline/es.ts"],"sourcesContent":["export const PWAManager__app_ready_to_work_offline = (): string => 'La aplicación está lista para funcionar sin conexión';\n"],"mappings":"cAAmE"}

@@ -1,0 +1,2 @@
+var e={pG:()=>`Excluir também os arquivos multimodais compartilhados`,pH:()=>`Outras variantes deste repositório também usam esses arquivos e perderão o suporte multimodal.`,PY:()=>`Excluir permanentemente este modelo local do armazenamento do navegador?`,Qa:()=>`Arquivos a excluir`};export{e as default};
+//# sourceMappingURL=83ba18f0a777ec5b-CWQDj4Ww.js.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"912c42f7d6c99003-DfIsw9lz.js","names":[],"sources":["../../../src/strings/messages/fileExplorer__unsupported_items_were_skipped/zh-Hans.ts"],"sourcesContent":["export const fileExplorer__unsupported_items_were_skipped = ({ count }: { count: number }): string => `已跳过 ${count.toLocaleString()} 个不受支持的项目。`;\n"],"mappings":"0DAA6D,CAAE,WAAuC,OAAO,EAAM,eAAe,EAAE"}

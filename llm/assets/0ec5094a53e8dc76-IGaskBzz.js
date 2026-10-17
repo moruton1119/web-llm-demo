@@ -1,0 +1,2 @@
+import{t as e}from"./en-CNrzECK6.js";var t={qh:({a:e,b:t})=>`About ${e} h ${t} min remaining`,qi:({a:e})=>`About ${e} h remaining`,qj:({a:e})=>`About ${e} min remaining`,qk:({a:e})=>`About ${e} seconds remaining`,qz:e,qA:()=>`Estimating remaining time…`,qI:()=>`Performing final checks…`};export{t as default};
+//# sourceMappingURL=0ec5094a53e8dc76-IGaskBzz.js.map

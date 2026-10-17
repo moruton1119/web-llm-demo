@@ -1,0 +1,1 @@
+{"version":3,"file":"zh-Hans-DxFuxeqf.js","names":[],"sources":["../../../src/strings/messages/SHARED__browser_provided/zh-Hans.ts"],"sourcesContent":["export const SHARED__browser_provided = (): string => '浏览器提供';\n"],"mappings":"AAAA,IAAa,MAAyC"}

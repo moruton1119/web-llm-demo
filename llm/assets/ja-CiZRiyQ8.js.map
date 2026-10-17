@@ -1,0 +1,1 @@
+{"version":3,"file":"ja-CiZRiyQ8.js","names":[],"sources":["../../../src/strings/messages/SHARED__cancel/ja.ts"],"sourcesContent":["export const SHARED__cancel = (): string => 'キャンセル';\n"],"mappings":"AAAA,IAAa,MAA+B"}

@@ -1,0 +1,2 @@
+import{t as e}from"./ja-BtuiN_am.js";var t={l:e,HL:()=>`画像にメタデータを埋め込めませんでした。`,HM:()=>`画像を読み込めませんでした。`,HO:()=>`ストレージに画像が見つかりません。`,HP:()=>`画像ブロックのデータが無効です`};export{t as default};
+//# sourceMappingURL=d0440fa2208f3bd4-jXJAioDA.js.map

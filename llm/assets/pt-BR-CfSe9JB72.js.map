@@ -1,0 +1,1 @@
+{"version":3,"file":"pt-BR-CfSe9JB72.js","names":[],"sources":["../../../src/strings/messages/SHARED__new_chat/pt-BR.ts"],"sourcesContent":["export const SHARED__new_chat = (): string => 'Novo chat';\n"],"mappings":"AAAA,IAAa,MAAiC"}

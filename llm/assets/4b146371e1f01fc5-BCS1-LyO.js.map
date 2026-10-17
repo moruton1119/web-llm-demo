@@ -1,0 +1,1 @@
+{"version":3,"file":"4b146371e1f01fc5-BCS1-LyO.js","names":[],"sources":["../../../src/strings/messages/chatHistoryFlow__fork_of_chat/pt-BR.ts"],"sourcesContent":["export const chatHistoryFlow__fork_of_chat = ({ chatTitle }: { chatTitle: string }): string => `Bifurcação de ${chatTitle}`;\n"],"mappings":"wDAA8C,CAAE,eAA+C,iBAAiB"}

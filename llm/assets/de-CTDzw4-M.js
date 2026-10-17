@@ -1,0 +1,2 @@
+var e=()=>`Abbrechen`,t=()=>`Sitzung schließen`,n=()=>`Sitzung schließen?`,r=()=>`Terminal schließen`,i=()=>`Dadurch wird der Worker beendet und der Sitzungsverlauf geht verloren. Fortfahren?`;export{e as a,t as i,r as n,n as r,i as t};
+//# sourceMappingURL=de-CTDzw4-M.js.map

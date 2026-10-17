@@ -1,0 +1,2 @@
+var e={gj:()=>`终止压缩`,gk:()=>`隐藏请求`,gl:()=>`实时输出`,gm:()=>`显示请求`,Ik:()=>`已中止。`,Il:()=>`正在应用压缩分支。`,In:()=>`正在构建压缩请求。`,It:()=>`正在压缩上下文`,Iu:()=>`压缩上下文失败`,Iw:()=>`完成。`,Iz:({outputChars:e})=>`正在生成压缩上下文，已收到 ${e} 个字符。`,IE:({compactedMessageCount:e,suffixMessageCount:t})=>`正在准备 ${e} 条消息，并保留最近的 ${t} 条。`,IJ:()=>`正在等待模型。`};export{e as default};
+//# sourceMappingURL=664f1de5a0260fda-ZmhHr0UC.js.map

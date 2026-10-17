@@ -1,0 +1,2 @@
+import{t as e}from"./de-DVF13XOh.js";var t={Qd:e,Qf:()=>`Wählen Sie eine bereits heruntergeladene GGUF-Datei. Sie wird im privaten Browserspeicher gespeichert.`,Qo:()=>`Lokale GGUF-Modelle`};export{t as default};
+//# sourceMappingURL=3dccf94a8c5bb0a9-Cdk5wgK4.js.map

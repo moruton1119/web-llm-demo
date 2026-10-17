@@ -1,0 +1,2 @@
+import{t as e}from"./es-DwfSTpzZ.js";import{a as t,i as n,n as r,r as i,t as a}from"./es-nJsWgtm-.js";import{t as o}from"./es-i1BCNqC1.js";import{t as s}from"./es-DpXCO1jh.js";var c={lN:({current:e,total:t})=>`Procesando paso ${e} / ${t}`,lO:({current:e,total:t})=>`${e} / ${t} ${t===1?`paso completado`:`pasos completados`}`,PO:e,Tl:t,Tw:n,TG:o,TZ:i,T$:r,UD:s,US:a,Vd:()=>`Deteniendo de forma segura…`};export{c as default};
+//# sourceMappingURL=9765884c00deaf36-Ew15jbJM.js.map

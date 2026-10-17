@@ -1,0 +1,2 @@
+function e({importModule:e,onPrefetchError:t}){let n;async function r(){if(n!==void 0)return await n;let t=e();n=t;try{return await t}catch(e){throw n===t&&(n=void 0),e}}async function i(){try{await r()}catch(e){t({error:e})}}return{load:r,prefetch:i}}export{e as t};
+//# sourceMappingURL=module-loader-CZQG6-5b.js.map

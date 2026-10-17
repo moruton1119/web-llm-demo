@@ -1,0 +1,1 @@
+{"version":3,"file":"pt-BR-Co_zPXdb2.js","names":[],"sources":["../../../src/strings/messages/SHARED__unsupported_experimental_endpoint/pt-BR.ts"],"sourcesContent":["export const SHARED__unsupported_experimental_endpoint = (): string => 'Endpoint experimental não compatível';\n"],"mappings":"AAAA,IAAa,MAA0D"}

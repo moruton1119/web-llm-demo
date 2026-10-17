@@ -1,0 +1,2 @@
+import{n as e,t}from"./en-DA8uMTEu.js";var n={I$:({a:e})=>`${e.toLocaleString()} addition(s)`,Jc:({a:e})=>`${e.toLocaleString()} blocked`,Je:()=>`Cannot place`,JA:()=>`Existing`,Kb:({a:e})=>`${e.toLocaleString()} merge(s)`,Ke:e,Kl:()=>`Not changed yet`,Ko:({a:e})=>`${e.toLocaleString()} overwrite(s)`,Kx:()=>`Placement preview`,Ky:()=>`Will add`,Kz:()=>`Will merge`,KA:()=>`Will overwrite`,KL:t,KN:()=>`Status`};export{n as default};
+//# sourceMappingURL=3057cfce84cab063-D5RoXXmx.js.map

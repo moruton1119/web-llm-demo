@@ -1,0 +1,2 @@
+var e=()=>`Vor dem Start neben „Generieren“ aktivieren: erfasst Lauf-/Schrittzeiten, übertragene Bytes und bestehende GPU-Wartevorgänge. Wartezeit ist keine GPU-Ausführungszeit. Überlappende Wartezeiten nicht einfach addieren. Begrenzte Logs bleiben lokal; Prompts und Token-Ausgaben werden unterdrückt. Dateinamen und technische Angaben vor dem Teilen prüfen.`,t=()=>`Die ausgegebenen Pixel sind einfarbig. Falls unbeabsichtigt, prüfen Sie das Diagnoseprotokoll. Keine automatische Neugenerierung.`;export{e as n,t};
+//# sourceMappingURL=de-Dpl0Yu5A.js.map

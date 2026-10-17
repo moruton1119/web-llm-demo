@@ -1,0 +1,2 @@
+import{n as e,r as t,t as n}from"./en-B7GAFJ9m.js";var r={Hl:()=>`Binary Objects`,Ho:()=>`Date`,Hp:t,Hq:e,Ht:()=>`Loading more... (click to load manually)`,Hu:()=>`Loading objects...`,Hv:()=>`Manage and browse persisted files`,Hw:()=>`Name`,Hx:()=>`No objects found`,HA:()=>`Search by name, ID, or type...`,HB:()=>`Size`,HC:n};export{r as default};
+//# sourceMappingURL=a878b1834abbc66e-B1MRdyv3.js.map

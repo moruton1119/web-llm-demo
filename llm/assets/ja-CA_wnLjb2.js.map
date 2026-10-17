@@ -1,0 +1,1 @@
+{"version":3,"file":"ja-CA_wnLjb2.js","names":[],"sources":["../../../src/strings/messages/SHARED__new_chat/ja.ts"],"sourcesContent":["export const SHARED__new_chat = (): string => '新しいチャット';\n"],"mappings":"AAAA,IAAa,MAAiC"}

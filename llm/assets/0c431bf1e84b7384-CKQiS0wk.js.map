@@ -1,0 +1,1 @@
+{"version":3,"file":"0c431bf1e84b7384-CKQiS0wk.js","names":[],"sources":["../../../src/strings/messages/fileExplorer__modified/ko.ts","../../../src/strings/messages/fileExplorer__type/ko.ts"],"sourcesContent":["export const fileExplorer__modified = (): string => '수정됨';\n","export const fileExplorer__type = (): string => '유형';\n"],"mappings":"qDAAoD,uBCAJ"}

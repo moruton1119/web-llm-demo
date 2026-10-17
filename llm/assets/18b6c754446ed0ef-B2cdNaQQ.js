@@ -1,0 +1,2 @@
+import{t as e}from"./ja-CxI7zJv5.js";var t={MD:()=>`同じ設定も表示`,ME:()=>`一覧から2枚選択します。現在の下書きではなく、保存された生成設定を比較します。`,MF:()=>`保存された設定を比較します。同じ設定でも、実行環境・バージョン・モデルファイルの変更によって同一画像になるとは限りません。`,Nt:e};export{t as default};
+//# sourceMappingURL=18b6c754446ed0ef-B2cdNaQQ.js.map

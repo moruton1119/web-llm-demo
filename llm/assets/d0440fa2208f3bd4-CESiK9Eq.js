@@ -1,0 +1,2 @@
+import{t as e}from"./pt-BR-C0CnJq2w.js";var t={l:e,HL:()=>`Falha ao incorporar metadados na imagem.`,HM:()=>`Falha ao carregar imagem`,HO:()=>`Imagem não encontrada no armazenamento`,HP:()=>`Dados de bloco de imagem inválidos`};export{t as default};
+//# sourceMappingURL=d0440fa2208f3bd4-CESiK9Eq.js.map

@@ -1,0 +1,2 @@
+var e={qb:()=>`Firefox の WebGPU では、既知の問題によりモデルの実行が大幅に遅くなることがあります。`,qc:()=>`タイマーによる定期的な確認が、GPU の処理完了通知を遅らせる問題。`,qd:()=>`mapAsync() による GPU からの読み戻しが遅い問題の再現報告。`,qe:()=>`Mozilla のバグ報告（英語）`,qf:()=>`高速な実行には、Chrome、Edge、Brave などの Chromium 系ブラウザを推奨します。`,qg:()=>`技術的な詳細`};export{e as default};
+//# sourceMappingURL=9279966d429ede46-CM4wy1F9.js.map

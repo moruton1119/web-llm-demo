@@ -1,0 +1,2 @@
+import{n as e,t}from"./de-bVc8P8GB.js";import{n,r,t as i}from"./de-Ctbpf2tE2.js";import{t as a}from"./de-yMuQEm8n.js";import{t as o}from"./de-BeKqhqbq.js";var s={Jd:({count:e})=>`${e.toLocaleString()} Byte`,Jj:r,Jv:n,Jw:i,Jx:({name:e,kind:t,size:n,path:r})=>`${e}\nArt: ${t}\nGröße: ${n}\nPfad: ${r}`,JN:o,JS:a,Kf:e,Kh:t};export{s as default};
+//# sourceMappingURL=bb28bf389053af8f-vce9Hf2G.js.map

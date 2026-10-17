@@ -1,0 +1,1 @@
+{"version":3,"file":"1971fb86c4d34579-CMM2gcKV.js","names":[],"sources":["../../../src/strings/messages/chatApproval__page_id_label/pt-BR.ts"],"sourcesContent":["export const chatApproval__page_id_label = (): string => 'ID da página:';\n"],"mappings":"cAAyD"}

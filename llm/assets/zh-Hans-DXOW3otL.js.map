@@ -1,0 +1,1 @@
+{"version":3,"file":"zh-Hans-DXOW3otL.js","names":[],"sources":["../../../src/strings/messages/naidanRpc__no_connections/zh-Hans.ts"],"sourcesContent":["export const naidanRpc__no_connections = (): string => \"没有已保存的连接。请在 Naidan RPC 设置选项卡中注册连接。\";\n"],"mappings":"AAAA,IAAa,MAA0C"}

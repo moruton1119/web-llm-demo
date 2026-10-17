@@ -1,0 +1,1 @@
+{"version":3,"file":"ko-DG0Baw5s.js","names":[],"sources":["../../../src/strings/messages/SHARED__cancel/ko.ts"],"sourcesContent":["export const SHARED__cancel = (): string => '취소';\n"],"mappings":"AAAA,IAAa,MAA+B"}

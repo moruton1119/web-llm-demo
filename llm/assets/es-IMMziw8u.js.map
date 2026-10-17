@@ -1,0 +1,1 @@
+{"version":3,"file":"es-IMMziw8u.js","names":[],"sources":["../../../src/strings/messages/SHARED__browser_provided/es.ts"],"sourcesContent":["export const SHARED__browser_provided = (): string => 'Proporcionado por el navegador';\n"],"mappings":"AAAA,IAAa,MAAyC"}

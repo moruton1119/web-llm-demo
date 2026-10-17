@@ -1,0 +1,1 @@
+{"version":3,"file":"zh-Hans-Bsi4oKGa.js","names":[],"sources":["../../../src/strings/messages/fileExplorer__file/zh-Hans.ts"],"sourcesContent":["export const fileExplorer__file = (): string => '文件';\n"],"mappings":"AAAA,IAAa,MAAmC"}

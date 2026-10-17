@@ -1,0 +1,1 @@
+{"version":3,"file":"zh-Hans-DB9BrJjo.js","names":[],"sources":["../../../src/strings/messages/LlamaCppBrowserHuggingFaceManager__downloading_model/zh-Hans.ts"],"sourcesContent":["export const LlamaCppBrowserHuggingFaceManager__downloading_model = (): string => \"正在下载模型\";\n"],"mappings":"AAAA,IAAa,MAAqE"}

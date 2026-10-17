@@ -1,0 +1,2 @@
+import{t as e}from"./zh-Hans-8VCDMMLQ.js";import{n as t,r as n,t as r}from"./zh-Hans-DYZTXWMy.js";var i={VZ:()=>`访问模式`,V$:({count:e})=>`${e} 个正在使用`,We:n,Wi:()=>`配置`,Wj:()=>`已复制`,Wk:()=>`已复制的文件夹`,Wr:e,WQ:()=>`使用中`,WS:()=>`已链接`,WT:()=>`已链接的文件夹`,WV:()=>`更多操作`,WX:()=>`名称不能为空`,WZ:()=>`未使用`,Xc:()=>`路径`,Xf:t,Xg:r,Xk:()=>`重命名`,Xl:()=>`保存`,Xm:()=>`保存更改`,Xn:()=>`停止使用`,Xo:()=>`使用`};export{i as default};
+//# sourceMappingURL=edc9888bec23b598-BKB9LwbV.js.map

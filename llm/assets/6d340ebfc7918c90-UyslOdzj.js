@@ -1,0 +1,2 @@
+var e={pW:()=>`无法复制。请选择地址并手动复制。`,pX:()=>`复制地址`,pY:()=>`当前处理的文件`,pZ:()=>`文件与下载来源`,p$:()=>`这些是 Naidan 请求的文件地址。`,p_:()=>`修订版本`,qa:()=>`已复制地址。`};export{e as default};
+//# sourceMappingURL=6d340ebfc7918c90-UyslOdzj.js.map

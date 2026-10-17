@@ -1,0 +1,2 @@
+import{t as e}from"./en-C_mi5PX3.js";var t={oj:()=>`Completion unconfirmed — saving does not mark this run as successful.`,ok:()=>`Discard pending save`,ol:()=>`Discard this pending save? Unsaved data will be lost. Already saved images are not deleted.`,om:()=>`Download image`,on:()=>`Run information has not been saved. Image data may already be saved.`,oo:()=>`Retry saving to the original store without generating again. These items remain only until this tab is closed.`,op:()=>`Unsaved runs`,Oi:e};export{t as default};
+//# sourceMappingURL=b3ee4fb242318685-BznIIRM9.js.map

@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ウェブLLM チャット — もるラボ Web AI Lab</title>
+<meta http-equiv="refresh" content="0; url=./llm/">
+<link rel="canonical" href="./llm/">
+<style>
+  body {
+    background: #0a0a0f; color: #e8e8ef;
+    font-family: "Segoe UI", "Hiragino Sans", "Noto Sans JP", system-ui, sans-serif;
+    min-height: 100vh; display: flex; align-items: center; justify-content: center;
+  }
+  a { color: #6e7bff; }
+</style>
+</head>
+<body>
+<noscript><p>JavaScriptを有効にしてください。アプリは <a href="./llm/">./llm/</a> にあります。</p></noscript>
+<p>ウェブLLM チャットへ移動中… <a href="./llm/">進まない場合はこちら</a></p>
+<script>
+  if (/Android|iPhone|iPad|iPod|Mobile|Silk/i.test(navigator.userAgent)) {
+    location.replace('./mobile-block.html');
+  } else {
+    location.replace('./llm/');
+  }
+</script>
+</body>
+</html>

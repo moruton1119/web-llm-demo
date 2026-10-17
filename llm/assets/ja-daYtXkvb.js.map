@@ -1,0 +1,1 @@
+{"version":3,"file":"ja-daYtXkvb.js","names":[],"sources":["../../../src/strings/messages/imageGeneration__close_chat/ja.ts"],"sourcesContent":["export const imageGeneration__close_chat = (): string => \"チャットを閉じる\";\n"],"mappings":"AAAA,IAAa,MAA4C"}

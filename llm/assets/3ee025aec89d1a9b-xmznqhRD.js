@@ -1,0 +1,2 @@
+import{t as e}from"./en-g22i6nxf.js";import{t}from"./en-XC2oGSF0.js";var n={mz:()=>`Close preview`,mA:()=>`Details and actions`,mB:e,mC:()=>`Next image`,mD:()=>`Previous image`,mE:()=>`Fit image`,mF:()=>`Zoom in`,mG:()=>`Zoom out`,Tt:t};export{n as default};
+//# sourceMappingURL=3ee025aec89d1a9b-xmznqhRD.js.map

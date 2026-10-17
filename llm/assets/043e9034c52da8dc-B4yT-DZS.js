@@ -1,0 +1,2 @@
+import{t as e}from"./ja-CA_wnLjb2.js";import{t}from"./ja-ckuHDKiz.js";var n={o:e,z_:()=>`チャットを追加`,Aa:()=>`キャンセル`,Ac:()=>`チャットグループを作成`,Ad:()=>`現在のグループ`,Ae:()=>`デフォルトモデル`,Af:()=>`グループを削除`,Ag:()=>`グループを削除しますか？`,Ah:({a:e,b:t})=>`「${e}」を削除しますか？中にある${t}件のチャットはすべて完全に削除されます。`,Ai:()=>`一時セッション`,Aj:()=>`グループ名…`,Ak:({a:e})=>`${e}で新しいチャット`,Al:()=>`なし`,An:()=>`グループ名を変更`,Ao:()=>`検索（Cmd+K）`,Aq:t,Ar:()=>`表示を減らす`,As:({a:e})=>`さらに${e}件表示`};export{n as default};
+//# sourceMappingURL=043e9034c52da8dc-B4yT-DZS.js.map

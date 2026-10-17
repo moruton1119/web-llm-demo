@@ -1,0 +1,2 @@
+var e=class extends Error{constructor({message:e}){super(e),this.name=`UnsupportedReasoningError`}};function t({error:e}){return e instanceof Error&&e.name===`UnsupportedReasoningError`}export{t as n,e as t};
+//# sourceMappingURL=lm-errors-Bjcf2Twc.js.map

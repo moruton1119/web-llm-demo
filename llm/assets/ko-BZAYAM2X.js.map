@@ -1,0 +1,1 @@
+{"version":3,"file":"ko-BZAYAM2X.js","names":[],"sources":["../../../src/strings/messages/ImageGenerationHistory__requested_seed/ko.ts"],"sourcesContent":["export const ImageGenerationHistory__requested_seed = (): string => '요청한 시드';\n"],"mappings":"AAAA,IAAa,MAAuD"}

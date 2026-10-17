@@ -1,0 +1,2 @@
+import{i as e,n as t,r as n,t as r}from"./es-Civ6U2FW.js";var i={Vu:e,Vv:n,Vw:()=>`Desactivar ajuste de línea`,Vx:()=>`Activar ajuste de línea`,Vy:t,VD:()=>`JSON sin procesar`,VE:r};export{i as default};
+//# sourceMappingURL=ac0a3a2068bcc9ac-Dq8Mc5pD.js.map

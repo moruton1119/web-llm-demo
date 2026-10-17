@@ -1,0 +1,2 @@
+import{t as e}from"./zh-Hans-CiCvLgLt.js";var t={rC:()=>`从下一次生成开始应用于所有 llama.cpp 聊天。数值越大，占用的内存越多。模型或内存限制可能使实际大小减小。`,rD:()=>`上下文大小（词元）`,rE:()=>`无法保存上下文大小。请重试。`,rF:({minimum:e,maximum:t})=>`请输入 ${e} 到 ${t} 之间的整数。`,rG:()=>`恢复默认值`,rH:()=>`保存`,PP:({profile:e})=>e===void 0?`自动`:`自动 (${e})`,PS:()=>`检查浏览器支持情况`,PT:()=>`正在检查浏览器支持情况…`,Qe:()=>`要使用图像，请在模型文件夹中放入匹配的 mmproj GGUF。不支持音频和视频输入。`,Qk:()=>`推理设置`,Qp:()=>`此浏览器中没有可用的兼容运行环境。`,Qr:e,Qu:()=>`运行配置`,Qx:()=>`释放运行时`,Qy:({feature:e})=>`不可用：${e}`};export{t as default};
+//# sourceMappingURL=cf8ed53d150da357-a8XTiHXo.js.map

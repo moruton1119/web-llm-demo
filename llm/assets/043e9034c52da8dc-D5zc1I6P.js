@@ -1,0 +1,2 @@
+import{t as e}from"./zh-Hans-CSnF0uLM.js";import{t}from"./zh-Hans-qMI1LV7l.js";var n={o:e,z_:()=>`添加聊天`,Aa:()=>`取消`,Ac:()=>`创建聊天组`,Ad:()=>`当前组`,Ae:()=>`默认模型`,Af:()=>`删除组`,Ag:()=>`删除组？`,Ah:({groupName:e,chatCount:t})=>`确定要删除“${e}”吗？其中的 ${t} 个聊天将被永久删除。`,Ai:()=>`临时会话`,Aj:()=>`组名…`,Ak:({groupName:e})=>`在 ${e} 中新建聊天`,Al:()=>`无`,An:()=>`重命名组`,Ao:()=>`搜索 (Cmd+K)`,Aq:t,Ar:()=>`收起`,As:({count:e})=>`再显示 ${e} 个`};export{n as default};
+//# sourceMappingURL=043e9034c52da8dc-D5zc1I6P.js.map

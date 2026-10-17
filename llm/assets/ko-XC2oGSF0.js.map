@@ -1,0 +1,1 @@
+{"version":3,"file":"ko-XC2oGSF0.js","names":[],"sources":["../../../src/strings/messages/stableDiffusionCppBrowser__download_png/ko.ts"],"sourcesContent":["// English fallback for this experimental workspace.\nexport const stableDiffusionCppBrowser__download_png = (): string => \"Download PNG\";\n"],"mappings":"AACA,IAAa,MAAwD"}

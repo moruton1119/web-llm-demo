@@ -1,0 +1,2 @@
+var e={y_:({days:e})=>`vor ${e} T.`,za:({hours:e})=>`vor ${e} Std.`,zb:()=>`gerade eben`,zc:({minutes:e})=>`vor ${e} Min.`,zd:({seconds:e})=>`vor ${e} Sek.`};export{e as default};
+//# sourceMappingURL=4eb5ca3bbe451ba1-BHPVMg--.js.map

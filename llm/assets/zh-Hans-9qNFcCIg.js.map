@@ -1,0 +1,1 @@
+{"version":3,"file":"zh-Hans-9qNFcCIg.js","names":[],"sources":["../../../src/strings/messages/fileExplorer__delete/zh-Hans.ts"],"sourcesContent":["export const fileExplorer__delete = (): string => '删除';\n"],"mappings":"AAAA,IAAa,MAAqC"}

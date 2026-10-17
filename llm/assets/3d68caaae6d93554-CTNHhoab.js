@@ -1,0 +1,2 @@
+var e={jA:()=>`Herunterladen`,jB:()=>`Downloadoptionen`,jC:()=>`Gilt für die heruntergeladene Kopie. Gespeicherte Bilder bleiben unverändert.`,jD:()=>`Bildformat`,jE:()=>`Generierungseinstellungen einbetten`};export{e as default};
+//# sourceMappingURL=3d68caaae6d93554-CTNHhoab.js.map

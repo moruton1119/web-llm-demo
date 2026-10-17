@@ -1,0 +1,2 @@
+import{t as e}from"./pt-BR-C_mi5PX3.js";var t={oe:()=>`Descartar dados não salvos`,of:()=>`Descartar esta imagem não salva? As imagens salvas não serão excluídas.`,og:()=>`Baixar imagem`,oh:()=>`Tente salvar as imagens originais sem gerá-las novamente. As imagens não salvas serão perdidas ao fechar esta aba.`,oi:()=>`Imagens não salvas`,Oi:e};export{t as default};
+//# sourceMappingURL=ceb412247c126fae-CwkzZBpc.js.map

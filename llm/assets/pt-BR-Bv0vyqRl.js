@@ -1,0 +1,2 @@
+var e=()=>`Backups ZIP incluem imagens, mas não o histórico que as vincula às configurações. Substituir dados por um backup remove esse histórico.`,t=()=>`Salvar o histórico de geração é experimental. Atualizações do Naidan podem causar perda de imagens ou informações. Baixe as imagens que deseja manter.`,n=()=>`O histórico está disponível quando o Naidan usa OPFS. Você ainda pode gerar e baixar imagens sem ele.`,r=()=>`Sobre o histórico salvo`;export{e as i,n,t as r,r as t};
+//# sourceMappingURL=pt-BR-Bv0vyqRl.js.map

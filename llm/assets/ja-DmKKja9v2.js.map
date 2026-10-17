@@ -1,0 +1,1 @@
+{"version":3,"file":"ja-DmKKja9v2.js","names":[],"sources":["../../../src/strings/messages/fileExplorer__download/ja.ts"],"sourcesContent":["export const fileExplorer__download = (): string => 'ダウンロード';\n"],"mappings":"AAAA,IAAa,MAAuC"}

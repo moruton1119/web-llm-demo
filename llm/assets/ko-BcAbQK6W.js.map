@@ -1,0 +1,1 @@
+{"version":3,"file":"ko-BcAbQK6W.js","names":[],"sources":["../../../src/strings/messages/fileExplorer__failed_to_download/ko.ts"],"sourcesContent":["export const fileExplorer__failed_to_download = ({ errorMessage }: { errorMessage: string }): string => `다운로드하지 못했습니다: ${errorMessage}`;\n"],"mappings":"AAAA,IAAa,GAAoC,CAAE,kBAAqD,iBAAiB"}

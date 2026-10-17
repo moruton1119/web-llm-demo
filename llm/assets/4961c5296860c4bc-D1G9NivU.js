@@ -1,0 +1,2 @@
+var e={xd:()=>`Aplicando atualização…`,xe:()=>`Atualização encontrada — preparando…`,xf:()=>`Recarregar para atualizar`,xg:()=>`Mudar agora pela rede. O uso offline pode ficar temporariamente indisponível.`};export{e as default};
+//# sourceMappingURL=4961c5296860c4bc-D1G9NivU.js.map

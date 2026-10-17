@@ -1,0 +1,1 @@
+{"version":3,"file":"pt-BR-jvw-njeC.js","names":[],"sources":["../../../src/strings/messages/volumes__delete/pt-BR.ts"],"sourcesContent":["export const volumes__delete = (): string => 'Excluir';\n"],"mappings":"AAAA,IAAa,MAAgC"}

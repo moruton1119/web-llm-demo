@@ -1,0 +1,2 @@
+var e={AE:()=>`채팅이나 설정을 변경하지 않고 file 프로토콜 시작, 라우팅, 스타일, 지연 로드 청크, SystemJS 및 반복적인 Worker 생성을 확인합니다.`,AF:()=>`복사된 진단 정보에는 브라우저 제공 오류 스택 또는 리소스 타이밍 항목의 로컬 파일 경로가 포함될 수 있습니다.`,AG:()=>`JSON 복사`,AH:({errorMessage:e})=>`스탠드얼론 검증 JSON을 복사하지 못했습니다: ${e}`,AI:()=>`스탠드얼론 검증 실행`,AJ:()=>`실행 중…`,AK:()=>`스탠드얼론 검증`,AL:()=>`스탠드얼론 검증 JSON 복사됨`,AM:()=>`이 검사는 file://로 연 스탠드얼론 빌드가 필요합니다.`,AN:({errorMessage:e})=>`스탠드얼론 검증을 실행하지 못했습니다: ${e}`,AO:({status:e,passed:t,failed:n})=>`${e} — ${t}개 통과 / ${n}개 실패`};export{e as default};
+//# sourceMappingURL=f94cd1d345717bc4-DwLf0aUA.js.map

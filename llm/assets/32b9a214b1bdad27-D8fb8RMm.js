@@ -1,0 +1,2 @@
+var e={Cm:({modelName:e})=>`${e} 다운로드 중...`,Cn:()=>`Hugging Face에서 모델 가중치를 다운로드하는 중입니다. 모델당 한 번만 수행됩니다.`,Co:({modelName:e})=>`${e} 초기화 중...`,Cq:()=>`로컬 추론을 위해 모델 가중치를 브라우저 메모리에 로드하는 중입니다.`,Cr:()=>`모델`,Cs:()=>`기기 내 실행`,Ct:()=>`Transformers.js 오류`};export{e as default};
+//# sourceMappingURL=32b9a214b1bdad27-D8fb8RMm.js.map

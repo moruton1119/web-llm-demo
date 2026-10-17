@@ -1,0 +1,2 @@
+var e={hk:()=>`危険な操作`,IK:()=>`Advanced mode`,IL:()=>`チェック済みselectorに一致した削除候補を表示します。`,IM:()=>`アプリデータを削除`,IN:({a:e,b:t})=>`このoriginで${e}個のselectorに一致するデータを削除します。現在のstorage provider: ${t}.`,IO:()=>`選択したデータを削除`,IP:()=>`選択したデータを削除してreload`,IQ:()=>`選択したデータを削除しますか？`,IR:()=>`削除preview`,IS:()=>`開発者向けに、Naidanのストレージselectorに一致するデータを削除します。`,IT:()=>`Factory Reset`,IU:()=>`一致する項目はありません。`,IV:()=>`このruntimeでは利用できません`,IW:()=>`Preview entries`,IX:()=>`Storageをscan中...`,IY:()=>`少なくとも1つの削除selectorを選択してください。`};export{e as default};
+//# sourceMappingURL=0af17c10271abb32-btIMsC9p.js.map

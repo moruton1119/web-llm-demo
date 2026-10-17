@@ -1,0 +1,1 @@
+{"version":3,"file":"zh-Hans-qMI1LV7l.js","names":[],"sources":["../../../src/strings/messages/Sidebar__settings/zh-Hans.ts"],"sourcesContent":["export const Sidebar__settings = (): string => '设置';\n"],"mappings":"AAAA,IAAa,MAAkC"}

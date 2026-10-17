@@ -1,0 +1,1 @@
+{"version":3,"file":"0cbdd9ea3e598043-DW_x7dGX.js","names":[],"sources":["../../../src/strings/messages/chatApproval__keyword_label/zh-Hans.ts"],"sourcesContent":["export const chatApproval__keyword_label = (): string => '关键词：';\n"],"mappings":"cAAyD"}

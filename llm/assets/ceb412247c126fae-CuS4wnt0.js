@@ -1,0 +1,2 @@
+import{t as e}from"./ko-C_mi5PX3.js";var t={oe:()=>`저장되지 않은 데이터 삭제`,of:()=>`저장되지 않은 이 이미지를 삭제할까요? 저장된 이미지는 삭제되지 않습니다.`,og:()=>`이미지 다운로드`,oh:()=>`다시 생성하지 않고 원본 이미지를 다시 저장합니다. 이 브라우저 탭을 닫으면 저장되지 않은 이미지가 사라집니다.`,oi:()=>`저장되지 않은 이미지`,Oi:e};export{t as default};
+//# sourceMappingURL=ceb412247c126fae-CuS4wnt0.js.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"de-CdVcH9q6.js","names":[],"sources":["../../../src/strings/messages/llamaCppBrowserDownloads__save_file_to_device/de.ts"],"sourcesContent":["export const llamaCppBrowserDownloads__save_file_to_device = (): string => \"Datei auf dem Gerät speichern\";\n"],"mappings":"AAAA,IAAa,MAA8D"}

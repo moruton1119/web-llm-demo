@@ -1,0 +1,2 @@
+var e={cP:()=>`Não foi possível carregar esta conversa. Seus dados salvos não foram alterados.`,cQ:()=>`Carregando conversa…`,cR:()=>`Tentar novamente`};export{e as default};
+//# sourceMappingURL=84217b14421d6e0e-Bb5yoEd8.js.map

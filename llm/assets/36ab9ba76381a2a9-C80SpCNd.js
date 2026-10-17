@@ -1,0 +1,2 @@
+import{t as e}from"./zh-Hans-C0699bP3.js";import{t}from"./zh-Hans-9qNFcCIg.js";import{t as n}from"./zh-Hans-KvGZH08U.js";var r={Jm:t,Jn:({label:e})=>`确定要永久删除 ${e} 吗？此操作无法撤销。`,Jo:()=>`删除文件`,Jp:()=>`删除文件夹`,Jq:()=>`删除项目`,JD:({errorMessage:e})=>`复制项目失败：${e}`,JE:({errorMessage:e})=>`创建文件失败：${e}`,JF:({errorMessage:e})=>`创建文件夹失败：${e}`,JG:({errorMessage:e})=>`删除失败：${e}`,JH:n,JK:({errorMessage:e})=>`移动项目失败：${e}`,JL:({errorMessage:e})=>`重命名失败：${e}`,JZ:e};export{r as default};
+//# sourceMappingURL=36ab9ba76381a2a9-C80SpCNd.js.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"en-Cr3SYmZo2.js","names":[],"sources":["../../../src/strings/messages/llamaCppBrowserDownloads__set_as_default/en.ts"],"sourcesContent":["export const llamaCppBrowserDownloads__set_as_default = (): string => \"Set as default\";\n"],"mappings":"AAAA,IAAa,MAAyD"}

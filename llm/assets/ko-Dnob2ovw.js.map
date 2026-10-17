@@ -1,0 +1,1 @@
+{"version":3,"file":"ko-Dnob2ovw.js","names":[],"sources":["../../../src/strings/messages/fileExplorer__delete/ko.ts"],"sourcesContent":["export const fileExplorer__delete = (): string => '삭제';\n"],"mappings":"AAAA,IAAa,MAAqC"}

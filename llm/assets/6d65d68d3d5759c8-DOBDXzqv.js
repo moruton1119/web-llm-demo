@@ -1,0 +1,1 @@
+import{t as e}from"./ja-BUPEkBhz.js";var t={Iq:e};export{t as default};

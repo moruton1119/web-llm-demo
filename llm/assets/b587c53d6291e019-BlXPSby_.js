@@ -1,0 +1,2 @@
+import{t as e}from"./ko-DOPrcHdl.js";var t={Pg:({count:e})=>`${e}개 진행 중`,Ph:()=>`전체`,Ps:()=>`다른 모델 찾아보기`,Pv:()=>`메모리`,Pw:()=>`모델 카탈로그`,Qr:e};export{t as default};
+//# sourceMappingURL=b587c53d6291e019-BlXPSby_.js.map

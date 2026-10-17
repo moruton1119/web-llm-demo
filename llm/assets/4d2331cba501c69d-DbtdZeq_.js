@@ -1,0 +1,2 @@
+import{n as e,r as t,t as n}from"./de-wxX8s1Ny.js";var r={Hm:()=>`Schließen (Esc)`,Hn:()=>`Namen kopieren`,Hp:t,Hq:e,Hr:()=>`Dieser Dateityp kann nicht direkt in der Vorschau angezeigt werden.`,Hs:()=>`WIRD GELADEN...`,Hy:()=>`Vorschau nicht verfügbar`,Hz:()=>`Zoom zurücksetzen`,HC:n,HD:()=>`Vergrößern`,HE:()=>`Verkleinern`};export{r as default};
+//# sourceMappingURL=4d2331cba501c69d-DbtdZeq_.js.map

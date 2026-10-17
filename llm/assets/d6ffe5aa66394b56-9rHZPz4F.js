@@ -1,0 +1,2 @@
+var e={yS:()=>`Nombre del grupo de chats`,yT:({recipeCount:e})=>`Recetas detectadas (${e})`,yU:()=>`Importa desde JSON configuraciones predefinidas de grupos de chats (prompts, parámetros y reglas de modelo).`,yV:()=>`Importar seleccionados`,yW:()=>`Selección de modelo`,yX:()=>`Pega el JSON de la receta (se admiten objetos JSON concatenados)`,yY:()=>`Recetas`,yZ:({behavior:e})=>`Prompt del sistema (${e})`,y$:()=>`Usar modelo predeterminado`};export{e as default};
+//# sourceMappingURL=d6ffe5aa66394b56-9rHZPz4F.js.map

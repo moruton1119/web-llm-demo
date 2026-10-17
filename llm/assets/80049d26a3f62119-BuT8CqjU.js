@@ -1,0 +1,2 @@
+import{t as e}from"./zh-Hans-CSnF0uLM.js";var t={o:e,zn:()=>`其他分支`,zo:()=>`对话匹配`,zp:()=>`... 后续消息 ...`,zq:({count:e})=>`${e} 条消息`,zr:()=>`... 之前的消息 ...`,zs:()=>`最近记录`,zt:()=>`选择项目以预览`};export{t as default};
+//# sourceMappingURL=80049d26a3f62119-BuT8CqjU.js.map

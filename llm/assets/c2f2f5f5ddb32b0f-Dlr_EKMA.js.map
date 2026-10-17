@@ -1,0 +1,1 @@
+{"version":3,"file":"c2f2f5f5ddb32b0f-Dlr_EKMA.js","names":[],"sources":["../../../src/strings/messages/useChatOrganization__copy_of_chat_group/pt-BR.ts"],"sourcesContent":["export const useChatOrganization__copy_of_chat_group = ({ groupName }: { groupName: string }): string => `Cópia de ${groupName}`;\n"],"mappings":"WAAwD,CAAE,eAA+C,YAAY"}

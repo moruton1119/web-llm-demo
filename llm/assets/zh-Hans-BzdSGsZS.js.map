@@ -1,0 +1,1 @@
+{"version":3,"file":"zh-Hans-BzdSGsZS.js","names":[],"sources":["../../../src/strings/messages/volumes__failed_to_copy/zh-Hans.ts"],"sourcesContent":["export const volumes__failed_to_copy = ({ errorMessage }: { errorMessage: string }): string => `复制失败：${errorMessage}`;\n"],"mappings":"AAAA,IAAa,GAA2B,CAAE,kBAAqD,QAAQ"}

@@ -1,0 +1,2 @@
+import{t as e}from"./de-B0wJnwYW.js";import{t}from"./de-DfhXcoh2.js";import{t as n}from"./de-vdQ2qxUu.js";import{t as r}from"./de-DL1lzqF_.js";import{n as i,t as a}from"./de-Cmet3bwG.js";var o={kM:()=>`Wähle ein gespeichertes Modell, bereite eines unter Modelle vor oder wähle unten lokale Dateien.`,kU:t,ob:n,d:e,TS:r,TX:()=>`Gespeicherte Modelldateien werden aufgelistet…`,Ud:i,UU:a};export{o as default};
+//# sourceMappingURL=19874545de4c10df-Bn2H_eOi.js.map

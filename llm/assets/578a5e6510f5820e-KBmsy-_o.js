@@ -1,0 +1,2 @@
+var e={Ay:()=>`Auto`,Az:()=>`Auto Detect`,AA:({a:e})=>`Auto Detect (${e})`,AB:()=>`English`,AC:()=>`Language`,AD:()=>`Redetect language`};export{e as default};
+//# sourceMappingURL=578a5e6510f5820e-KBmsy-_o.js.map

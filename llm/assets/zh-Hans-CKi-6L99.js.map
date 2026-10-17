@@ -1,0 +1,1 @@
+{"version":3,"file":"zh-Hans-CKi-6L99.js","names":[],"sources":["../../../src/strings/messages/ImageGenerationViewer__image_preview/zh-Hans.ts"],"sourcesContent":["export const ImageGenerationViewer__image_preview = (): string => '查看图片';\n"],"mappings":"AAAA,IAAa,MAAqD"}

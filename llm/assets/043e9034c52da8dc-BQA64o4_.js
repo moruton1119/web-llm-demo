@@ -1,0 +1,2 @@
+import{t as e}from"./ko-iyYOisV7.js";import{t}from"./ko-QRGWf7Vs.js";var n={o:e,z_:()=>`채팅 추가`,Aa:()=>`취소`,Ac:()=>`채팅 그룹 만들기`,Ad:()=>`현재 그룹`,Ae:()=>`기본 모델`,Af:()=>`그룹 삭제`,Ag:()=>`그룹을 삭제하시겠습니까?`,Ah:({groupName:e,chatCount:t})=>`"${e}" 그룹을 삭제하시겠습니까? 그룹 안의 채팅 ${t}개가 모두 영구적으로 삭제됩니다.`,Ai:()=>`임시 세션`,Aj:()=>`그룹 이름...`,Ak:({groupName:e})=>`${e}에서 새 채팅`,Al:()=>`없음`,An:()=>`그룹 이름 변경`,Ao:()=>`검색(Cmd+K)`,Aq:t,Ar:()=>`간략히 보기`,As:({count:e})=>`${e}개 더 보기`};export{n as default};
+//# sourceMappingURL=043e9034c52da8dc-BQA64o4_.js.map

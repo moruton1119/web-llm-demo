@@ -1,0 +1,2 @@
+import{t as e}from"./pt-BR-DbZ-p_Z32.js";import{t}from"./pt-BR-XC2oGSF0.js";var n={mz:()=>`Fechar prévia`,mA:()=>`Details and actions`,mB:e,mC:()=>`Próxima imagem`,mD:()=>`Imagem anterior`,mE:()=>`Ajustar imagem`,mF:()=>`Ampliar`,mG:()=>`Reduzir`,Tt:t};export{n as default};
+//# sourceMappingURL=3ee025aec89d1a9b-CGPCBmCG.js.map

@@ -1,0 +1,2 @@
+var e={rU:()=>`Padrão`,rV:()=>`Campos vazios usam os padrões do provedor`,rW:()=>`JSON inválido`,rX:()=>`Parâmetros do LM`,rY:()=>`Máximo de tokens`,rZ:()=>`Deve ser um array de strings`,r$:()=>`Penalidade de presença`,r_:()=>`Redefinir tudo`,sa:()=>`Redefinir para o padrão`,sb:()=>`Sequências de parada (array JSON)`,sc:()=>`Temperatura`,sd:()=>`Top P`};export{e as default};
+//# sourceMappingURL=26ae3111cfcacff0-BamFRQmz.js.map

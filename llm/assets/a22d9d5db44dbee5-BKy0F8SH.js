@@ -1,0 +1,2 @@
+import{a as e,c as t,i as n,l as r,n as i,o as a,r as o,s,t as c}from"./en-BBWN6pdL.js";var l={nK:r,nL:t,nM:()=>`Choose files`,nN:s,nO:()=>`Choose up to 16 non-empty GGUF or safetensors files.`,nP:a,nQ:e,nR:n,nS:()=>`Compatibility with the selected model is unverified. Adapters are added only when you choose them.`,nT:o,nU:i,nV:c};export{l as default};
+//# sourceMappingURL=a22d9d5db44dbee5-BKy0F8SH.js.map

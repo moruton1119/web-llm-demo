@@ -1,0 +1,2 @@
+import{t as e}from"./ja-DmKKja9v2.js";import{t}from"./ja-CDqajRp52.js";var n={Jb:()=>`バイナリファイル`,Jg:()=>`プレビューを閉じる`,Jr:e,JP:()=>`ファイルが大きすぎるためプレビューできません`,JS:t,JU:()=>`形式`,J_:()=>`それでも読み込む`,Kd:()=>`更新日時:`,KB:()=>`プレビュー`,KH:()=>`ファイルを選択`,KM:()=>`サイズ:`};export{n as default};
+//# sourceMappingURL=ff9d78e98237cb2c-CUq7n67Y.js.map

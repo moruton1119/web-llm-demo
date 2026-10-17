@@ -1,0 +1,2 @@
+var e={gw:()=>`Debug`,gx:()=>`Debug-Tools`,gy:()=>`Standalone-Verifizierung des File-Protokolls`,gz:()=>`Öffnet eine isolierte Diagnoseseite, ohne Debug-spezifisches Verhalten zum normalen Anwendungsablauf hinzuzufügen.`,gA:()=>`Generierte Skripte, Routing, Lazy Styles, SystemJS-Wiederherstellung und die wiederverwendbare Worker-Factory überprüfen.`};export{e as default};
+//# sourceMappingURL=da9c63a2892d0991-CQFk1h2c.js.map

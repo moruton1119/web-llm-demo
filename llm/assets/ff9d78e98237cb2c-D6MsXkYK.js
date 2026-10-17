@@ -1,0 +1,2 @@
+import{t as e}from"./zh-Hans-B2YaWG_2.js";import{t}from"./zh-Hans-BSUU1JJO.js";var n={Jb:()=>`二进制文件`,Jg:()=>`关闭预览`,Jr:e,JP:()=>`文件过大，无法预览`,JS:t,JU:()=>`格式`,J_:()=>`仍然加载`,Kd:()=>`修改时间：`,KB:()=>`预览`,KH:()=>`选择文件`,KM:()=>`大小：`};export{n as default};
+//# sourceMappingURL=ff9d78e98237cb2c-D6MsXkYK.js.map

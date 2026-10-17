@@ -1,0 +1,2 @@
+var e={gn:()=>`AI`,go:()=>`会話のアウトラインを閉じる`,gp:()=>`会話のアウトライン`,gq:()=>`（空のメッセージ）`,gr:()=>`プレビュー`,gs:()=>`システム`,gt:()=>`ツール`,gu:()=>`あなた`};export{e as default};
+//# sourceMappingURL=e56153d0b3c59e5d-STKTD_7f.js.map

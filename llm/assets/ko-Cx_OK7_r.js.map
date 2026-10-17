@@ -1,0 +1,1 @@
+{"version":3,"file":"ko-Cx_OK7_r.js","names":[],"sources":["../../../src/strings/messages/fileExplorer__download/ko.ts"],"sourcesContent":["export const fileExplorer__download = (): string => '다운로드';\n"],"mappings":"AAAA,IAAa,MAAuC"}

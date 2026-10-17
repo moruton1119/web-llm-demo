@@ -1,0 +1,1 @@
+{"version":3,"file":"ko-CXq1-hoN.js","names":[],"sources":["../../../src/strings/messages/volumes__failed_to_copy/ko.ts"],"sourcesContent":["export const volumes__failed_to_copy = ({ errorMessage }: { errorMessage: string }): string => `복사하지 못했습니다: ${errorMessage}`;\n"],"mappings":"AAAA,IAAa,GAA2B,CAAE,kBAAqD,eAAe"}

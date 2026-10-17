@@ -1,0 +1,2 @@
+import{t as e}from"./ko-iyYOisV7.js";var t={o:e,zn:()=>`다른 브랜치`,zo:()=>`대화 일치`,zp:()=>`... 다음 메시지 ...`,zq:({count:e})=>`${e}개 메시지`,zr:()=>`... 이전 메시지 ...`,zs:()=>`최근 기록`,zt:()=>`미리 볼 항목을 선택하세요`};export{t as default};
+//# sourceMappingURL=80049d26a3f62119-BtWe3XYr.js.map

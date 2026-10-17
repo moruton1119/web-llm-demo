@@ -1,0 +1,1 @@
+{"version":3,"file":"en-Da9Egaa02.js","names":[],"sources":["../../../src/strings/messages/fileExplorer__folder/en.ts"],"sourcesContent":["export const fileExplorer__folder = (): string => 'Folder';\n"],"mappings":"AAAA,IAAa,MAAqC"}

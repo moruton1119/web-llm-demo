@@ -1,0 +1,2 @@
+import{t as e}from"./ja-DV2R-zNo.js";var t={b:e,BW:({a:e,b:t})=>{let n=e.join(`、`);return t>0?`${n} ほか${t}件を使用`:`${n}を使用`},VA:()=>`ツール実行を非表示`};export{t as default};
+//# sourceMappingURL=cfb9e9eca848515a-aJRhf39r.js.map

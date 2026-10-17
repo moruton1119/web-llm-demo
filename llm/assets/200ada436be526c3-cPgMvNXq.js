@@ -1,0 +1,2 @@
+import{t as e}from"./zh-Hans-B5-3-5Cq.js";import{t}from"./zh-Hans-B9T2eqfN.js";import{t as n}from"./zh-Hans-9qNFcCIg.js";import{t as r}from"./zh-Hans-B2YaWG_2.js";import{t as i}from"./zh-Hans-BSUU1JJO.js";import{t as a}from"./zh-Hans-Bsi4oKGa.js";var o={d:e,IZ:()=>`添加`,Ja:()=>`归档名称`,Jf:t,Jk:()=>`正在创建…`,Jm:n,Jr:r,Js:()=>`下载目录`,Jy:()=>`排除项目`,Jz:()=>`选择要排除的文件或子目录。排除目录也会排除其下的所有内容。`,JJ:()=>`加载排除建议失败`,JN:a,JS:i,Kk:()=>`没有匹配的项目`,Kn:()=>`可选`,KD:()=>`输入相对路径`,KP:()=>`输入以缩小结果范围`};export{o as default};
+//# sourceMappingURL=200ada436be526c3-cPgMvNXq.js.map

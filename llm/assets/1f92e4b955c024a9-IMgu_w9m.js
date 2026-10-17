@@ -1,0 +1,2 @@
+import{t as e}from"./ja-CA_wnLjb2.js";var t={ym:()=>`絞り込み`,yn:()=>`最近のチャットを絞り込む…`,yo:()=>`移動`,yp:()=>`条件に一致するチャットはありません。`,yq:()=>`最近のチャットはありません。`,yr:()=>`オフ`,ys:()=>`オン`,yt:()=>`一時表示`,yu:()=>`プレビュー`,yv:()=>`選択`,o:e};export{t as default};
+//# sourceMappingURL=1f92e4b955c024a9-IMgu_w9m.js.map

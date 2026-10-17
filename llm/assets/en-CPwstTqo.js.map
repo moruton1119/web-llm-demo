@@ -1,0 +1,1 @@
+{"version":3,"file":"en-CPwstTqo.js","names":[],"sources":["../../../src/strings/messages/blockMarkdown__copied/en.ts"],"sourcesContent":["export const blockMarkdown__copied = (): string => 'Copied';\n"],"mappings":"AAAA,IAAa,MAAsC"}

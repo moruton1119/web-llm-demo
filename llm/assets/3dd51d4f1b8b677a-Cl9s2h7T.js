@@ -1,0 +1,2 @@
+import{n as e,t}from"./ja-BsGLAzVo.js";import{n,t as r}from"./ja-CNLmiNeT2.js";var i={Mc:()=>`タグを付ける`,Mj:n,MQ:()=>`画像を完全に削除`,MR:({a:e})=>`${e}枚の画像と保存済みプレビューを完全に削除しますか？画像本体のBinaryObjectも削除されます。同じファイルを参照するチャットや他の生成でも表示・再利用できなくなります。初期画像・参照画像やモデルをたどって削除することはありません。元に戻せません。画像を残す場合はアーカイブを使ってください。`,Ng:e,NW:()=>`タグを外す`,N$:r,Ox:t,Pc:()=>`お気に入りから外す`};export{i as default};
+//# sourceMappingURL=3dd51d4f1b8b677a-Cl9s2h7T.js.map

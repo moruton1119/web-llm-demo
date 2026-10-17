@@ -1,0 +1,1 @@
+{"version":3,"file":"de-CABN_0lB.js","names":[],"sources":["../../../src/strings/messages/SHARED__no_models_found_at_this_endpoint/de.ts"],"sourcesContent":["export const SHARED__no_models_found_at_this_endpoint = (): string => 'An diesem Endpunkt wurden keine Modelle gefunden.';\n"],"mappings":"AAAA,IAAa,MAAyD"}

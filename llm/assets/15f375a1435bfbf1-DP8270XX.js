@@ -1,0 +1,2 @@
+import{t as e}from"./pt-BR-BRk1fSWY.js";import{n as t,t as n}from"./pt-BR-C2MiexmM.js";import{t as r}from"./pt-BR-BCAOlt2E.js";import{n as i,r as a,t as o}from"./pt-BR-COTVRBYH.js";import{t as s}from"./pt-BR-Dv9WlukZ.js";import{n as c,t as l}from"./pt-BR-B4P2bNRt.js";var u={ls:r,ov:s,Mb:a,Mg:i,Mj:c,MK:e,Ng:t,Nn:o,N$:l,On:()=>`Select image`,Ox:n};export{u as default};
+//# sourceMappingURL=15f375a1435bfbf1-DP8270XX.js.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"pt-BR-8vU9KXN8.js","names":[],"sources":["../../../src/strings/messages/imageGeneration__new_session/pt-BR.ts"],"sourcesContent":["export const imageGeneration__new_session = (): string => \"New session\";\n"],"mappings":"AAAA,IAAa,MAA6C"}

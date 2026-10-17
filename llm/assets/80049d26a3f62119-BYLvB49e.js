@@ -1,0 +1,2 @@
+import{t as e}from"./pt-BR-CfSe9JB72.js";var t={o:e,zn:()=>`OUTRA RAMIFICAÇÃO`,zo:()=>`Correspondência na conversa`,zp:()=>`... mensagens seguintes ...`,zq:({count:e})=>`${e} ${e===1?`mensagem`:`mensagens`}`,zr:()=>`... mensagens anteriores ...`,zs:()=>`Histórico recente`,zt:()=>`Selecione um item para visualizar`};export{t as default};
+//# sourceMappingURL=80049d26a3f62119-BYLvB49e.js.map

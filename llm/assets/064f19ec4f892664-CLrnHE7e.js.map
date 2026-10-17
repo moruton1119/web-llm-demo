@@ -1,0 +1,1 @@
+{"version":3,"file":"064f19ec4f892664-CLrnHE7e.js","names":[],"sources":["../../../src/strings/messages/weshTerminal__session/ja.ts"],"sourcesContent":["export const weshTerminal__session = ({ sessionNumber }: { sessionNumber: number }): string => `セッション ${sessionNumber}`;\n"],"mappings":"WAAsC,CAAA,EAAE,KAAuD,SAAS"}

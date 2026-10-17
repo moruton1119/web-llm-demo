@@ -1,0 +1,1 @@
+{"version":3,"file":"de-J5pcVh88.js","names":[],"sources":["../../../src/strings/messages/llamaCppBrowserDownloads__set_as_default/de.ts"],"sourcesContent":["export const llamaCppBrowserDownloads__set_as_default = (): string => \"Als Standard festlegen\";\n"],"mappings":"AAAA,IAAa,MAAyD"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"c7320b209ad56add-DZpWSrK6.js","names":[],"sources":["../../../src/strings/messages/UnselectedChatPane__select_or_create_a_chat_to_start/es.ts"],"sourcesContent":["export const UnselectedChatPane__select_or_create_a_chat_to_start = (): string => 'Selecciona o crea un chat para empezar';\n"],"mappings":"cAAkF"}

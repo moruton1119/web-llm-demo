@@ -1,0 +1,1 @@
+{"version":3,"file":"ko-CmwBLkMk.js","names":[],"sources":["../../../src/strings/messages/SHARED__unsupported_experimental_endpoint/ko.ts"],"sourcesContent":["export const SHARED__unsupported_experimental_endpoint = (): string => '지원되지 않는 실험적 엔드포인트';\n"],"mappings":"AAAA,IAAa,MAA0D"}

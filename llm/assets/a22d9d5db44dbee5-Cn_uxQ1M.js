@@ -1,0 +1,2 @@
+import{a as e,c as t,i as n,l as r,n as i,o as a,r as o,s,t as c}from"./es-CKk8kbL-.js";var l={nK:r,nL:t,nM:()=>`Elegir archivos`,nN:s,nO:()=>`Elige hasta 16 archivos GGUF o safetensors que no estén vacíos.`,nP:a,nQ:e,nR:n,nS:()=>`No se ha verificado la compatibilidad con el modelo seleccionado. Los adaptadores solo se añaden cuando los eliges.`,nT:o,nU:i,nV:c};export{l as default};
+//# sourceMappingURL=a22d9d5db44dbee5-Cn_uxQ1M.js.map

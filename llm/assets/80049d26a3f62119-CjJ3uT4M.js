@@ -1,0 +1,2 @@
+import{t as e}from"./de-CuZVKdD-2.js";var t={o:e,zn:()=>`ANDERER BRANCH`,zo:()=>`Gesprächstreffer`,zp:()=>`... folgende Nachrichten ...`,zq:({count:e})=>`${e} ${e===1?`Nachricht`:`Nachrichten`}`,zr:()=>`... vorherige Nachrichten ...`,zs:()=>`Letzter Verlauf`,zt:()=>`Element für Vorschau auswählen`};export{t as default};
+//# sourceMappingURL=80049d26a3f62119-CjJ3uT4M.js.map

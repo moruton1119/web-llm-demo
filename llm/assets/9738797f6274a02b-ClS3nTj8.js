@@ -1,0 +1,2 @@
+import{t as e}from"./zh-Hans-CpQoYoYH.js";var t={sh:()=>`比较版本`,si:e,sj:()=>`复制链接`,sk:()=>`复制消息`,sl:()=>`复制原始内容`,sm:()=>`编辑消息`,sn:()=>`复制消息链接失败。`,so:()=>`分支聊天`,sp:()=>`消息链接已复制到剪贴板。`,sq:()=>`更多操作`,sr:()=>`更多消息工具`,ss:()=>`重新生成回复`,st:()=>`重新发送消息`};export{t as default};
+//# sourceMappingURL=9738797f6274a02b-ClS3nTj8.js.map

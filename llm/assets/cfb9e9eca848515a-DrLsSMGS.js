@@ -1,0 +1,2 @@
+import{t as e}from"./zh-Hans-DeGDwHYb.js";var t={b:e,BW:({toolNames:e,remainingCount:t})=>{let n=e.join(`, `);return t>0?`已使用 ${n}，以及另外 ${t} 个`:`已使用 ${n}`},VA:()=>`隐藏工具执行`};export{t as default};
+//# sourceMappingURL=cfb9e9eca848515a-DrLsSMGS.js.map

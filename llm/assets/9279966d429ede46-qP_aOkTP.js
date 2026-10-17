@@ -1,0 +1,2 @@
+var e={qb:()=>`A known issue in Firefox's WebGPU implementation can make model execution much slower.`,qc:()=>`Tracks delays in GPU completion notifications caused by timer-based polling.`,qd:()=>`Reproduction report of slow GPU readback with mapAsync().`,qe:()=>`Mozilla bug reports (in English)`,qf:()=>`For faster performance, we recommend a Chromium-based browser such as Chrome, Edge, or Brave.`,qg:()=>`Technical details`};export{e as default};
+//# sourceMappingURL=9279966d429ede46-qP_aOkTP.js.map

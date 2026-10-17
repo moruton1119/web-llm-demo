@@ -1,0 +1,2 @@
+import{t as e}from"./ja-BVWs6WgX.js";var t={HG:()=>`コード`,HH:e,HJ:()=>`ソースをコピー`,HN:()=>`Mermaid図を描画できませんでした`,HQ:()=>`プレビュー`,HR:()=>`分割表示`};export{t as default};
+//# sourceMappingURL=34f1afbf397a923d-BEy_o7t2.js.map

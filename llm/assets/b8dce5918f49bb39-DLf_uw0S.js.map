@@ -1,0 +1,1 @@
+{"version":3,"file":"b8dce5918f49bb39-DLf_uw0S.js","names":[],"sources":["../../../src/strings/messages/fileExplorer__go_back/es.ts"],"sourcesContent":["export const fileExplorer__go_back = (): string => 'Volver';\n"],"mappings":"cAAmD"}

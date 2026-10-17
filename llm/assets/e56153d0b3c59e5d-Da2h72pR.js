@@ -1,0 +1,2 @@
+var e={gn:()=>`IA`,go:()=>`Cerrar esquema de la conversación`,gp:()=>`Esquema de la conversación`,gq:()=>`(mensaje vacío)`,gr:()=>`Vista previa`,gs:()=>`Sistema`,gt:()=>`Herramienta`,gu:()=>`Tú`};export{e as default};
+//# sourceMappingURL=e56153d0b3c59e5d-Da2h72pR.js.map

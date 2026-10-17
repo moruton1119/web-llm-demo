@@ -1,0 +1,1 @@
+{"version":3,"file":"ja-mJzp1lCq.js","names":[],"sources":["../../../src/strings/messages/llamaCppBrowserDownloads__save_file_to_device/ja.ts"],"sourcesContent":["export const llamaCppBrowserDownloads__save_file_to_device = (): string => \"ファイルを端末に保存\";\n"],"mappings":"AAAA,IAAa,MAA8D"}

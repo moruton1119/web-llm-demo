@@ -1,0 +1,2 @@
+import{t as e}from"./en-CPZGKd5b.js";import{t}from"./en-BueB1xg1.js";var n={q$:()=>`This model needs a companion file selection. Open settings to review the files.`,re:()=>`Could not open this model link. Check the repository and variant, then retry.`,rh:()=>`Opening your chat…`,rn:t,rs:()=>`The requested variant is missing or ambiguous. No alternative was selected.`,Pl:e};export{n as default};
+//# sourceMappingURL=8fa0054e7d63f5e9-yxDwXGwn.js.map

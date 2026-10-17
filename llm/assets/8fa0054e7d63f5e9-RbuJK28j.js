@@ -1,0 +1,2 @@
+import{t as e}from"./es-D5uQ5KdS.js";import{t}from"./es-Bgz79kVn2.js";var n={q$:()=>`Debes elegir un archivo complementario. Revisa los archivos en los ajustes.`,re:()=>`No se pudo abrir este enlace. Comprueba el repositorio y la variante e inténtalo de nuevo.`,rh:()=>`Abriendo el chat…`,rn:t,rs:()=>`La variante solicitada no existe o es ambigua. No se seleccionó otra.`,Pl:e};export{n as default};
+//# sourceMappingURL=8fa0054e7d63f5e9-RbuJK28j.js.map

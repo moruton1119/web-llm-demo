@@ -1,0 +1,2 @@
+import{a as e,c as t,i as n,l as r,n as i,o as a,r as o,s,t as c}from"./ko-C8vtFz4a.js";var l={nK:r,nL:t,nM:()=>`파일 선택`,nN:s,nO:()=>`비어 있지 않은 GGUF 또는 safetensors 파일을 최대 16개 선택하세요.`,nP:a,nQ:e,nR:n,nS:()=>`선택한 모델과의 호환성은 확인되지 않았습니다. 직접 선택한 어댑터만 추가됩니다.`,nT:o,nU:i,nV:c};export{l as default};
+//# sourceMappingURL=a22d9d5db44dbee5-C4S4-p_f.js.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"3c65adbc12dfb45d-BV8cuTxf.js","names":[],"sources":["../../../src/strings/messages/LlamaCppBrowserModelLaunch__no_installation_or_environment_setup/ko.ts"],"sourcesContent":["export const LlamaCppBrowserModelLaunch__no_installation_or_environment_setup = (): string => \"설치도 환경 설정도 필요 없어요.\";\n"],"mappings":"cAA8F"}

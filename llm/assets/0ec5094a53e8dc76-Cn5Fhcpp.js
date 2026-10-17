@@ -1,0 +1,2 @@
+import{t as e}from"./pt-BR-DR9EJ_cp.js";var t={qh:({hours:e,minutes:t})=>`Restam cerca de ${e} h ${t} min`,qi:({hours:e})=>`Restam cerca de ${e} h`,qj:({minutes:e})=>`Restam cerca de ${e} min`,qk:({seconds:e})=>`Restam cerca de ${e} segundos`,qz:e,qA:()=>`Estimando o tempo restante…`,qI:()=>`Realizando as verificações finais…`};export{t as default};
+//# sourceMappingURL=0ec5094a53e8dc76-Cn5Fhcpp.js.map

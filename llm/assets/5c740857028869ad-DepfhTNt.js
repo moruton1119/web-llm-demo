@@ -1,0 +1,1 @@
+import{n as e,t}from"./ja-DtNs5K1S2.js";var n={Ub:e,Uc:t};export{n as default};

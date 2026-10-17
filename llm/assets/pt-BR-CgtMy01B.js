@@ -1,0 +1,2 @@
+var e=()=>`Diffusion model file`,t=()=>`Codificador de texto (modelo de linguagem)`,n=()=>`Checkpoint file`,r=()=>`Decodificador de imagens (VAE)`;export{e as i,n,t as r,r as t};
+//# sourceMappingURL=pt-BR-CgtMy01B.js.map

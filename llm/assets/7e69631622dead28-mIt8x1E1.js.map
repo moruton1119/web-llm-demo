@@ -1,0 +1,1 @@
+{"version":3,"file":"7e69631622dead28-mIt8x1E1.js","names":[],"sources":["../../../src/strings/messages/Logo__naidan_logo/ja.ts"],"sourcesContent":["export const Logo__naidan_logo = (): string => 'Naidan ロゴ';\n"],"mappings":"cAA+C"}

@@ -1,0 +1,2 @@
+var e=()=>`Elegir una conexión guardada`,t=()=>`Primero activa Naidan RPC en los ajustes de desarrollador.`,n=()=>`Abrir los ajustes de Naidan RPC`;export{t as n,e as r,n as t};
+//# sourceMappingURL=es-Bt3cM9lD.js.map

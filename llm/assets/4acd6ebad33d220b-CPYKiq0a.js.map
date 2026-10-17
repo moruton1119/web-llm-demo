@@ -1,0 +1,1 @@
+{"version":3,"file":"4acd6ebad33d220b-CPYKiq0a.js","names":[],"sources":["../../../src/strings/messages/fileExplorer__file_explorer_opfs/es.ts"],"sourcesContent":["export const fileExplorer__file_explorer_opfs = (): string => 'Explorador de archivos (OPFS)';\n"],"mappings":"wDAA8D"}

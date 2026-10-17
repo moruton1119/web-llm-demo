@@ -1,0 +1,2 @@
+import{n as e,r as t,t as n}from"./zh-Hans-3WErV-nU.js";var r={Hm:()=>`关闭 (Esc)`,Hn:()=>`复制名称`,Hp:t,Hq:e,Hr:()=>`无法直接预览此文件类型。`,Hs:()=>`正在加载...`,Hy:()=>`无法预览`,Hz:()=>`重置缩放`,HC:n,HD:()=>`放大`,HE:()=>`缩小`};export{r as default};
+//# sourceMappingURL=4d2331cba501c69d-BlBIthCH.js.map

@@ -1,0 +1,2 @@
+var e=()=>`Measure loading, prompt processing and generation of saved models. Export results as a ZIP without saving chat history.`,t=()=>`Speed investigation`;export{e as n,t};
+//# sourceMappingURL=de-Ch92QjAn.js.map

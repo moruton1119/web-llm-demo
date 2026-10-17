@@ -1,0 +1,1 @@
+{"version":3,"file":"es-DMcYpg7n.js","names":[],"sources":["../../../src/strings/messages/volumes__delete/es.ts"],"sourcesContent":["export const volumes__delete = (): string => 'Eliminar';\n"],"mappings":"AAAA,IAAa,MAAgC"}

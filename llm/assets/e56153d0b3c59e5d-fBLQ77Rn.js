@@ -1,0 +1,2 @@
+var e={gn:()=>`KI`,go:()=>`Gesprächsübersicht schließen`,gp:()=>`Gesprächsübersicht`,gq:()=>`(leere Nachricht)`,gr:()=>`Vorschau`,gs:()=>`System`,gt:()=>`Tool`,gu:()=>`Du`};export{e as default};
+//# sourceMappingURL=e56153d0b3c59e5d-fBLQ77Rn.js.map

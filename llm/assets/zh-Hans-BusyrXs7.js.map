@@ -1,0 +1,1 @@
+{"version":3,"file":"zh-Hans-BusyrXs7.js","names":[],"sources":["../../../src/strings/messages/blockMarkdown__copied/zh-Hans.ts"],"sourcesContent":["export const blockMarkdown__copied = (): string => '已复制';\n"],"mappings":"AAAA,IAAa,MAAsC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"4b146371e1f01fc5-BE0XgqWh.js","names":[],"sources":["../../../src/strings/messages/chatHistoryFlow__fork_of_chat/ja.ts"],"sourcesContent":["export const chatHistoryFlow__fork_of_chat = ({ chatTitle }: { chatTitle: string }): string => `${chatTitle} のフォーク`;\n"],"mappings":"qDAA8C,CAAA,EAAE,KAA+C,GAAG,EAAU"}

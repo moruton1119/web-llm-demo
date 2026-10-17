@@ -1,0 +1,1 @@
+{"version":3,"file":"ja-C05zmZrz.js","names":[],"sources":["../../../src/strings/messages/imageGeneration__translation_effective/ja.ts"],"sourcesContent":["export const imageGeneration__translation_effective = (): string => \"翻訳の送信先\";\n"],"mappings":"AAAA,IAAa,MAAuD"}

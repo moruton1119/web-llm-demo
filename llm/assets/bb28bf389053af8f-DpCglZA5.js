@@ -1,0 +1,2 @@
+import{n as e,t}from"./zh-Hans-DTw_mCj1.js";import{n,r,t as i}from"./zh-Hans-BYwtW2xr.js";import{t as a}from"./zh-Hans-BSUU1JJO.js";import{t as o}from"./zh-Hans-Bsi4oKGa.js";var s={Jd:({count:e})=>`${e.toLocaleString()} 字节`,Jj:r,Jv:n,Jw:i,Jx:({name:e,kind:t,size:n,path:r})=>`${e}\n类型：${t}\n大小：${n}\n路径：${r}`,JN:o,JS:a,Kf:e,Kh:t};export{s as default};
+//# sourceMappingURL=bb28bf389053af8f-DpCglZA5.js.map

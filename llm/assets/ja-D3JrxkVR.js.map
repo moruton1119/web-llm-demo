@@ -1,0 +1,1 @@
+{"version":3,"file":"ja-D3JrxkVR.js","names":[],"sources":["../../../src/strings/messages/ImageInfoDisplay__copy_prompt/ja.ts"],"sourcesContent":["export const ImageInfoDisplay__copy_prompt = (): string => 'プロンプトをコピー';\n"],"mappings":"AAAA,IAAa,MAA8C"}

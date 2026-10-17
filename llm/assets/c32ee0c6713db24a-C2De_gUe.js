@@ -1,0 +1,2 @@
+import{t as e}from"./zh-Hans-CSnF0uLM.js";import{t}from"./zh-Hans-BVZJjtsW.js";var n={qX:t,o:e,Ib:()=>`无法保存附件`,Ic:()=>`取消`,Id:()=>`仍然继续`,Ie:({chatTitle:e})=>`在“${e}”中生成失败`,If:()=>`你正在使用本地存储，其上限为 5MB。附件在本次会话期间可用，但不会保存到历史记录。请在设置中切换到 OPFS 存储以启用永久保存。`,Ig:()=>`未找到图像生成模型（以 x/z-image-turbo: 开头）。`,Ih:()=>`查看`};export{n as default};
+//# sourceMappingURL=c32ee0c6713db24a-C2De_gUe.js.map

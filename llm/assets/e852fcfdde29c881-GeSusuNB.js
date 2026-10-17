@@ -1,0 +1,2 @@
+var e={su:()=>`기준`,sv:({version:e})=>`기준 v${e} 비교 중`,sw:()=>`복사됨!`,sx:()=>`결과 복사`,sy:()=>`이 버전 복사`,sz:()=>`Diff 켜짐`,sA:()=>`Diff에서 제외`,sB:()=>`포함`,sC:()=>`Diff에 포함`,sD:()=>`더 많은 버전을 불러오는 중...`,sE:()=>`메시지 기록 및 비교`,sF:()=>`꺼짐`,sG:()=>`선택 재설정`,sH:()=>`차이를 비교할 버전을 선택하세요`,sI:()=>`건너뛰기`,sJ:()=>`대상`,sK:({version:e})=>`대상 v${e}`};export{e as default};
+//# sourceMappingURL=e852fcfdde29c881-GeSusuNB.js.map

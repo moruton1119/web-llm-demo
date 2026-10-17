@@ -1,0 +1,1 @@
+{"version":3,"file":"ko-BeEtMCLp.js","names":[],"sources":["../../../src/strings/messages/naidanRpc__no_connections/ko.ts"],"sourcesContent":["export const naidanRpc__no_connections = (): string => \"저장된 연결이 없습니다. Naidan RPC 설정 탭에서 등록하세요.\";\n"],"mappings":"AAAA,IAAa,MAA0C"}

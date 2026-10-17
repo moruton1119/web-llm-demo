@@ -1,0 +1,2 @@
+import{t as e}from"./ko-Cx_OK7_r.js";import{t}from"./ko-DFGozGuf.js";var n={Jb:()=>`바이너리 파일`,Jg:()=>`미리보기 닫기`,Jr:e,JP:()=>`파일이 너무 커서 미리 볼 수 없습니다`,JS:t,JU:()=>`형식`,J_:()=>`그래도 불러오기`,Kd:()=>`수정됨:`,KB:()=>`미리보기`,KH:()=>`파일 선택`,KM:()=>`크기:`};export{n as default};
+//# sourceMappingURL=ff9d78e98237cb2c-kBug6m-u.js.map

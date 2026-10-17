@@ -1,0 +1,2 @@
+var e={su:()=>`Base`,sv:({a:e})=>`Comparing Base v${e}`,sw:()=>`Copied!`,sx:()=>`Copy Result`,sy:()=>`Copy this version`,sz:()=>`Diff On`,sA:()=>`Exclude from diff`,sB:()=>`Include`,sC:()=>`Include in diff`,sD:()=>`Loading more versions...`,sE:()=>`Message History & Compare`,sF:()=>`Off`,sG:()=>`Reset Selection`,sH:()=>`Select versions to compare differences`,sI:()=>`Skip`,sJ:()=>`Target`,sK:({a:e})=>`Target v${e}`};export{e as default};
+//# sourceMappingURL=e852fcfdde29c881-Bvy6UxUP.js.map

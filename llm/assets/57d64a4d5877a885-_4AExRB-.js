@@ -1,0 +1,2 @@
+var e={vM:()=>`Runtime do Ollama`,vN:()=>`Visualize e remova da memória os modelos atualmente mantidos por este servidor Ollama.`};export{e as default};
+//# sourceMappingURL=57d64a4d5877a885-_4AExRB-.js.map

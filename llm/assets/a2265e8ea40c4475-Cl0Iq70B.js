@@ -1,0 +1,2 @@
+import{t as e}from"./es-DJF0oLBv.js";import{t}from"./es-zMeSurUW.js";var n={d:e,S$:()=>`Elegir carpeta`,TO:()=>`Importar modelos locales`,TP:()=>`Arrastra una carpeta de modelo aquí o selecciona una para añadirla.`,TQ:()=>`Copiando repositorio al almacenamiento local…`,UM:t};export{n as default};
+//# sourceMappingURL=a2265e8ea40c4475-Cl0Iq70B.js.map

@@ -1,0 +1,2 @@
+var e=()=>`GPU working-memory target (MiB)`,t=()=>`Execution profile`,n=()=>`Weight residency`,r=()=>`Auto (recommended)`,i=()=>`CPU-backed weights`,a=()=>`Disk-backed weights`,o=()=>`Hybrid (text/VAE in CPU, diffusion from disk)`;export{n as a,r as i,a as n,t as o,i as r,e as s,o as t};
+//# sourceMappingURL=en-CZ9WYmOT.js.map

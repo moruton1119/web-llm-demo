@@ -1,0 +1,1 @@
+{"version":3,"file":"ko-CM7ncooL.js","names":[],"sources":["../../../src/strings/messages/fileExplorer__close/ko.ts"],"sourcesContent":["export const fileExplorer__close = (): string => '닫기';\n"],"mappings":"AAAA,IAAa,MAAoC"}

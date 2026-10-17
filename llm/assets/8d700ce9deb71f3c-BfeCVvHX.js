@@ -1,0 +1,2 @@
+var e={xW:()=>`Profil löschen`,xX:()=>`Unter „Verbindung“ ein Profil erstellen`,xY:()=>`Kein Standardmodell`,xZ:()=>`Noch keine Profile gespeichert.`,x$:({profileName:e})=>`Profil „${e}“ wurde gelöscht`,x_:()=>`Anbieterprofile`,ya:()=>`Profil umbenennen`,yb:()=>`Verschiedene KI-Anbieterkonfigurationen einfach speichern und wechseln.`,yc:({modelId:e})=>`Titel: ${e}`,yd:()=>`Rückgängig`};export{e as default};
+//# sourceMappingURL=8d700ce9deb71f3c-BfeCVvHX.js.map

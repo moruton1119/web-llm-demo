@@ -1,0 +1,2 @@
+import{a as e,i as t,n,r,t as i}from"./es-CLkspIU02.js";var a={ye:e,yf:()=>`* Algunos modelos pueden ignorar los niveles de esfuerzo.`,yg:t,yh:r,yi:()=>`Med.`,yj:n,yk:i,yl:()=>`Pensar`};export{a as default};
+//# sourceMappingURL=654de6a517dbf334-B1A5J3ZW.js.map

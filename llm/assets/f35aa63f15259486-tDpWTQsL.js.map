@@ -1,0 +1,1 @@
+{"version":3,"file":"f35aa63f15259486-tDpWTQsL.js","names":[],"sources":["../../../src/strings/messages/weshTerminal__debug_terminal/de.ts"],"sourcesContent":["export const weshTerminal__debug_terminal = (): string => 'Debug-Terminal';\n"],"mappings":"yFAA0D"}

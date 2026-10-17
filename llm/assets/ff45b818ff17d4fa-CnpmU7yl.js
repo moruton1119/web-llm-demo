@@ -1,0 +1,2 @@
+import{a as e,i as t,n,r,t as i}from"./de-EsuTY_Gn.js";import{t as a}from"./de-D4Z5VZuX2.js";var o={G:e,H:()=>`Weniger`,I:t,J:()=>`Anzeigen`,K:r,L:n,M:i,b:a};export{o as default};
+//# sourceMappingURL=ff45b818ff17d4fa-CnpmU7yl.js.map

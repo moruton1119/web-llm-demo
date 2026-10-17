@@ -1,0 +1,2 @@
+var e={rU:()=>`默认`,rV:()=>`空字段使用提供商默认值`,rW:()=>`JSON 无效`,rX:()=>`LM 参数`,rY:()=>`最大 Token 数`,rZ:()=>`必须是字符串数组`,r$:()=>`存在惩罚`,r_:()=>`全部重置`,sa:()=>`重置为默认值`,sb:()=>`停止序列（JSON 数组）`,sc:()=>`温度`,sd:()=>`Top P`};export{e as default};
+//# sourceMappingURL=26ae3111cfcacff0-Cwzplp6y.js.map

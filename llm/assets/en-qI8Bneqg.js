@@ -1,0 +1,2 @@
+var e=()=>`Enable beside Generate before starting to record per-run/step wall time, transfer bytes and existing GPU waits. These waits are not GPU execution timestamps. Repeated waits can overlap; use the union, not just their sum. Saved logs are bounded and stay local; prompts and token dumps are suppressed, but review filenames and technical details before sharing.`,t=()=>`The returned pixels are uniform. This can be intentional; otherwise review the diagnostic log. No automatic rerun was performed.`;export{e as n,t};
+//# sourceMappingURL=en-qI8Bneqg.js.map

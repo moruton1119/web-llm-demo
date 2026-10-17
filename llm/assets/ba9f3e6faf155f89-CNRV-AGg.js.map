@@ -1,0 +1,1 @@
+{"version":3,"file":"ba9f3e6faf155f89-CNRV-AGg.js","names":[],"sources":["../../../src/strings/messages/weshTerminal__wesh_terminal/zh-Hans.ts"],"sourcesContent":["export const weshTerminal__wesh_terminal = (): string => 'Wesh 终端';\n"],"mappings":"mGAAyD"}

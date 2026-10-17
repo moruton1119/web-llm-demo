@@ -1,0 +1,1 @@
+{"version":3,"file":"7aa064f150829db9-CcClkIP-.js","names":[],"sources":["../../../src/strings/messages/LanguageSelector__language/ko.ts"],"sourcesContent":["export const LanguageSelector__language = (): string => '언어';\n"],"mappings":"cAAwD"}

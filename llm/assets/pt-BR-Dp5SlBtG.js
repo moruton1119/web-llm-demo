@@ -1,0 +1,2 @@
+var e=()=>`Cancelar`,t=()=>`Fechar sessão`,n=()=>`Fechar sessão?`,r=()=>`Fechar terminal`,i=()=>`Isso encerrará o worker, e o histórico da sessão será perdido. Continuar?`;export{e as a,t as i,r as n,n as r,i as t};
+//# sourceMappingURL=pt-BR-Dp5SlBtG.js.map

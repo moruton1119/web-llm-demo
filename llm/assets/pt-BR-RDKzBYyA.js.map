@@ -1,0 +1,1 @@
+{"version":3,"file":"pt-BR-RDKzBYyA.js","names":[],"sources":["../../../src/strings/messages/fileExplorer__close/pt-BR.ts"],"sourcesContent":["export const fileExplorer__close = (): string => 'Fechar';\n"],"mappings":"AAAA,IAAa,MAAoC"}

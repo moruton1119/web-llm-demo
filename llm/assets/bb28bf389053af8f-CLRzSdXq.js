@@ -1,0 +1,2 @@
+import{n as e,t}from"./ja-D-tkIkYt.js";import{n,r,t as i}from"./ja-DmwR14LX2.js";import{t as a}from"./ja-CDqajRp52.js";import{t as o}from"./ja-Bbl0Hryd.js";var s={Jd:({a:e})=>`${e.toLocaleString()}バイト`,Jj:r,Jv:n,Jw:i,Jx:({a:e,b:t,c:n,d:r})=>`${e}\n種類: ${t}\nサイズ: ${n}\nパス: ${r}`,JN:o,JS:a,Kf:e,Kh:t};export{s as default};
+//# sourceMappingURL=bb28bf389053af8f-CLRzSdXq.js.map

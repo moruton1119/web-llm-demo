@@ -1,0 +1,2 @@
+import{t as e}from"./es-DJF0oLBv.js";import{t}from"./es-B46i6JQp.js";import{t as n}from"./es-B2zsgW-m.js";var r={d:e,Pj:()=>`¿Cambiar el modelo predeterminado?`,Pn:()=>`Modelo predeterminado`,Pr:()=>`Tipo de endpoint`,Pt:()=>`Se cambiará la configuración predeterminada. No se modificará la configuración propia de chats y grupos.`,Py:()=>`Sin establecer`,PK:n,PL:()=>`La configuración cambió. Revise los nuevos valores e inténtelo de nuevo.`,Qr:t};export{r as default};
+//# sourceMappingURL=04634f167accc696-DY1WLTtp.js.map

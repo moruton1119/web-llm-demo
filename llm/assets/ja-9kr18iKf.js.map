@@ -1,0 +1,1 @@
+{"version":3,"file":"ja-9kr18iKf.js","names":[],"sources":["../../../src/strings/messages/imageGeneration__copy_prompt/ja.ts"],"sourcesContent":["export const imageGeneration__copy_prompt = (): string => \"プロンプトをコピー\";\n"],"mappings":"AAAA,IAAa,MAA6C"}

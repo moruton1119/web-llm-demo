@@ -1,0 +1,2 @@
+import{t as e}from"./es-DCHjrRsA.js";var t={JH:e,KS:({count:e})=>`Se ${e===1?`omitió`:`omitieron`} ${e.toLocaleString()} ${e===1?`elemento no compatible`:`elementos no compatibles`}.`};export{t as default};
+//# sourceMappingURL=912c42f7d6c99003-Bkxw78xU.js.map

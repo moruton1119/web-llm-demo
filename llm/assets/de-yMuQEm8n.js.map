@@ -1,0 +1,1 @@
+{"version":3,"file":"de-yMuQEm8n.js","names":[],"sources":["../../../src/strings/messages/fileExplorer__folder/de.ts"],"sourcesContent":["export const fileExplorer__folder = (): string => 'Ordner';\n"],"mappings":"AAAA,IAAa,MAAqC"}

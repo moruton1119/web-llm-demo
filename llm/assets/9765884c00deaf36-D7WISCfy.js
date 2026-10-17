@@ -1,0 +1,2 @@
+import{t as e}from"./pt-BR-CpBuxLGb.js";import{a as t,i as n,n as r,r as i,t as a}from"./pt-BR-DgmdO5Wz.js";import{t as o}from"./pt-BR-D_hBDAin.js";import{t as s}from"./pt-BR-5iXhEegs.js";var c={lN:({current:e,total:t})=>`Processando etapa ${e} / ${t}`,lO:({current:e,total:t})=>`${e} / ${t} ${t===1?`etapa concluída`:`etapas concluídas`}`,PO:e,Tl:t,Tw:n,TG:o,TZ:i,T$:r,UD:s,US:a,Vd:()=>`Parando com segurança…`};export{c as default};
+//# sourceMappingURL=9765884c00deaf36-D7WISCfy.js.map

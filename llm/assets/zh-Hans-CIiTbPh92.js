@@ -1,0 +1,2 @@
+var e=()=>`F32 保留 BF16 数值，但这些权重的内存占用会翻倍。F16 的权重内存占用不变，但可能损失精度和数值范围。已有量化保持不变。`,t=()=>`条件缓存条目数`,n=()=>`蒸馏引导强度`,r=()=>`Flash Attention（实验性）`,i=()=>`Height`,a=()=>`模型参数`,o=()=>`将 Qwen 解码瓦片限制为16×16`,s=()=>`运行环境与高级设置`,c=()=>`VAE 块大小（潜空间像素）`,l=()=>`VAE 分块解码`,u=()=>`Width`;export{o as a,r as c,e as d,s as i,n as l,l as n,a as o,c as r,i as s,u as t,t as u};
+//# sourceMappingURL=zh-Hans-CIiTbPh92.js.map

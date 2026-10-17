@@ -1,0 +1,2 @@
+import{t as e}from"./ja-CiZRiyQ8.js";import{t}from"./ja-DtdWs_A8.js";import{t as n}from"./ja-DS29AZwW2.js";import{t as r}from"./ja-DmKKja9v2.js";import{t as i}from"./ja-CDqajRp52.js";import{t as a}from"./ja-Bbl0Hryd.js";var o={d:e,IZ:()=>`追加`,Ja:()=>`アーカイブ名`,Jf:t,Jk:()=>`作成中…`,Jm:n,Jr:r,Js:()=>`ディレクトリをダウンロード`,Jy:()=>`除外する項目`,Jz:()=>`除外するファイルまたはサブディレクトリを指定できます。ディレクトリを指定すると、その配下もすべて除外されます。`,JJ:()=>`除外候補を読み込めませんでした`,JN:a,JS:i,Kk:()=>`一致する項目はありません`,Kn:()=>`任意`,KD:()=>`相対パスを入力`,KP:()=>`入力して候補を絞り込んでください`};export{o as default};
+//# sourceMappingURL=200ada436be526c3-B_x4P7Hw.js.map

@@ -1,0 +1,2 @@
+var e=()=>`The operation failed. Check the current connection and saved state before retrying.`,t=()=>`Connect to another Naidan and choose what to provide. Communication content is encrypted between the Naidan instances.`;export{e as n,t};
+//# sourceMappingURL=en-CVqEiunc.js.map

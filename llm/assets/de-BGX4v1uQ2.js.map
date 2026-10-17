@@ -1,0 +1,1 @@
+{"version":3,"file":"de-BGX4v1uQ2.js","names":[],"sources":["../../../src/strings/messages/naidanRpc__refresh/de.ts"],"sourcesContent":["export const naidanRpc__refresh = (): string => \"Gespeicherte Verbindungen neu laden\";\n"],"mappings":"AAAA,IAAa,MAAmC"}

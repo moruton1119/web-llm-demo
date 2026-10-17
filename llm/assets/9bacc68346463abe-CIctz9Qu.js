@@ -1,0 +1,2 @@
+import{t as e}from"./ja-CE7ssYJZ.js";import{t}from"./ja-CN1L4J0n.js";var n={oc:()=>`候補を検索`,od:()=>`モデルに含まれるものを使用`,tm:t,Po:e,Tf:()=>`必須`,TR:()=>`選択不可`,UX:()=>`モデルファイルを選択`,Ve:()=>`構造一致（重みの同一性は未検証）`,Vh:()=>`未検証`};export{n as default};
+//# sourceMappingURL=9bacc68346463abe-CIctz9Qu.js.map

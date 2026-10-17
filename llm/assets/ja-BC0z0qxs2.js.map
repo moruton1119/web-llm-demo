@@ -1,0 +1,1 @@
+{"version":3,"file":"ja-BC0z0qxs2.js","names":[],"sources":["../../../src/strings/messages/volumes__failed_to_copy/ja.ts"],"sourcesContent":["export const volumes__failed_to_copy = ({ errorMessage }: { errorMessage: string }): string => `コピーに失敗しました: ${errorMessage}`;\n"],"mappings":"AAAA,IAAa,GAA2B,CAAA,EAAE,KAAqD,eAAe"}

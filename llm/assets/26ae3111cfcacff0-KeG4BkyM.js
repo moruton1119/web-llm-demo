@@ -1,0 +1,2 @@
+var e={rU:()=>`기본값`,rV:()=>`빈 필드는 프로바이더 기본값을 사용합니다`,rW:()=>`잘못된 JSON`,rX:()=>`LM 매개변수`,rY:()=>`최대 토큰 수`,rZ:()=>`문자열 배열이어야 합니다`,r$:()=>`존재 페널티`,r_:()=>`모두 재설정`,sa:()=>`기본값으로 재설정`,sb:()=>`중지 시퀀스(JSON 배열)`,sc:()=>`온도`,sd:()=>`Top P`};export{e as default};
+//# sourceMappingURL=26ae3111cfcacff0-KeG4BkyM.js.map

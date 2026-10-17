@@ -1,0 +1,2 @@
+import{t as e}from"./de-CuZVKdD-2.js";var t={ym:()=>`Filtern`,yn:()=>`Letzte Chats filtern...`,yo:()=>`NAVIGIEREN`,yp:()=>`Keine Chats entsprechen dem Filter.`,yq:()=>`Keine letzten Chats.`,yr:()=>`aus`,ys:()=>`ein`,yt:()=>`Kurzansicht`,yu:()=>`VORSCHAU`,yv:()=>`AUSWÄHLEN`,o:e};export{t as default};
+//# sourceMappingURL=1f92e4b955c024a9-BDnKMMxH.js.map

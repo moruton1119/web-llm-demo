@@ -1,0 +1,2 @@
+import{t as e}from"./zh-Hans-9qNFcCIg.js";import{t}from"./zh-Hans-B2YaWG_2.js";import{n,t as r}from"./zh-Hans-DTw_mCj1.js";var i={Ji:()=>`复制`,Jl:()=>`剪切`,Jm:e,Jr:t,JV:()=>`查看信息`,Kf:n,Kh:r,Km:()=>`打开`,Kp:()=>`粘贴`,KE:()=>`重命名`,KI:()=>`全选`,KQ:()=>`解锁后启用`};export{i as default};
+//# sourceMappingURL=dfd99cc48f97773c-B-Mov3zE.js.map

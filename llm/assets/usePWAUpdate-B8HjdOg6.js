@@ -1,0 +1,2 @@
+import{_t as e,j as t,st as n,v as r}from"./vue.runtime.esm-bundler-CbicM13T.js";t(),n();var i=e({kind:`idle`}),a=e(!1),o=r(()=>a.value?`applying`:i.value.kind),s=r(()=>!a.value&&i.value.kind!==`idle`&&i.value.handler!==void 0);function c(){function e({next:e}){i.value=e}async function t(){let e=i.value;if(!(a.value||e.kind===`idle`||!e.handler)){a.value=!0;try{await e.handler()}finally{a.value=!1}}}return{status:o,canUpdate:s,update:t,setUpdateState:e}}export{c as t};
+//# sourceMappingURL=usePWAUpdate-B8HjdOg6.js.map

@@ -1,0 +1,2 @@
+var e={Cm:({a:e})=>`${e} をダウンロードしています...`,Cn:()=>`Hugging Face からモデルの重みをダウンロードしています。モデルごとに一度だけ行われます。`,Co:({a:e})=>`${e} を初期化しています...`,Cq:()=>`ローカル推論のため、モデルの重みをブラウザのメモリへ読み込んでいます。`,Cr:()=>`モデル`,Cs:()=>`デバイス上で実行`,Ct:()=>`Transformers.js エラー`};export{e as default};
+//# sourceMappingURL=32b9a214b1bdad27-Dvjbfj6m.js.map

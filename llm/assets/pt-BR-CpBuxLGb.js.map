@@ -1,0 +1,1 @@
+{"version":3,"file":"pt-BR-CpBuxLGb.js","names":[],"sources":["../../../src/strings/messages/llamaCppBrowserDownloads__waiting/pt-BR.ts"],"sourcesContent":["export const llamaCppBrowserDownloads__waiting = (): string => \"Aguardando\";\n"],"mappings":"AAAA,IAAa,MAAkD"}

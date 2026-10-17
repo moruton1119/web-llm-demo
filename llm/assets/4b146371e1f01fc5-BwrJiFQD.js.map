@@ -1,0 +1,1 @@
+{"version":3,"file":"4b146371e1f01fc5-BwrJiFQD.js","names":[],"sources":["../../../src/strings/messages/chatHistoryFlow__fork_of_chat/ko.ts"],"sourcesContent":["export const chatHistoryFlow__fork_of_chat = ({ chatTitle }: { chatTitle: string }): string => `${chatTitle}의 분기`;\n"],"mappings":"oDAA8C,CAAE,eAA+C,GAAG,EAAU"}

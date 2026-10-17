@@ -1,0 +1,2 @@
+function e(e){let t=[],n=[];try{for(let r of Reflect.ownKeys(e))Reflect.getOwnPropertyDescriptor(e,r)?.enumerable===!0&&(t.push(r),n.push(Promise.resolve(Reflect.get(e,r))))}catch(e){return n.length>0&&Promise.all(n).catch(()=>void 0),Promise.reject(e)}return t.length===0?Promise.resolve(Object.create(null)):Promise.all(n).then(e=>{let n=Object.create(null);for(let r=0;r<t.length;r++)n[t[r]]=e[r];return n})}export{e as t};
+//# sourceMappingURL=promise-BSD_Cqkf.js.map

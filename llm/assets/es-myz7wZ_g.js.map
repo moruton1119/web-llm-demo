@@ -1,0 +1,1 @@
+{"version":3,"file":"es-myz7wZ_g.js","names":[],"sources":["../../../src/strings/messages/WelcomeScreen__data_is_cleared_on_reload/es.ts"],"sourcesContent":["export const WelcomeScreen__data_is_cleared_on_reload = (): string => 'Los datos se borran al recargar.';\n"],"mappings":"AAAA,IAAa,MAAyD"}

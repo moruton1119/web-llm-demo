@@ -1,0 +1,1 @@
+{"version":3,"file":"b8dce5918f49bb39-Bmx8QClu.js","names":[],"sources":["../../../src/strings/messages/fileExplorer__go_back/ko.ts"],"sourcesContent":["export const fileExplorer__go_back = (): string => '뒤로';\n"],"mappings":"cAAmD"}

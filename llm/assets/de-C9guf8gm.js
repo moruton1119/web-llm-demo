@@ -1,0 +1,2 @@
+var e=()=>`Vollständige Modelldownloads sind während der Untersuchung deaktiviert, auch wenn externer Netzwerkzugriff erlaubt ist.`,t=()=>`Untersuchung der Modellunterstützung`;export{e as n,t};
+//# sourceMappingURL=de-C9guf8gm.js.map

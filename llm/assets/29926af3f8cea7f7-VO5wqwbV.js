@@ -1,0 +1,2 @@
+var e={Ee:()=>`Adicionar / Gerenciar modelos`,Ef:()=>`Modelos locais do navegador`,Eg:()=>`Precisa de mais modelos? Você pode baixar e gerenciar LLMs locais para executá-los diretamente no navegador.`};export{e as default};
+//# sourceMappingURL=29926af3f8cea7f7-VO5wqwbV.js.map

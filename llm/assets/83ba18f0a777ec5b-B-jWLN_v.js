@@ -1,0 +1,2 @@
+var e={pG:()=>`Auch gemeinsam genutzte Multimodal-Dateien löschen`,pH:()=>`Andere Varianten in diesem Repository verwenden diese Dateien ebenfalls und verlieren die Multimodal-Unterstützung.`,PY:()=>`Dieses lokale Modell dauerhaft aus dem Browserspeicher löschen?`,Qa:()=>`Zu löschende Dateien`};export{e as default};
+//# sourceMappingURL=83ba18f0a777ec5b-B-jWLN_v.js.map

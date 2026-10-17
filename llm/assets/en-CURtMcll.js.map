@@ -1,0 +1,1 @@
+{"version":3,"file":"en-CURtMcll.js","names":[],"sources":["../../../src/strings/messages/SHARED__new_chat/en.ts"],"sourcesContent":["import { UNTITLED_CHAT_TITLE } from '@/constants';\n\nexport const SHARED__new_chat = (): string => UNTITLED_CHAT_TITLE;\n"],"mappings":"4CAEA,IAAa,MAAiC"}

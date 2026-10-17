@@ -1,0 +1,2 @@
+var e={JI:({errorMessage:e})=>`Falha ao carregar diretório: ${e}`,JT:()=>`Esta pasta não está mais disponível. Ela pode ter sido movida, excluída ou o acesso pode ter sido revogado no navegador.`};export{e as default};
+//# sourceMappingURL=1626757ad68ec0bb-VAlIBW_L.js.map

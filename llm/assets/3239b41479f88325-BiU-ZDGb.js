@@ -1,0 +1,2 @@
+import{t as e}from"./ja-CpU-n58f.js";import{n as t,t as n}from"./ja-CNeZO2Sc.js";var r={Rz:()=>`停止を再確認`,RB:()=>`RPC接続の停止状況を確認しています…`,RL:()=>`Naidan RPCを無効にする`,RQ:()=>`Naidan RPCを有効にする`,RS:t,RT:()=>`Naidan RPCタブを表示します。有効にするだけでは接続や推論は開始しません。`,Sf:()=>`新しい呼び出しを停止しました。実行中の処理の終了を待っています。`,Sq:()=>`RPC接続を停止しました。`,Sw:()=>`停止を確認できません。接続を管理しているタブを確認してください。`,Sy:n,SA:e};export{r as default};
+//# sourceMappingURL=3239b41479f88325-BiU-ZDGb.js.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"es-BgnoqNjp.js","names":[],"sources":["../../../src/strings/messages/ImageInfoDisplay__copy_prompt/es.ts"],"sourcesContent":["export const ImageInfoDisplay__copy_prompt = (): string => 'Copiar prompt';\n"],"mappings":"AAAA,IAAa,MAA8C"}

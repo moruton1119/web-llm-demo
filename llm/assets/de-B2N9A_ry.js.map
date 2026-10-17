@@ -1,0 +1,1 @@
+{"version":3,"file":"de-B2N9A_ry.js","names":[],"sources":["../../../src/strings/messages/Sidebar__settings/de.ts"],"sourcesContent":["export const Sidebar__settings = (): string => 'Einstellungen';\n"],"mappings":"AAAA,IAAa,MAAkC"}

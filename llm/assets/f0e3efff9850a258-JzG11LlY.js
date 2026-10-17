@@ -1,0 +1,2 @@
+import{t as e}from"./ko-BTt-zErm.js";import{n as t,t as n}from"./ko-Bt_LPfGT.js";import{n as r,r as i,t as a}from"./ko-B__R0KhG.js";var o={Jh:()=>`열 보기`,Jj:i,Jv:r,Jw:a,JR:()=>`이름으로 필터링...`,JX:()=>`미리보기 숨기기`,JY:()=>`아이콘 보기`,J$:()=>`목록 보기`,Ka:()=>`잠김 — 클릭하여 잠금 해제`,Kf:t,Kg:()=>`새 파일 (잠금 해제 후 사용)`,Kh:n,Ki:()=>`새 폴더 (잠금 해제 후 사용)`,KC:()=>`새로고침`,KG:()=>`검색`,KK:()=>`미리보기 표시`,KR:()=>`잠금 해제됨 — 클릭하여 잠그기`,KT:e,KU:()=>`파일 업로드 (잠금 해제 후 사용)`};export{o as default};
+//# sourceMappingURL=f0e3efff9850a258-JzG11LlY.js.map

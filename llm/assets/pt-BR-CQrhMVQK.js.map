@@ -1,0 +1,1 @@
+{"version":3,"file":"pt-BR-CQrhMVQK.js","names":[],"sources":["../../../src/strings/messages/SHARED__confirm/pt-BR.ts"],"sourcesContent":["export const SHARED__confirm = (): string => 'Confirmar';\n"],"mappings":"AAAA,IAAa,MAAgC"}

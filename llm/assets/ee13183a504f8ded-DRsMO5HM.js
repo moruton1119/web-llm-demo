@@ -1,0 +1,2 @@
+var e={VH:()=>`Delete Binary Object?`,VI:({a:e})=>`Are you sure you want to delete "${e}"? This action cannot be undone. Any chat messages referencing this file will show it as missing.`,VJ:()=>`Delete Permanently`};export{e as default};
+//# sourceMappingURL=ee13183a504f8ded-DRsMO5HM.js.map

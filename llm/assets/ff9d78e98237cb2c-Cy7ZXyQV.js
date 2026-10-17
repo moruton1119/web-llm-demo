@@ -1,0 +1,2 @@
+import{t as e}from"./en-BIcS6nRJ.js";import{t}from"./en-Da9Egaa02.js";var n={Jb:()=>`Binary File`,Jg:()=>`Close preview`,Jr:e,JP:()=>`File is too large to preview`,JS:t,JU:()=>`Format`,J_:()=>`Load anyway`,Kd:()=>`Modified:`,KB:()=>`Preview`,KH:()=>`Select a file`,KM:()=>`Size:`};export{n as default};
+//# sourceMappingURL=ff9d78e98237cb2c-Cy7ZXyQV.js.map

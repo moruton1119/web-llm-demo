@@ -1,0 +1,1 @@
+{"version":3,"file":"zh-Hans-DeGDwHYb.js","names":[],"sources":["../../../src/strings/messages/SHARED__assistant/zh-Hans.ts"],"sourcesContent":["export const SHARED__assistant = (): string => '助手';\n"],"mappings":"AAAA,IAAa,MAAkC"}

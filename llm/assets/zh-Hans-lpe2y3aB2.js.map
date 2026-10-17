@@ -1,0 +1,1 @@
+{"version":3,"file":"zh-Hans-lpe2y3aB2.js","names":[],"sources":["../../../src/strings/messages/naidanRpc__disabled/zh-Hans.ts"],"sourcesContent":["export const naidanRpc__disabled = (): string => \"Naidan RPC 已禁用\";\n"],"mappings":"AAAA,IAAa,MAAoC"}

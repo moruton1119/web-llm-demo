@@ -1,0 +1,1 @@
+{"version":3,"file":"f6536bb035ae64d4-CM_lXapG.js","names":[],"sources":["../../../src/strings/messages/AssistantWaitingIndicator__waiting_for_response/ja.ts"],"sourcesContent":["export const AssistantWaitingIndicator__waiting_for_response = (): string => '応答を待っています…';\n"],"mappings":"aAA6E"}

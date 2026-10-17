@@ -1,0 +1,2 @@
+import{t as e}from"./en-CURtMcll.js";var t={o:e,zn:()=>`ALT BRANCH`,zo:()=>`Conversation Match`,zp:()=>`... following messages ...`,zq:({a:e})=>`${e} messages`,zr:()=>`... previous messages ...`,zs:()=>`Recent History`,zt:()=>`Select an item to preview`};export{t as default};
+//# sourceMappingURL=80049d26a3f62119-yTD33_ra.js.map

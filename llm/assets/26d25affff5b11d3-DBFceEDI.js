@@ -1,0 +1,2 @@
+var e={xP:()=>`Vista previa de la configuración`,xQ:()=>`URL del endpoint`,xR:()=>`Encabezados`,xS:()=>`Parámetros de LM`,xT:()=>`Ninguno`,xU:()=>`Proveedor y modelo`,xV:()=>`Prompt del sistema`};export{e as default};
+//# sourceMappingURL=26d25affff5b11d3-DBFceEDI.js.map

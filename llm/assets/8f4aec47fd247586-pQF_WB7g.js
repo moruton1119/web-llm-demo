@@ -1,0 +1,2 @@
+import{t as e}from"./zh-Hans-DDfsSeha.js";var t={Im:()=>`平衡`,Io:()=>`取消`,Ip:()=>`压缩`,Iq:e,Ir:()=>`立即压缩`,Is:()=>`压缩提示词`,Iv:({count:e})=>`压缩会将前 ${e} 条消息浓缩为一份摘要，从而减少 token 使用量，同时保留核心上下文。`,Ix:()=>`深度`,Iy:()=>`可编辑提示词`,IA:()=>`记忆重新配置`,IB:()=>`要保留的消息数`,IC:()=>`更多上下文`,ID:()=>`更多历史记录`,IH:({count:e})=>`${e} 条待压缩`,II:({count:e})=>`${e} 条待保留`};export{t as default};
+//# sourceMappingURL=8f4aec47fd247586-pQF_WB7g.js.map

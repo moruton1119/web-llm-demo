@@ -1,0 +1,2 @@
+import{n as e,r as t,t as n}from"./en-B7GAFJ9m.js";var r={Hm:()=>`Close (Esc)`,Hn:()=>`Copy Name`,Hp:t,Hq:e,Hr:()=>`This file type cannot be previewed directly.`,Hs:()=>`LOADING...`,Hy:()=>`Preview Unavailable`,Hz:()=>`Reset Zoom`,HC:n,HD:()=>`Zoom In`,HE:()=>`Zoom Out`};export{r as default};
+//# sourceMappingURL=4d2331cba501c69d-Cf6j_zTT.js.map

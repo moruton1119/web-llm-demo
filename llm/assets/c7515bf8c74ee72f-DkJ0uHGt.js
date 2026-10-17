@@ -1,0 +1,2 @@
+var e={Xt:()=>`Sitzung schließen`,Xx:()=>`Worker wird initialisiert…`,Xy:()=>`Neu`,Xz:()=>`Keine Sitzungen. Klicke auf „Neu“, um eine Worker-basierte Shell zu starten.`};export{e as default};
+//# sourceMappingURL=c7515bf8c74ee72f-DkJ0uHGt.js.map

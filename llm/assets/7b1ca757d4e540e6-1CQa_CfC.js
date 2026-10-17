@@ -1,0 +1,2 @@
+import{t as e}from"./ko-wjQiOeqq2.js";var t={ze:()=>`상대가 제공하는 기능`,zf:()=>`채팅 추론`,zg:()=>`제공 상태 확인 중…`,zh:()=>`연결하면 상대가 제공하는 기능을 확인할 수 있습니다`,zi:()=>`제공 상태를 확인하지 못했습니다. 새로고침하여 다시 확인하세요.`,zj:()=>`이미지 생성`,zk:()=>`제공 안 함`,zl:()=>`일부 제공`,zm:()=>`제공 중`,Sk:e};export{t as default};
+//# sourceMappingURL=7b1ca757d4e540e6-1CQa_CfC.js.map

@@ -1,0 +1,2 @@
+var e={y_:({days:e})=>`hace ${e} d`,za:({hours:e})=>`hace ${e} h`,zb:()=>`ahora mismo`,zc:({minutes:e})=>`hace ${e} min`,zd:({seconds:e})=>`hace ${e} s`};export{e as default};
+//# sourceMappingURL=4eb5ca3bbe451ba1-DrzAYW6E.js.map

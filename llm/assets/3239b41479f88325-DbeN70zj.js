@@ -1,0 +1,2 @@
+import{t as e}from"./ko-CpU-n58f.js";import{n as t,t as n}from"./ko-b178b2-O2.js";var r={Rz:()=>`중지 상태 다시 확인`,RB:()=>`RPC 연결의 중지 상태를 확인하는 중…`,RL:()=>`Naidan RPC 비활성화`,RQ:()=>`Naidan RPC 활성화`,RS:t,RT:()=>`Naidan RPC 설정 탭을 추가합니다. 활성화해도 연결하거나 추론을 시작하지 않습니다.`,Sf:()=>`새 호출을 차단했습니다. 실행 중인 작업이 끝나기를 기다리고 있습니다.`,Sq:()=>`RPC 연결이 중지되었습니다.`,Sw:()=>`중지를 확인할 수 없습니다. 연결을 관리하는 탭을 확인하세요.`,Sy:n,SA:e};export{r as default};
+//# sourceMappingURL=3239b41479f88325-DbeN70zj.js.map

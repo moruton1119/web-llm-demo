@@ -1,0 +1,2 @@
+import{t as e}from"./ja-CiZRiyQ8.js";import{t}from"./ja-BFGSwS-z.js";var n={d:e,S$:()=>`フォルダを選択`,TO:()=>`ローカルモデルを追加`,TP:()=>`モデルのフォルダをドロップするか、選択して追加します。`,TQ:()=>`ローカルストレージにコピー中…`,UM:t};export{n as default};
+//# sourceMappingURL=a2265e8ea40c4475-D3tO1V0E.js.map

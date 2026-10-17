@@ -1,0 +1,2 @@
+var e={vA:({path:e})=>`${e} durchsuchen`,vB:()=>`Lesen & Schreiben — zum Einschränken klicken`,vC:()=>`Schreibgeschützt — zum Erlauben von Schreibzugriff klicken`,vD:()=>`Entfernen`};export{e as default};
+//# sourceMappingURL=91e15a892e0f3dbd-Ca9AmG0H.js.map

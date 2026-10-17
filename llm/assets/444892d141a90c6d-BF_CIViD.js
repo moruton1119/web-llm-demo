@@ -1,0 +1,2 @@
+import{t as e}from"./es-BgnoqNjp.js";var t={nf:e,ng:()=>`Copiar semilla`,nh:()=>`Información de la imagen`,ni:()=>`Prompt`,nj:()=>`Semilla`,nk:()=>`Tamaño`,nl:()=>`Pasos`};export{t as default};
+//# sourceMappingURL=444892d141a90c6d-BF_CIViD.js.map

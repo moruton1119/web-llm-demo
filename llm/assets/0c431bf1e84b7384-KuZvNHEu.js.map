@@ -1,0 +1,1 @@
+{"version":3,"file":"0c431bf1e84b7384-KuZvNHEu.js","names":[],"sources":["../../../src/strings/messages/fileExplorer__modified/en.ts","../../../src/strings/messages/fileExplorer__type/en.ts"],"sourcesContent":["export const fileExplorer__modified = (): string => 'Modified';\n","export const fileExplorer__type = (): string => 'Type';\n"],"mappings":"qDAAoD,4BCAJ"}

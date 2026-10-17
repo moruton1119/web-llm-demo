@@ -1,0 +1,2 @@
+var e={pW:()=>`コピーできませんでした。URLを選択してコピーしてください。`,pX:()=>`URLをコピー`,pY:()=>`現在処理中のファイル`,pZ:()=>`ファイルと取得元`,p$:()=>`Naidanが取得に使うファイルのURLです。`,p_:()=>`リビジョン`,qa:()=>`URLをコピーしました。`};export{e as default};
+//# sourceMappingURL=6d340ebfc7918c90-1DcD34r4.js.map

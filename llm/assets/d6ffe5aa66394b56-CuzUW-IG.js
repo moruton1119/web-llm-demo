@@ -1,0 +1,2 @@
+var e={yS:()=>`Chat Group Name`,yT:({a:e})=>`Detected Recipes (${e})`,yU:()=>`Import predefined chat group settings (prompts, parameters, and model rules) from JSON.`,yV:()=>`Import Selected`,yW:()=>`Model Selection`,yX:()=>`Paste Recipe JSON (Concatenated JSON objects supported)`,yY:()=>`Recipes`,yZ:({a:e})=>`System Prompt (${e})`,y$:()=>`Use Default Model`};export{e as default};
+//# sourceMappingURL=d6ffe5aa66394b56-CuzUW-IG.js.map

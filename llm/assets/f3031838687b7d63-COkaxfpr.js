@@ -1,0 +1,2 @@
+import{t as e}from"./pt-BR-C7woyuWK.js";import{t}from"./pt-BR-jS5_16Cc.js";var n={Po:e,Te:()=>`A seleção automática usa estruturas de tensores. Variantes da mesma estrutura podem alterar os resultados. Projetores de edição não são usados aqui.`,Tg:()=>`Componentes do modelo`,TS:t,TT:()=>`Arquivos que precisam de atenção`,Va:()=>`Mostrar pesos locais não verificados (avançado)`};export{n as default};
+//# sourceMappingURL=f3031838687b7d63-COkaxfpr.js.map

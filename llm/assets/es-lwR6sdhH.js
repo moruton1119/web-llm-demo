@@ -1,0 +1,2 @@
+var e=()=>`Previsualizar durante la generación`,t=()=>`Lado máximo de la vista previa`,n=()=>`Método de vista previa`,r=()=>`Tamaño original de la vista previa`,i=()=>`Vista previa desde el paso`;export{e as a,t as i,r as n,n as r,i as t};
+//# sourceMappingURL=es-lwR6sdhH.js.map

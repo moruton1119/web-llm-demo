@@ -1,0 +1,1 @@
+{"version":3,"file":"064f19ec4f892664-BLi73O_3.js","names":[],"sources":["../../../src/strings/messages/weshTerminal__session/de.ts"],"sourcesContent":["export const weshTerminal__session = ({ sessionNumber }: { sessionNumber: number }): string => `Sitzung ${sessionNumber}`;\n"],"mappings":"WAAsC,CAAE,mBAAuD,WAAW"}

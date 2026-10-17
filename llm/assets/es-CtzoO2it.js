@@ -1,0 +1,2 @@
+var e=()=>`Diffusion model file`,t=()=>`Codificador de texto (modelo de lenguaje)`,n=()=>`Checkpoint file`,r=()=>`Decodificador de imágenes (VAE)`;export{e as i,n,t as r,r as t};
+//# sourceMappingURL=es-CtzoO2it.js.map

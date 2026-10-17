@@ -1,0 +1,2 @@
+import{t as e}from"./es-B2V7Lxor2.js";var t={ze:()=>`Funciones disponibles del otro dispositivo`,zf:()=>`Inferencia de chat`,zg:()=>`Consultando las funciones disponibles…`,zh:()=>`Conecta para consultar las funciones que ofrece el otro dispositivo`,zi:()=>`No se pudieron consultar las funciones. Actualiza para reintentarlo.`,zj:()=>`Generación de imágenes`,zk:()=>`No disponible`,zl:()=>`Se ofrece parcialmente`,zm:()=>`Disponible`,Sk:e};export{t as default};
+//# sourceMappingURL=7b1ca757d4e540e6-C8skSdyN.js.map

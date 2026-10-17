@@ -1,0 +1,2 @@
+var e=new Map;function t({chatId:t,create:n}){if(e.has(t))throw Error(`This chat is already connected to another Image Generation.`);let r={create:n};return e.set(t,r),()=>{e.get(t)===r&&e.delete(t)}}function n({chatId:t}){return e.get(t)?.create()??[]}export{t as n,n as t};
+//# sourceMappingURL=assistant-registry-CJnRbmrF.js.map

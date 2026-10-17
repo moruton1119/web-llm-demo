@@ -1,0 +1,2 @@
+import{t as e}from"./ko-sObJChHM.js";var t={cd:()=>`취소`,ce:({name:e})=>`"${e}" 복사 중`,cf:()=>`이미지 편집`,cg:({name:e,errorMessage:t})=>`"${e}" 복사 실패: ${t}`,ch:({errorMessage:e})=>`폴더 연결 실패: ${e}`,ci:()=>`입력창 숨기기`,cj:()=>`입력창 최대화`,ck:()=>`입력창 최소화`,cl:()=>`고급 편집기 열기`,cm:()=>`제거`,cn:()=>`폴더 제거`,co:({shortcut:e})=>`메시지 보내기 (${e})`,cp:()=>`입력창 표시`,cq:({shortcut:e})=>`생성 중지 (${e})`,cr:()=>`이 채팅에서 이 폴더 사용을 중지할까요? 폴더의 파일은 삭제되지 않습니다.`,cs:()=>`메시지를 입력하세요...`,ct:()=>`연결 해제`,cu:()=>`폴더 연결 해제`,JQ:e};export{t as default};
+//# sourceMappingURL=9895e27ec1042a14-CJtTpJlB.js.map

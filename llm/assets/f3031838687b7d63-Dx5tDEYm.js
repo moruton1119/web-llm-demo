@@ -1,0 +1,2 @@
+import{t as e}from"./de-CbV9ah7V.js";import{t}from"./de-DL1lzqF_.js";var n={Po:e,Te:()=>`Automatische Auswahl nutzt Tensorstrukturen. Gleich strukturierte Varianten können andere Ergebnisse liefern. Projektoren zur Bildbearbeitung werden hier nicht verwendet.`,Tg:()=>`Modellkomponenten`,TS:t,TT:()=>`Zu prüfende Dateien`,Va:()=>`Ungeprüfte lokale Gewichte anzeigen (erweitert)`};export{n as default};
+//# sourceMappingURL=f3031838687b7d63-Dx5tDEYm.js.map

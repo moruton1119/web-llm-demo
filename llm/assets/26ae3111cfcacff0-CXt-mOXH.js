@@ -1,0 +1,2 @@
+var e={rU:()=>`Standard`,rV:()=>`Leere Felder verwenden die Standardwerte des Anbieters`,rW:()=>`Ungültiges JSON`,rX:()=>`LM-Parameter`,rY:()=>`Maximale Tokens`,rZ:()=>`Muss ein Array von Zeichenfolgen sein`,r$:()=>`Presence Penalty`,r_:()=>`Alles zurücksetzen`,sa:()=>`Auf Standardwert zurücksetzen`,sb:()=>`Stoppsequenzen (JSON-Array)`,sc:()=>`Temperatur`,sd:()=>`Top P`};export{e as default};
+//# sourceMappingURL=26ae3111cfcacff0-CXt-mOXH.js.map

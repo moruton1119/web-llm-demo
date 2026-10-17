@@ -1,0 +1,2 @@
+var e={ar:()=>`Inhalt einklappen`,at:()=>`Referenz auf generiertes Bild`,au:()=>`Inhalt anzeigen`,av:()=>`Textinhalt ausgeblendet`};export{e as default};
+//# sourceMappingURL=25b0ae4709a560e4-BhTq9oj8.js.map

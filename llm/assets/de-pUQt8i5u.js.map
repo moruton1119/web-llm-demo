@@ -1,0 +1,1 @@
+{"version":3,"file":"de-pUQt8i5u.js","names":[],"sources":["../../../src/strings/messages/SHARED__confirm/de.ts"],"sourcesContent":["export const SHARED__confirm = (): string => 'Bestätigen';\n"],"mappings":"AAAA,IAAa,MAAgC"}

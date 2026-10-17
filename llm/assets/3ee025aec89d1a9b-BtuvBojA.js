@@ -1,0 +1,2 @@
+import{t as e}from"./ko-wlJD8QF4.js";import{t}from"./ko-XC2oGSF0.js";var n={mz:()=>`미리보기 닫기`,mA:()=>`Details and actions`,mB:e,mC:()=>`다음 이미지`,mD:()=>`이전 이미지`,mE:()=>`이미지 맞춤`,mF:()=>`확대`,mG:()=>`축소`,Tt:t};export{n as default};
+//# sourceMappingURL=3ee025aec89d1a9b-BtuvBojA.js.map

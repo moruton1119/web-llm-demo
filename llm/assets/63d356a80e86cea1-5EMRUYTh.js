@@ -1,0 +1,2 @@
+var e={VK:({chatTitle:e})=>{switch(e.type){case`titled`:return`채팅 "${e.value}" 삭제됨`;case`untitled`:return`채팅 "제목 없음" 삭제됨`;default:return e}},VL:()=>`실행 취소`};export{e as default};
+//# sourceMappingURL=63d356a80e86cea1-5EMRUYTh.js.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"pt-BR-BqFXR7yK.js","names":[],"sources":["../../../src/strings/messages/LlamaCppBrowserModelLaunch__chat_settings_changed/pt-BR.ts"],"sourcesContent":["export const LlamaCppBrowserModelLaunch__chat_settings_changed = (): string => \"Este chat usa outras configurações. O link não as substituirá.\";\n"],"mappings":"AAAA,IAAa,MAAkE"}

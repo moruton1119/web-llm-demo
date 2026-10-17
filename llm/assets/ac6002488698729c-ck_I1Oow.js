@@ -1,0 +1,2 @@
+import{t as e}from"./ko-iyYOisV7.js";var t={aB:({count:e})=>`${e}개 채팅`,aC:()=>`빈 그룹`,aD:()=>`그룹 미리보기`,aE:()=>`채팅 열기`,aF:()=>`미리볼 채팅을 선택하세요`,o:e};export{t as default};
+//# sourceMappingURL=ac6002488698729c-ck_I1Oow.js.map

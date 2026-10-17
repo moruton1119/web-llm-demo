@@ -1,0 +1,2 @@
+import{t as e}from"./zh-Hans-sZ9aav-o.js";import{t}from"./zh-Hans-DIYIzjZD.js";var n={zV:()=>`调试事件`,zW:()=>`文件资源管理器`,zX:()=>`更多操作`,zY:()=>`快速访问`,zZ:()=>`最近聊天`,z$:()=>`Wesh 终端`,Fl:e,TN:t};export{n as default};
+//# sourceMappingURL=450298b5bfe6b174-C3CVkEZm.js.map

@@ -1,0 +1,2 @@
+import{t as e}from"./pt-BR-CfSe9JB72.js";var t={ym:()=>`Filtrar`,yn:()=>`Filtrar conversas recentes...`,yo:()=>`NAVEGAR`,yp:()=>`Nenhuma conversa corresponde ao filtro.`,yq:()=>`Nenhuma conversa recente.`,yr:()=>`desativado`,ys:()=>`ativado`,yt:()=>`Visualização rápida`,yu:()=>`PRÉVIA`,yv:()=>`SELECIONAR`,o:e};export{t as default};
+//# sourceMappingURL=1f92e4b955c024a9-BhRL_Raj.js.map

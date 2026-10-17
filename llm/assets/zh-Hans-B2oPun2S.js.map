@@ -1,0 +1,1 @@
+{"version":3,"file":"zh-Hans-B2oPun2S.js","names":[],"sources":["../../../src/strings/messages/llamaCppBrowserDownloads__set_as_default/zh-Hans.ts"],"sourcesContent":["export const llamaCppBrowserDownloads__set_as_default = (): string => \"设为默认\";\n"],"mappings":"AAAA,IAAa,MAAyD"}

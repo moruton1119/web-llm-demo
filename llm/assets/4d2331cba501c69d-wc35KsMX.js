@@ -1,0 +1,2 @@
+import{n as e,r as t,t as n}from"./ko-vw3EhDwQ.js";var r={Hm:()=>`닫기 (Esc)`,Hn:()=>`이름 복사`,Hp:t,Hq:e,Hr:()=>`이 파일 형식은 직접 미리 볼 수 없습니다.`,Hs:()=>`로드 중...`,Hy:()=>`미리보기 사용 불가`,Hz:()=>`확대/축소 재설정`,HC:n,HD:()=>`확대`,HE:()=>`축소`};export{r as default};
+//# sourceMappingURL=4d2331cba501c69d-wc35KsMX.js.map

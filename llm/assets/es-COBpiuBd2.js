@@ -1,0 +1,2 @@
+var e=()=>`La operación ha fallado. Revisa la conexión actual y el estado guardado antes de reintentarlo.`,t=()=>`Conecta con otro Naidan y elige qué ofrecer. El contenido de la comunicación se cifra entre las instancias de Naidan.`;export{e as n,t};
+//# sourceMappingURL=es-COBpiuBd2.js.map

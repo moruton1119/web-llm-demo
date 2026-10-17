@@ -1,0 +1,2 @@
+var e={y_:({days:e})=>`${e}일 전`,za:({hours:e})=>`${e}시간 전`,zb:()=>`방금`,zc:({minutes:e})=>`${e}분 전`,zd:({seconds:e})=>`${e}초 전`};export{e as default};
+//# sourceMappingURL=4eb5ca3bbe451ba1-CGfttXVg.js.map

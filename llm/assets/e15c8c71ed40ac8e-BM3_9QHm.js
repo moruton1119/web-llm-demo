@@ -1,0 +1,2 @@
+import{i as e,n as t,r as n,t as r}from"./pt-BR-BU--RH8V.js";var i={Vu:e,Vv:n,Vy:t,Vz:()=>`Executando...`,VB:()=>`Saída em tempo real`,VC:()=>`Carregando resultado grande...`,VE:r};export{i as default};
+//# sourceMappingURL=e15c8c71ed40ac8e-BM3_9QHm.js.map

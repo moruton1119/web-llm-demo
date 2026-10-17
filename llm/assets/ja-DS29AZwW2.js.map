@@ -1,0 +1,1 @@
+{"version":3,"file":"ja-DS29AZwW2.js","names":[],"sources":["../../../src/strings/messages/fileExplorer__delete/ja.ts"],"sourcesContent":["export const fileExplorer__delete = (): string => '削除';\n"],"mappings":"AAAA,IAAa,MAAqC"}

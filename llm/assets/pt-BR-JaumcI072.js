@@ -1,0 +1,2 @@
+var e=()=>`Audio model`,t=()=>`Audio companion processor`,n=()=>`Backbone temperature`,r=()=>`Backbone top K`,i=()=>`Backbone top P`,a=()=>`Context tokens`,o=()=>`Text to speak`,s=()=>`Language`,c=()=>`Maximum generation steps`,l=()=>`Seed (4294967295 = random)`;export{a,n as c,o as i,t as l,c as n,i as o,s as r,r as s,l as t,e as u};
+//# sourceMappingURL=pt-BR-JaumcI072.js.map

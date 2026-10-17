@@ -1,0 +1,2 @@
+import{t as e}from"./en-C2LsnTrC.js";var t={sh:()=>`Compare Versions`,si:e,sj:()=>`Copy Link`,sk:()=>`Copy message`,sl:()=>`Copy Raw`,sm:()=>`Edit message`,sn:()=>`Failed to copy message link.`,so:()=>`Fork Chat`,sp:()=>`Message link copied to clipboard.`,sq:()=>`More actions`,sr:()=>`More Message Tools`,ss:()=>`Regenerate response`,st:()=>`Resend message`};export{t as default};
+//# sourceMappingURL=9738797f6274a02b-DRD1NDZr.js.map

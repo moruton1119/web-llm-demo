@@ -1,0 +1,2 @@
+import{i as e,n as t,r as n,t as r}from"./es-Civ6U2FW.js";var i={Vu:e,Vv:n,Vy:t,Vz:()=>`Ejecutando...`,VB:()=>`Salida en tiempo real`,VC:()=>`Cargando resultado grande...`,VE:r};export{i as default};
+//# sourceMappingURL=e15c8c71ed40ac8e-D1z6Kh7k.js.map

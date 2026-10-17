@@ -1,0 +1,2 @@
+var e={qb:()=>`Ein bekanntes Problem in der WebGPU-Implementierung von Firefox kann die Modellausführung stark verlangsamen.`,qc:()=>`Behandelt Verzögerungen bei GPU-Abschlussbenachrichtigungen durch zeitgesteuerte Abfragen.`,qd:()=>`Reproduktionsbericht zum langsamen Zurücklesen von GPU-Daten mit mapAsync().`,qe:()=>`Mozilla-Fehlerberichte (auf Englisch)`,qf:()=>`Für eine schnellere Ausführung empfehlen wir einen Chromium-basierten Browser wie Chrome, Edge oder Brave.`,qg:()=>`Technische Details`};export{e as default};
+//# sourceMappingURL=9279966d429ede46-DsrNJNmd.js.map

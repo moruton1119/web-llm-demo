@@ -1,0 +1,2 @@
+import{a as e,i as t,n,r,t as i}from"./de-CDbQG2Mh2.js";var a={ye:e,yf:()=>`* Die Aufwandsstufen werden von manchen Modellen möglicherweise ignoriert.`,yg:t,yh:r,yi:()=>`Mittel`,yj:n,yk:i,yl:()=>`Denken`};export{a as default};
+//# sourceMappingURL=654de6a517dbf334-CmC2Isr6.js.map

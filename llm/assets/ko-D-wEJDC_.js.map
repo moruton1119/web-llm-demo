@@ -1,0 +1,1 @@
+{"version":3,"file":"ko-D-wEJDC_.js","names":[],"sources":["../../../src/strings/messages/fileExplorer__name/ko.ts","../../../src/strings/messages/fileExplorer__size/ko.ts"],"sourcesContent":["export const fileExplorer__name = (): string => '이름';\n","export const fileExplorer__size = (): string => '크기';\n"],"mappings":"AAAA,IAAa,MAAmC,KCAnC,MAAmC"}

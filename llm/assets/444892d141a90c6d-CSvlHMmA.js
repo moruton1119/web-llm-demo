@@ -1,0 +1,2 @@
+import{t as e}from"./ko-BUPe1MAy.js";var t={nf:e,ng:()=>`시드 복사`,nh:()=>`이미지 정보`,ni:()=>`프롬프트`,nj:()=>`시드`,nk:()=>`크기`,nl:()=>`단계`};export{t as default};
+//# sourceMappingURL=444892d141a90c6d-CSvlHMmA.js.map

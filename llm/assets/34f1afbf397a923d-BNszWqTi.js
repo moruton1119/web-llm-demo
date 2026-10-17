@@ -1,0 +1,2 @@
+import{t as e}from"./zh-Hans-BusyrXs7.js";var t={HG:()=>`代码`,HH:e,HJ:()=>`复制源文本`,HN:()=>`无法渲染 Mermaid 图表`,HQ:()=>`预览`,HR:()=>`拆分视图`};export{t as default};
+//# sourceMappingURL=34f1afbf397a923d-BNszWqTi.js.map

@@ -1,0 +1,2 @@
+import{t as e}from"./es-CMTfE0bG.js";var t={qh:({hours:e,minutes:t})=>`Quedan unas ${e} h ${t} min`,qi:({hours:e})=>`Quedan unas ${e} h`,qj:({minutes:e})=>`Quedan unos ${e} min`,qk:({seconds:e})=>`Quedan unos ${e} segundos`,qz:e,qA:()=>`Calculando el tiempo restante…`,qI:()=>`Realizando las comprobaciones finales…`};export{t as default};
+//# sourceMappingURL=0ec5094a53e8dc76-CKuD8F2p.js.map

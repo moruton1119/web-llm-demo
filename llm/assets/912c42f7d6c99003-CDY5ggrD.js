@@ -1,0 +1,2 @@
+import{t as e}from"./pt-BR-uN319nL-.js";var t={JH:e,KS:({count:e})=>`${e.toLocaleString()} ${e===1?`item não compatível foi ignorado`:`itens não compatíveis foram ignorados`}.`};export{t as default};
+//# sourceMappingURL=912c42f7d6c99003-CDY5ggrD.js.map

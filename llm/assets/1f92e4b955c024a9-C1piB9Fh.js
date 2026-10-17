@@ -1,0 +1,2 @@
+import{t as e}from"./es-D2li-y0A.js";var t={ym:()=>`Filtrar`,yn:()=>`Filtrar chats recientes...`,yo:()=>`NAVEGAR`,yp:()=>`Ningún chat coincide con el filtro.`,yq:()=>`No hay chats recientes.`,yr:()=>`desactivado`,ys:()=>`activado`,yt:()=>`Vista rápida`,yu:()=>`VISTA PREVIA`,yv:()=>`SELECCIONAR`,o:e};export{t as default};
+//# sourceMappingURL=1f92e4b955c024a9-C1piB9Fh.js.map

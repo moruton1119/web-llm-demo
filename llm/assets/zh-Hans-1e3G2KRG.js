@@ -1,0 +1,2 @@
+var e=({count:e})=>`还有 ${e} 项`,t=()=>`过程详情`,n=({count:e})=>`${e} 个思考步骤`,r=({count:e})=>`工具执行 ${e} 次`,i=({toolNames:e})=>`已使用 ${e}`;export{e as a,t as i,r as n,n as r,i as t};
+//# sourceMappingURL=zh-Hans-1e3G2KRG.js.map

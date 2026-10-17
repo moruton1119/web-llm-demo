@@ -1,0 +1,2 @@
+var e={vA:({path:e})=>`Navegar por ${e}`,vB:()=>`Leitura e gravação — clique para restringir`,vC:()=>`Somente leitura — clique para permitir gravação`,vD:()=>`Remover`};export{e as default};
+//# sourceMappingURL=91e15a892e0f3dbd-DWw83V-U.js.map

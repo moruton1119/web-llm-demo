@@ -1,0 +1,2 @@
+var e={jr:()=>`Generando imagen...`,js:()=>`Generando imágenes...`,jt:({current:e,total:t})=>`Imagen ${e} / ${t}`,ju:()=>`pasos`};export{e as default};
+//# sourceMappingURL=4d4d0d97b0576342-B3_KvDc9.js.map

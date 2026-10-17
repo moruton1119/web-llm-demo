@@ -1,0 +1,1 @@
+{"version":3,"file":"ja-BVWs6WgX.js","names":[],"sources":["../../../src/strings/messages/blockMarkdown__copied/ja.ts"],"sourcesContent":["export const blockMarkdown__copied = (): string => 'コピーしました';\n"],"mappings":"AAAA,IAAa,MAAsC"}

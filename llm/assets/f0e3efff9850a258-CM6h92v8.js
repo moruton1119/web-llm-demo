@@ -1,0 +1,2 @@
+import{t as e}from"./zh-Hans-CrBVOtg2.js";import{n as t,t as n}from"./zh-Hans-DTw_mCj1.js";import{n as r,r as i,t as a}from"./zh-Hans-BYwtW2xr.js";var o={Jh:()=>`分栏视图`,Jj:i,Jv:r,Jw:a,JR:()=>`按名称筛选...`,JX:()=>`隐藏预览`,JY:()=>`图标视图`,J$:()=>`列表视图`,Ka:()=>`已锁定 — 点击解锁`,Kf:t,Kg:()=>`新建文件（解锁后启用）`,Kh:n,Ki:()=>`新建文件夹（解锁后启用）`,KC:()=>`刷新`,KG:()=>`搜索`,KK:()=>`显示预览`,KR:()=>`已解锁 — 点击锁定`,KT:e,KU:()=>`上传文件（解锁后启用）`};export{o as default};
+//# sourceMappingURL=f0e3efff9850a258-CM6h92v8.js.map

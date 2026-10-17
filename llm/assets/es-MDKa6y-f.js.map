@@ -1,0 +1,1 @@
+{"version":3,"file":"es-MDKa6y-f.js","names":[],"sources":["../../../src/strings/messages/fileExplorer__name/es.ts","../../../src/strings/messages/fileExplorer__size/es.ts"],"sourcesContent":["export const fileExplorer__name = (): string => 'Nombre';\n","export const fileExplorer__size = (): string => 'Tamaño';\n"],"mappings":"AAAA,IAAa,MAAmC,SCAnC,MAAmC"}

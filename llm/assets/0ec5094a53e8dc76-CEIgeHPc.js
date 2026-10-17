@@ -1,0 +1,2 @@
+import{t as e}from"./zh-Hans-DB9BrJjo.js";var t={qh:({hours:e,minutes:t})=>`大约剩余 ${e} 小时 ${t} 分钟`,qi:({hours:e})=>`大约剩余 ${e} 小时`,qj:({minutes:e})=>`大约剩余 ${e} 分钟`,qk:({seconds:e})=>`大约剩余 ${e} 秒`,qz:e,qA:()=>`正在估算剩余时间…`,qI:()=>`正在进行最终检查…`};export{t as default};
+//# sourceMappingURL=0ec5094a53e8dc76-CEIgeHPc.js.map

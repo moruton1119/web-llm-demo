@@ -1,0 +1,1 @@
+{"version":3,"file":"064f19ec4f892664-CUSS5DiG.js","names":[],"sources":["../../../src/strings/messages/weshTerminal__session/es.ts"],"sourcesContent":["export const weshTerminal__session = ({ sessionNumber }: { sessionNumber: number }): string => `Sesión ${sessionNumber}`;\n"],"mappings":"WAAsC,CAAE,mBAAuD,UAAU"}

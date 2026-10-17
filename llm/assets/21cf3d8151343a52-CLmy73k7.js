@@ -1,0 +1,2 @@
+import{t as e}from"./de-XC2oGSF0.js";var t={jn:()=>`Generiertes Bild`,jo:()=>`Das Bild wurde nicht aufbewahrt, da das Speicherlimit für Bilder dieser Messreihe erreicht wurde.`,jp:()=>`Das endgültige Bild wurde für diesen Durchlauf nicht aufbewahrt.`,jq:()=>`Für diesen Durchlauf ist kein endgültiges Bild verfügbar.`,Tt:e};export{t as default};
+//# sourceMappingURL=21cf3d8151343a52-CLmy73k7.js.map

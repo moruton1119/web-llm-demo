@@ -1,0 +1,1 @@
+{"version":3,"file":"ba9f3e6faf155f89-CStal4ng.js","names":[],"sources":["../../../src/strings/messages/weshTerminal__wesh_terminal/pt-BR.ts"],"sourcesContent":["export const weshTerminal__wesh_terminal = (): string => 'Terminal Wesh';\n"],"mappings":"iGAAyD"}

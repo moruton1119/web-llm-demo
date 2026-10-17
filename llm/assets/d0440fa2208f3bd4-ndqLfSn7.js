@@ -1,0 +1,2 @@
+import{t as e}from"./es-hC3nQ7Ng.js";var t={l:e,HL:()=>`No se pudieron incrustar los metadatos en la imagen.`,HM:()=>`No se pudo cargar la imagen`,HO:()=>`No se encontró la imagen en el almacenamiento`,HP:()=>`Datos de bloque de imagen no válidos`};export{t as default};
+//# sourceMappingURL=d0440fa2208f3bd4-ndqLfSn7.js.map

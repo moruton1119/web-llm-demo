@@ -1,0 +1,2 @@
+import{t as e}from"./zh-Hans-C66JAkPZ.js";var t={nf:e,ng:()=>`复制种子`,nh:()=>`图像信息`,ni:()=>`提示词`,nj:()=>`种子`,nk:()=>`大小`,nl:()=>`步数`};export{t as default};
+//# sourceMappingURL=444892d141a90c6d-BJ0z_aZ_.js.map

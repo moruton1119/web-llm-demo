@@ -1,0 +1,2 @@
+var e={vA:({a:e})=>`Browse ${e}`,vB:()=>`Read & write — click to restrict`,vC:()=>`Read-only — click to allow write`,vD:()=>`Remove`};export{e as default};
+//# sourceMappingURL=91e15a892e0f3dbd-CyW8gR19.js.map

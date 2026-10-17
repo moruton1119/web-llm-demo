@@ -1,0 +1,2 @@
+import{t as e}from"./ja-B1Jdwbij.js";import{t}from"./ja-DS29AZwW2.js";import{t as n}from"./ja-DfsNjj2U.js";var r={Jm:t,Jn:({a:e})=>`${e}を完全に削除しますか？この操作は元に戻せません。`,Jo:()=>`ファイルを削除`,Jp:()=>`フォルダを削除`,Jq:()=>`項目を削除`,JD:({a:e})=>`項目をコピーできませんでした: ${e}`,JE:({a:e})=>`ファイルを作成できませんでした: ${e}`,JF:({a:e})=>`フォルダを作成できませんでした: ${e}`,JG:({a:e})=>`削除できませんでした: ${e}`,JH:n,JK:({a:e})=>`項目を移動できませんでした: ${e}`,JL:({a:e})=>`名前を変更できませんでした: ${e}`,JZ:e};export{r as default};
+//# sourceMappingURL=36ab9ba76381a2a9-Bj0HxnYO.js.map

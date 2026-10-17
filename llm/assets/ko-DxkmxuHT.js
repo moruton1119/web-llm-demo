@@ -1,0 +1,2 @@
+var e=({count:e})=>`외 ${e}개`,t=()=>`처리 세부 정보`,n=({count:e})=>`사고 단계 ${e}개`,r=({count:e})=>`도구 실행 ${e}회`,i=({toolNames:e})=>`${e} 사용`;export{e as a,t as i,r as n,n as r,i as t};
+//# sourceMappingURL=ko-DxkmxuHT.js.map

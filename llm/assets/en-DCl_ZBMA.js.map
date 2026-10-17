@@ -1,0 +1,1 @@
+{"version":3,"file":"en-DCl_ZBMA.js","names":[],"sources":["../../../src/strings/messages/Sidebar__settings/en.ts"],"sourcesContent":["export const Sidebar__settings = (): string => 'Settings';\n"],"mappings":"AAAA,IAAa,MAAkC"}

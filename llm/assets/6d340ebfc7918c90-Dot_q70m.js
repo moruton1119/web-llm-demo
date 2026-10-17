@@ -1,0 +1,2 @@
+var e={pW:()=>`No se pudo copiar. Selecciona la URL para copiarla manualmente.`,pX:()=>`Copiar URL`,pY:()=>`Archivo actual`,pZ:()=>`Archivos y fuentes de descarga`,p$:()=>`Estas son las URL de archivo que solicita Naidan.`,p_:()=>`Revisión`,qa:()=>`URL copiada.`};export{e as default};
+//# sourceMappingURL=6d340ebfc7918c90-Dot_q70m.js.map

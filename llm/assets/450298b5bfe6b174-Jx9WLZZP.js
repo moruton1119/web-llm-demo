@@ -1,0 +1,2 @@
+import{t as e}from"./en-sZ9aav-o.js";import{t}from"./en-Z97_iaPI.js";var n={zV:()=>`Debug Events`,zW:()=>`File Explorer`,zX:()=>`More Actions`,zY:()=>`Quick Access`,zZ:()=>`Recent Chats`,z$:()=>`Wesh Terminal`,Fl:e,TN:t};export{n as default};
+//# sourceMappingURL=450298b5bfe6b174-Jx9WLZZP.js.map

@@ -1,0 +1,2 @@
+import{i as e,n as t,r as n,t as r}from"./pt-BR-BU--RH8V.js";var i={Vu:e,Vv:n,Vw:()=>`Desativar quebra de linha`,Vx:()=>`Ativar quebra de linha`,Vy:t,VD:()=>`JSON bruto`,VE:r};export{i as default};
+//# sourceMappingURL=ac0a3a2068bcc9ac-ZYgMmpSC.js.map

@@ -1,0 +1,2 @@
+import{t as e}from"./ja-CA_wnLjb2.js";var t={o:e,MN:()=>`新しいチャットを作成して接続`,MO:({a:e})=>`「${e}」にチャットを作成`,ND:()=>`一致するチャットやグループはありません。ここから新規作成するか、検索条件を変えてください。`,Ok:()=>`チャットやグループを検索`};export{t as default};
+//# sourceMappingURL=33f7da4c8c31dc71-BOmIJGgw.js.map

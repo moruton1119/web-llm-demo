@@ -1,0 +1,2 @@
+import{t as e}from"./ja-CiZRiyQ8.js";import{t}from"./ja-BxJxIZYX.js";import{t as n}from"./ja-QgNaNEwh2.js";var r={d:e,Pj:()=>`デフォルトモデルを変更しますか？`,Pn:()=>`デフォルトモデル`,Pr:()=>`エンドポイント種別`,Pt:()=>`デフォルト設定を変更します。個別に設定されたチャットやグループの設定は変更されません。`,Py:()=>`未設定`,PK:n,PL:()=>`確認中に設定が変更されました。表示内容を確認して、もう一度操作してください。`,Qr:t};export{r as default};
+//# sourceMappingURL=04634f167accc696-CQvgJCfN.js.map

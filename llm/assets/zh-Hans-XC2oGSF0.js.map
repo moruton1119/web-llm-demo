@@ -1,0 +1,1 @@
+{"version":3,"file":"zh-Hans-XC2oGSF0.js","names":[],"sources":["../../../src/strings/messages/stableDiffusionCppBrowser__download_png/zh-Hans.ts"],"sourcesContent":["// English fallback for this experimental workspace.\nexport const stableDiffusionCppBrowser__download_png = (): string => \"Download PNG\";\n"],"mappings":"AACA,IAAa,MAAwD"}

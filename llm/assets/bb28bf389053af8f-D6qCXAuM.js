@@ -1,0 +1,2 @@
+import{n as e,t}from"./ko-Bt_LPfGT.js";import{n,r,t as i}from"./ko-B__R0KhG.js";import{t as a}from"./ko-DFGozGuf.js";import{t as o}from"./ko-CzoHhH2h.js";var s={Jd:({count:e})=>`${e.toLocaleString()}바이트`,Jj:r,Jv:n,Jw:i,Jx:({name:e,kind:t,size:n,path:r})=>`${e}\n종류: ${t}\n크기: ${n}\n경로: ${r}`,JN:o,JS:a,Kf:e,Kh:t};export{s as default};
+//# sourceMappingURL=bb28bf389053af8f-D6qCXAuM.js.map

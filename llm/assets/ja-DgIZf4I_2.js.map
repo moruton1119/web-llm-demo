@@ -1,0 +1,1 @@
+{"version":3,"file":"ja-DgIZf4I_2.js","names":[],"sources":["../../../src/strings/messages/llamaCppBrowserDownloads__pause/ja.ts"],"sourcesContent":["export const llamaCppBrowserDownloads__pause = (): string => \"一時停止\";\n"],"mappings":"AAAA,IAAa,MAAgD"}

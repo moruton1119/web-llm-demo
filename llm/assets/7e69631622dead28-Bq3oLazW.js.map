@@ -1,0 +1,1 @@
+{"version":3,"file":"7e69631622dead28-Bq3oLazW.js","names":[],"sources":["../../../src/strings/messages/Logo__naidan_logo/es.ts"],"sourcesContent":["export const Logo__naidan_logo = (): string => 'Logotipo de Naidan';\n"],"mappings":"cAA+C"}

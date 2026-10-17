@@ -1,0 +1,1 @@
+{"version":3,"file":"ja-Ci-X3WY7.js","names":[],"sources":["../../../src/strings/messages/fileExplorer__files/ja.ts"],"sourcesContent":["export const fileExplorer__files = (): string => 'ファイル';\n"],"mappings":"AAAA,IAAa,MAAoC"}

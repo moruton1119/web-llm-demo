@@ -1,0 +1,2 @@
+import{t as e}from"./de-CbV9ah7V.js";import{t}from"./de-DeExRois.js";var n={oc:()=>`Auswahl durchsuchen`,od:()=>`Integrierte Komponente verwenden`,tm:t,Po:e,Tf:()=>`Erforderlich`,TR:()=>`Nicht auswählbar`,UX:()=>`Modelldatei auswählen`,Ve:()=>`Struktur passend; Gewichte ungeprüft`,Vh:()=>`Ungeprüft`};export{n as default};
+//# sourceMappingURL=9bacc68346463abe-pY1UMCGh.js.map

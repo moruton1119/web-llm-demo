@@ -1,0 +1,1 @@
+{"version":3,"file":"zh-Hans-C9Q1Z_bd.js","names":[],"sources":["../../../src/strings/messages/stableDiffusionCppBrowser__refresh_repositories/zh-Hans.ts"],"sourcesContent":["export const stableDiffusionCppBrowser__refresh_repositories = (): string => \"刷新本地模型\";\n"],"mappings":"AAAA,IAAa,MAAgE"}

@@ -1,0 +1,2 @@
+var e=()=>`ZIP backups include image files, but not generation history linking images to settings. Replacing data from a backup removes this history.`,t=()=>`Saving generation history is experimental. Updates to Naidan may cause saved images or generation information to be lost. Download images you want to keep.`,n=()=>`History is available when Naidan uses OPFS storage. You can still generate and download images without it.`,r=()=>`About saved history`;export{e as i,n,t as r,r as t};
+//# sourceMappingURL=en-C6llKli9.js.map

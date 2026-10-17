@@ -1,0 +1,2 @@
+var e={Cm:({modelName:e})=>`${e} wird heruntergeladen...`,Cn:()=>`Modellgewichte werden von Hugging Face heruntergeladen. Dies geschieht nur einmal pro Modell.`,Co:({modelName:e})=>`${e} wird initialisiert...`,Cq:()=>`Modellgewichte werden für lokale Inferenz in den Browserspeicher geladen.`,Cr:()=>`Modell`,Cs:()=>`Ausführung auf dem Gerät`,Ct:()=>`Transformers.js-Fehler`};export{e as default};
+//# sourceMappingURL=32b9a214b1bdad27-C8Cerees.js.map

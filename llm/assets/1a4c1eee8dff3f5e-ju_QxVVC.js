@@ -1,0 +1,2 @@
+var e={xj:()=>`El modelo proporcionado por el navegador está listo.`,xn:()=>`Comprobando la disponibilidad del modelo de lenguaje proporcionado por el navegador…`,xs:()=>`Descargando el modelo proporcionado por el navegador…`,xt:({progress:e})=>`Descargando el modelo proporcionado por el navegador: ${e}%`,xF:()=>`Preparar modelo proporcionado por el navegador`,xG:()=>`Preparando el modelo proporcionado por el navegador…`,r:()=>`Usa un modelo de lenguaje proporcionado y gestionado por el navegador.`};export{e as default};
+//# sourceMappingURL=1a4c1eee8dff3f5e-ju_QxVVC.js.map

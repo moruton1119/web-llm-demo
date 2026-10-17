@@ -1,0 +1,2 @@
+import{t as e}from"./de-DeExRois.js";var t={tk:()=>`Modelle filtern...`,tl:()=>`Erben`,tm:e,tn:()=>`Modellliste aktualisieren`,to:()=>`Modell auswählen`};export{t as default};
+//# sourceMappingURL=71acc669f7e0f143-vqDu3FDQ.js.map

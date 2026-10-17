@@ -1,0 +1,2 @@
+import{t as e}from"./de-D4Z5VZuX2.js";var t={b:e,BW:({toolNames:e,remainingCount:t})=>{let n=e.join(`, `);return t>0?`${n} und ${t} weitere verwendet`:`${n} verwendet`},VA:()=>`Tool-Ausführungen ausblenden`};export{t as default};
+//# sourceMappingURL=cfb9e9eca848515a-DUJsGojB.js.map

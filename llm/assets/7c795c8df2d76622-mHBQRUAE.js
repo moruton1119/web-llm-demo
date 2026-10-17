@@ -1,0 +1,2 @@
+var e={HU:({a:e})=>`Allow ${e}?`,HZ:()=>`Get Wikipedia page`,Ia:()=>`Search Wikipedia`,NR:()=>`Edit Image Generation prompt`};export{e as default};
+//# sourceMappingURL=7c795c8df2d76622-mHBQRUAE.js.map

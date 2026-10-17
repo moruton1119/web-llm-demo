@@ -1,0 +1,2 @@
+import{t as e}from"./ko-EPprpR84.js";import{t}from"./ko-DJdfnOJN2.js";var n={Po:e,Te:()=>`자동 선택은 텐서 구조를 사용합니다. 구조가 같은 파생 모델도 결과가 달라질 수 있습니다. 이 텍스트 이미지 생성 화면에서는 편집용 프로젝터를 사용하지 않습니다.`,Tg:()=>`모델 구성 요소`,TS:t,TT:()=>`확인이 필요한 파일`,Va:()=>`미검증 로컬 가중치도 표시 (고급)`};export{n as default};
+//# sourceMappingURL=f3031838687b7d63-31h_CJuj.js.map

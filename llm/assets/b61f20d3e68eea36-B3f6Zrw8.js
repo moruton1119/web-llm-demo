@@ -1,0 +1,2 @@
+import{t as e}from"./ja-9kr18iKf.js";import{n as t,t as n}from"./ja-BsGLAzVo.js";import{t as r}from"./ja-CxI7zJv5.js";import{t as i}from"./ja-CWLgZokX.js";import{n as a,r as o,t as s}from"./ja-0PA0Sv8V.js";import{t as c}from"./ja-Kpa82jZ8.js";import{t as l}from"./ja-BjpdbIfT.js";var u={ls:i,L_:()=>`下書きに反映しました。この画面を閉じると編集を続けられます。`,Mb:o,Mg:a,MJ:c,MK:e,ML:()=>`設定をコピー`,Ng:t,Nm:()=>`初期画像にする`,Nn:s,Nr:()=>`派生元`,Nt:r,NL:()=>`保存した生成設定`,NU:()=>`参照画像にする`,Ob:()=>`プロンプトだけ再利用`,Oc:()=>`保存した設定を再利用`,Ox:n,Um:l};export{u as default};
+//# sourceMappingURL=b61f20d3e68eea36-B3f6Zrw8.js.map

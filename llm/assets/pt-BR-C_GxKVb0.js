@@ -1,0 +1,2 @@
+var e=()=>`Ative ao lado de Gerar antes de iniciar para registrar tempos por geração/etapa, bytes transferidos e esperas existentes da GPU. Esperas não são tempos de execução da GPU e podem se sobrepor; não as some sem descontar sobreposições. Os registros são limitados e locais; textos e despejos de tokens são ocultados. Revise nomes de arquivos e detalhes técnicos antes de compartilhar.`,t=()=>`Os pixels retornados são uniformes. Se não for intencional, consulte o diagnóstico. Não houve nova geração automática.`;export{e as n,t};
+//# sourceMappingURL=pt-BR-C_GxKVb0.js.map

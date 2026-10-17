@@ -1,0 +1,2 @@
+var e={mf:()=>`Auto`,mg:()=>`Click to enter specific seed`,mh:()=>`Create image (Experimental)`,mi:()=>`Explicitly generate random seed in browser for each image`,mj:()=>`Height`,mk:()=>`Image Model`,ml:()=>`JPEG`,mm:()=>`No tools available for this provider`,mn:()=>`Number of Images`,mo:()=>`Original`,mp:()=>`PNG`,mq:()=>`Qty`,mr:()=>`Resolution`,ms:()=>`Save Format`,mt:()=>`Seed`,mu:()=>`Select image model`,mv:()=>`Steps`,mw:()=>`Swap Width and Height`,mx:()=>`WebP`,my:()=>`Width`};export{e as default};
+//# sourceMappingURL=0bc817e57b1e5df0-C0zfl3T0.js.map

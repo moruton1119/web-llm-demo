@@ -1,0 +1,2 @@
+import{t as e}from"./en-x6cpthD9.js";import{t}from"./en-BT6cE5IK.js";var n={d:e,S$:()=>`Choose folder`,TO:()=>`Import local models`,TP:()=>`Drop a model folder here, or choose one to add it.`,TQ:()=>`Copying repository to local storage…`,UM:t};export{n as default};
+//# sourceMappingURL=a2265e8ea40c4475-C9QKZ8HI.js.map

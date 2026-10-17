@@ -1,0 +1,2 @@
+var e={zu:()=>`Descarga el instalador desde el sitio web oficial.`,zv:()=>`Descarga el binario más reciente de la página de versiones de llama.cpp o compílalo desde el código fuente.`,zw:()=>`Externo`,zx:()=>`Instala con Homebrew:`,zy:()=>`Versiones`,zz:()=>`Ejecuta Gemma 3n:`,zA:()=>`Ejecuta el script de instalación:`,zB:()=>`Iniciar servidor:`};export{e as default};
+//# sourceMappingURL=d698bb7452e5db89-C50zPO1u.js.map

@@ -1,0 +1,2 @@
+var e=()=>`GPU 작업 메모리 목표(MiB)`,t=()=>`Execution profile`,n=()=>`가중치 상주 위치`,r=()=>`자동(권장)`,i=()=>`CPU 기반 가중치`,a=()=>`디스크 기반 가중치`,o=()=>`혼합(텍스트/VAE는 CPU, 확산은 디스크)`;export{n as a,r as i,a as n,t as o,i as r,e as s,o as t};
+//# sourceMappingURL=ko-DBT7M_c3.js.map

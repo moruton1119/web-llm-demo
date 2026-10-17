@@ -1,0 +1,2 @@
+var e={xP:()=>`Prévia da configuração`,xQ:()=>`URL do endpoint`,xR:()=>`Cabeçalhos`,xS:()=>`Parâmetros do LM`,xT:()=>`Nenhum`,xU:()=>`Provedor e modelo`,xV:()=>`Prompt de sistema`};export{e as default};
+//# sourceMappingURL=26d25affff5b11d3-Dsz3bv5f.js.map

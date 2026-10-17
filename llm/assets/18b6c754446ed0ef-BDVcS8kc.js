@@ -1,0 +1,2 @@
+import{t as e}from"./en-DGNbGkLc.js";var t={MD:()=>`Include identical settings`,ME:()=>`Select two images from the gallery. Their saved settings, not the current draft, are compared.`,MF:()=>`Compare saved settings only. Identical settings do not guarantee identical pixels across runtime versions, devices or changed model files.`,Nt:e};export{t as default};
+//# sourceMappingURL=18b6c754446ed0ef-BDVcS8kc.js.map

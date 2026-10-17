@@ -1,0 +1,2 @@
+var e=()=>`Cancel`,t=()=>`Close Session`,n=()=>`Close Session?`,r=()=>`Close terminal`,i=()=>`This will dispose the worker and lose the session history. Continue?`;export{e as a,t as i,r as n,n as r,i as t};
+//# sourceMappingURL=en-Bsiae1XE.js.map

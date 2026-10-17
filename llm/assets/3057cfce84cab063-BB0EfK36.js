@@ -1,0 +1,2 @@
+import{n as e,t}from"./ja-CJZL9-aY2.js";var n={I$:({a:e})=>`追加 ${e.toLocaleString()}件`,Jc:({a:e})=>`配置不可 ${e.toLocaleString()}件`,Je:()=>`配置不可`,JA:()=>`既存`,Kb:({a:e})=>`マージ ${e.toLocaleString()}件`,Ke:e,Kl:()=>`まだ変更されていません`,Ko:({a:e})=>`上書き ${e.toLocaleString()}件`,Kx:()=>`配置後のプレビュー`,Ky:()=>`追加予定`,Kz:()=>`マージ予定`,KA:()=>`上書き予定`,KL:t,KN:()=>`状態`};export{n as default};
+//# sourceMappingURL=3057cfce84cab063-BB0EfK36.js.map

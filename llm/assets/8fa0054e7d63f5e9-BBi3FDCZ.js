@@ -1,0 +1,2 @@
+import{t as e}from"./ko-Cb00sNxV.js";import{t}from"./ko-DUIROxqW.js";var n={q$:()=>`보조 파일을 선택해야 합니다. 설정에서 파일을 확인하세요.`,re:()=>`모델 링크를 열지 못했습니다. 저장소와 변형을 확인한 후 다시 시도하세요.`,rh:()=>`채팅을 여는 중…`,rn:t,rs:()=>`요청한 변형이 없거나 명확하지 않습니다. 다른 모델을 선택하지 않았습니다.`,Pl:e};export{n as default};
+//# sourceMappingURL=8fa0054e7d63f5e9-BBi3FDCZ.js.map

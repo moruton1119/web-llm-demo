@@ -1,0 +1,2 @@
+import{n as e,t}from"./de-C9guf8gm.js";var n={hi:()=>`Langen Beispielchat erstellen`,hj:()=>`Beispielchat erstellen`,hl:()=>`Debugging & Tests`,hn:()=>`Entwicklertools`,hp:()=>`Experimentelle Funktionen`,hq:()=>`Einfaches Neuladen des Fensters durchführen`,hr:()=>`Anwendung neu laden`,hw:()=>`Fügt Beispielunterhaltungen für Rendering-Prüfungen und Navigationstests in langen Threads hinzu.`,hx:()=>`PWA-Update simulieren`,hy:()=>`Update-Benachrichtigung zum Testen umschalten`,tU:e,uj:t};export{n as default};
+//# sourceMappingURL=308eb922f4ef543a-kAluj7nt.js.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"ko-BoaVpSW3.js","names":[],"sources":["../../../src/strings/messages/naidanRpc__disabled/ko.ts"],"sourcesContent":["export const naidanRpc__disabled = (): string => \"Naidan RPC가 비활성화되어 있습니다\";\n"],"mappings":"AAAA,IAAa,MAAoC"}

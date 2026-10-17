@@ -1,0 +1,2 @@
+var e={tg:()=>`Ocultar processo de raciocínio`,th:()=>`Mostrar processo de raciocínio`,ti:()=>`Pensando...`,tj:()=>`Processo de raciocínio`};export{e as default};
+//# sourceMappingURL=f9d36b200291d0dc-BSZma98h.js.map

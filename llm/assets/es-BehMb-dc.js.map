@@ -1,0 +1,1 @@
+{"version":3,"file":"es-BehMb-dc.js","names":[],"sources":["../../../src/strings/messages/blockMarkdown__copied/es.ts"],"sourcesContent":["export const blockMarkdown__copied = (): string => 'Copiado';\n"],"mappings":"AAAA,IAAa,MAAsC"}

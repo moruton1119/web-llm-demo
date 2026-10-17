@@ -1,0 +1,2 @@
+import{t as e}from"./zh-Hans-C_mi5PX3.js";var t={oe:()=>`丢弃未保存的数据`,of:()=>`丢弃此未保存的图像？已保存的图像不会被删除。`,og:()=>`下载图像`,oh:()=>`重新保存原始图像，无需再次生成。关闭此浏览器标签页后，未保存的图像将丢失。`,oi:()=>`未保存的图像`,Oi:e};export{t as default};
+//# sourceMappingURL=ceb412247c126fae-C98D2i0R.js.map

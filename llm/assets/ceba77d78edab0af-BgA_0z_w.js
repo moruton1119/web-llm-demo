@@ -1,0 +1,2 @@
+import{t as e}from"./ko-DG0Baw5s.js";import{t}from"./ko-DOPrcHdl.js";import{t as n}from"./ko-DiJ4F8qe.js";import{t as r}from"./ko-CABj94tY.js";var i={d:e,PU:()=>`GGUF 파일 선택`,PV:()=>`모델 폴더 선택`,PZ:()=>`모델 폴더 또는 GGUF 파일을 여기에 놓으세요`,Qc:r,Qd:n,Qr:t,Qs:()=>`또는 기기에 다운로드한 파일을 선택하세요. 파일은 이 브라우저에 로컬로 저장됩니다.`};export{i as default};
+//# sourceMappingURL=ceba77d78edab0af-BgA_0z_w.js.map

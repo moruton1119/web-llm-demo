@@ -1,0 +1,1 @@
+import{n as e,t}from"./pt-BR-Dw0dB_Zq2.js";var n={Ub:e,Uc:t};export{n as default};

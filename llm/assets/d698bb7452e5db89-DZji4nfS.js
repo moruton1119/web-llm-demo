@@ -1,0 +1,2 @@
+var e={zu:()=>`Lade das Installationsprogramm von der offiziellen Website herunter.`,zv:()=>`Lade die neueste Binärdatei von der llama.cpp-Releases-Seite herunter oder erstelle sie aus dem Quellcode.`,zw:()=>`Extern`,zx:()=>`Mit Homebrew installieren:`,zy:()=>`Releases`,zz:()=>`Gemma 3n ausführen:`,zA:()=>`Installationsskript ausführen:`,zB:()=>`Server starten:`};export{e as default};
+//# sourceMappingURL=d698bb7452e5db89-DZji4nfS.js.map

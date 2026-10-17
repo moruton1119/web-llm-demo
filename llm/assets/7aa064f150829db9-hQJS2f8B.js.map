@@ -1,0 +1,1 @@
+{"version":3,"file":"7aa064f150829db9-hQJS2f8B.js","names":[],"sources":["../../../src/strings/messages/LanguageSelector__language/zh-Hans.ts"],"sourcesContent":["export const LanguageSelector__language = (): string => '语言';\n"],"mappings":"cAAwD"}

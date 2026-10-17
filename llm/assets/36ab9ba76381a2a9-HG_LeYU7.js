@@ -1,0 +1,2 @@
+import{t as e}from"./ko-BlcBaCrA.js";import{t}from"./ko-Dnob2ovw.js";import{t as n}from"./ko-BcAbQK6W.js";var r={Jm:t,Jn:({label:e})=>`"${e}" 항목을 영구적으로 삭제하시겠어요? 이 작업은 되돌릴 수 없습니다.`,Jo:()=>`파일 삭제`,Jp:()=>`폴더 삭제`,Jq:()=>`항목 삭제`,JD:({errorMessage:e})=>`항목을 복사하지 못했습니다: ${e}`,JE:({errorMessage:e})=>`파일을 만들지 못했습니다: ${e}`,JF:({errorMessage:e})=>`폴더를 만들지 못했습니다: ${e}`,JG:({errorMessage:e})=>`삭제하지 못했습니다: ${e}`,JH:n,JK:({errorMessage:e})=>`항목을 이동하지 못했습니다: ${e}`,JL:({errorMessage:e})=>`이름을 변경하지 못했습니다: ${e}`,JZ:e};export{r as default};
+//# sourceMappingURL=36ab9ba76381a2a9-HG_LeYU7.js.map

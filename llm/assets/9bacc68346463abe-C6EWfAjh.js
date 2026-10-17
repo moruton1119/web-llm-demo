@@ -1,0 +1,2 @@
+import{t as e}from"./pt-BR-C7woyuWK.js";import{t}from"./pt-BR-B3c8Zbz_.js";var n={oc:()=>`Pesquisar opções`,od:()=>`Usar componente integrado`,tm:t,Po:e,Tf:()=>`Obrigatório`,TR:()=>`Não selecionável`,UX:()=>`Selecionar arquivo de modelo`,Ve:()=>`Estrutura compatível; pesos não verificados`,Vh:()=>`Não verificado`};export{n as default};
+//# sourceMappingURL=9bacc68346463abe-C6EWfAjh.js.map

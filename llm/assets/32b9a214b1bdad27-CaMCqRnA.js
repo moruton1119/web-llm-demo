@@ -1,0 +1,2 @@
+var e={Cm:({modelName:e})=>`正在下载 ${e}...`,Cn:()=>`正在从 Hugging Face 下载模型权重。每个模型只需执行一次。`,Co:({modelName:e})=>`正在初始化 ${e}...`,Cq:()=>`正在将模型权重加载到浏览器内存中以进行本地推理。`,Cr:()=>`模型`,Cs:()=>`设备端执行`,Ct:()=>`Transformers.js 错误`};export{e as default};
+//# sourceMappingURL=32b9a214b1bdad27-CaMCqRnA.js.map

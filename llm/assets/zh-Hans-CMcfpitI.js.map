@@ -1,0 +1,1 @@
+{"version":3,"file":"zh-Hans-CMcfpitI.js","names":[],"sources":["../../../src/strings/messages/stableDiffusionCppBrowser__generation_time/zh-Hans.ts"],"sourcesContent":["export const stableDiffusionCppBrowser__generation_time = (): string => \"耗时\";\n"],"mappings":"AAAA,IAAa,MAA2D"}

@@ -1,0 +1,2 @@
+import{t as e}from"./de-nRCWGxtk.js";var t={JH:e,KS:({count:e})=>`${e.toLocaleString()} ${e===1?`nicht unterstütztes Element wurde`:`nicht unterstützte Elemente wurden`} übersprungen.`};export{t as default};
+//# sourceMappingURL=912c42f7d6c99003-uHPUeAF3.js.map

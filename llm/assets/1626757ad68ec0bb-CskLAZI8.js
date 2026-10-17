@@ -1,0 +1,2 @@
+var e={JI:({errorMessage:e})=>`디렉터리를 불러오지 못했습니다: ${e}`,JT:()=>`이 폴더는 더 이상 사용할 수 없습니다. 이동 또는 삭제되었거나 브라우저에서 접근 권한이 취소되었을 수 있습니다.`};export{e as default};
+//# sourceMappingURL=1626757ad68ec0bb-CskLAZI8.js.map

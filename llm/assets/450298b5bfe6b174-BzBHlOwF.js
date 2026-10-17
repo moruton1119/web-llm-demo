@@ -1,0 +1,2 @@
+import{t as e}from"./es-sZ9aav-o.js";import{t}from"./es-BCkGZlKu.js";var n={zV:()=>`Eventos de depuración`,zW:()=>`Explorador de archivos`,zX:()=>`Más acciones`,zY:()=>`Acceso rápido`,zZ:()=>`Chats recientes`,z$:()=>`Terminal de Wesh`,Fl:e,TN:t};export{n as default};
+//# sourceMappingURL=450298b5bfe6b174-BzBHlOwF.js.map

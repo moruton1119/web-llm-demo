@@ -1,0 +1,2 @@
+import{n as e,t}from"./en-b9SrB6mx.js";var n={hi:()=>`Create Long Sample Chat`,hj:()=>`Create Sample Chat`,hl:()=>`Debug & Testing`,hn:()=>`Developer Tools`,hp:()=>`Experimental Features`,hq:()=>`Perform a simple window reload`,hr:()=>`Reload Application`,hw:()=>`Adds sample conversations for rendering checks and long-thread navigation testing.`,hx:()=>`Simulate PWA Update`,hy:()=>`Toggle update notification for testing`,tU:e,uj:t};export{n as default};
+//# sourceMappingURL=308eb922f4ef543a-o33KBWuL.js.map

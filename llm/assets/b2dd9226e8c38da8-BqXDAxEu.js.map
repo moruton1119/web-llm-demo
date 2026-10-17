@@ -1,0 +1,1 @@
+{"version":3,"file":"b2dd9226e8c38da8-BqXDAxEu.js","names":[],"sources":["../../../src/strings/messages/CustomDialog__dialog/ja.ts"],"sourcesContent":["export const CustomDialog__dialog = (): string => 'ダイアログ';\n"],"mappings":"mFAAkD"}

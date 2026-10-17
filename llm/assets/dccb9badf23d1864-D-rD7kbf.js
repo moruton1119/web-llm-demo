@@ -1,0 +1,2 @@
+var e={VR:()=>`URL에서 데이터를 성공적으로 가져왔습니다.`,VS:()=>`설정용 모델을 가져오지 못했습니다`,VT:()=>`URL에서 데이터를 가져오지 못했습니다.`,VU:()=>`localStorage에서 잘못된 저장소 유형을 찾았습니다. 기본 감지로 돌아갑니다.`,VV:()=>`확인`,VW:({savedStorageType:e,requestedStorageType:t})=>`현재 저장소 유형: "${e}". 쿼리 매개변수에서 요청한 저장소 유형은 적용되지 않았습니다: "${t}".`,VX:()=>`저장소가 이미 초기화됨`,VY:({savedStorageType:e,requestedStorageType:t})=>`현재 저장소 유형: "${e}". 쿼리 매개변수에서 요청한 유형은 적용되지 않았습니다: "${t}".`};export{e as default};
+//# sourceMappingURL=dccb9badf23d1864-D-rD7kbf.js.map

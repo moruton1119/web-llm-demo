@@ -1,0 +1,2 @@
+var e={xj:()=>`Das vom Browser bereitgestellte Modell ist bereit.`,xn:()=>`Verfügbarkeit des vom Browser bereitgestellten Sprachmodells wird geprüft…`,xs:()=>`Vom Browser bereitgestelltes Modell wird heruntergeladen…`,xt:({progress:e})=>`Vom Browser bereitgestelltes Modell wird heruntergeladen: ${e}%`,xF:()=>`Vom Browser bereitgestelltes Modell vorbereiten`,xG:()=>`Vom Browser bereitgestelltes Modell wird vorbereitet…`,r:()=>`Verwendet ein vom Browser bereitgestelltes und verwaltetes Sprachmodell.`};export{e as default};
+//# sourceMappingURL=1a4c1eee8dff3f5e-DhQXyE2y.js.map

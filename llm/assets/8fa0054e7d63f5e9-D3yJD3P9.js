@@ -1,0 +1,2 @@
+import{t as e}from"./de-D545WMpi.js";import{t}from"./de-DHh2QYdB2.js";var n={q$:()=>`Eine Begleitdatei muss ausgewählt werden. Dateien in den Einstellungen prüfen.`,re:()=>`Dieser Modelllink konnte nicht geöffnet werden. Repository und Variante prüfen und erneut versuchen.`,rh:()=>`Chat wird geöffnet…`,rn:t,rs:()=>`Die gewünschte Variante fehlt oder ist nicht eindeutig. Es wurde keine Alternative gewählt.`,Pl:e};export{n as default};
+//# sourceMappingURL=8fa0054e7d63f5e9-D3yJD3P9.js.map

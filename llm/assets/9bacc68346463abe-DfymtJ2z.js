@@ -1,0 +1,2 @@
+import{t as e}from"./en-CbV9ah7V.js";import{t}from"./en--FxFLY9Z.js";var n={oc:()=>`Search choices`,od:()=>`Use built-in component`,tm:t,Po:e,Tf:()=>`Required`,TR:()=>`Not selectable`,UX:()=>`Select a model file`,Ve:()=>`Structure matches; weights not verified`,Vh:()=>`Unverified`};export{n as default};
+//# sourceMappingURL=9bacc68346463abe-DfymtJ2z.js.map

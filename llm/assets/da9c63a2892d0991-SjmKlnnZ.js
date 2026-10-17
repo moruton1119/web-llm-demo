@@ -1,0 +1,2 @@
+var e={gw:()=>`Depuración`,gx:()=>`Herramientas de depuración`,gy:()=>`Verificación independiente del protocolo de archivo`,gz:()=>`Abre una página de diagnóstico aislada sin añadir comportamiento exclusivo de depuración al flujo normal de la aplicación.`,gA:()=>`Verifica los scripts generados, el enrutamiento, los estilos diferidos, la recuperación de SystemJS y la fábrica reutilizable de Workers.`};export{e as default};
+//# sourceMappingURL=da9c63a2892d0991-SjmKlnnZ.js.map

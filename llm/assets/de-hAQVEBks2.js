@@ -1,0 +1,2 @@
+var e=()=>`Der Vorgang ist fehlgeschlagen. Prüfe vor einem erneuten Versuch die aktuelle Verbindung und den gespeicherten Zustand.`,t=()=>`Verbinde dich mit einem anderen Naidan und wähle, was du bereitstellen möchtest. Die Kommunikationsinhalte werden zwischen den Naidan-Instanzen verschlüsselt.`;export{e as n,t};
+//# sourceMappingURL=de-hAQVEBks2.js.map

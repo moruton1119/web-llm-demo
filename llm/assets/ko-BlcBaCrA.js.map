@@ -1,0 +1,1 @@
+{"version":3,"file":"ko-BlcBaCrA.js","names":[],"sources":["../../../src/strings/messages/fileExplorer__item_count_label/ko.ts"],"sourcesContent":["export const fileExplorer__item_count_label = ({ count }: { count: number }): string => `${count}개 항목`;\n"],"mappings":"AAAA,IAAa,GAAkC,CAAE,WAAuC,GAAG,EAAM"}

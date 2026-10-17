@@ -1,0 +1,1 @@
+{"version":3,"file":"de-Dmbld-V_.js","names":[],"sources":["../../../src/strings/messages/stableDiffusionCppBrowser__image_generation_lab/de.ts"],"sourcesContent":["export const stableDiffusionCppBrowser__image_generation_lab = (): string => 'Bildgenerierung';\n"],"mappings":"AAAA,IAAa,MAAgE"}

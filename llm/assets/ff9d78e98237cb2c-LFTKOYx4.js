@@ -1,0 +1,2 @@
+import{t as e}from"./pt-BR-DhbLUokk2.js";import{t}from"./pt-BR-BZY7FC1J2.js";var n={Jb:()=>`Arquivo binário`,Jg:()=>`Fechar visualização`,Jr:e,JP:()=>`O arquivo é grande demais para visualizar`,JS:t,JU:()=>`Formato`,J_:()=>`Carregar mesmo assim`,Kd:()=>`Modificado:`,KB:()=>`Visualização`,KH:()=>`Selecione um arquivo`,KM:()=>`Tamanho:`};export{n as default};
+//# sourceMappingURL=ff9d78e98237cb2c-LFTKOYx4.js.map

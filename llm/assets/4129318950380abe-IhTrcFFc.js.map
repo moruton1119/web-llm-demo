@@ -1,0 +1,1 @@
+{"version":3,"file":"4129318950380abe-IhTrcFFc.js","names":[],"sources":["../../../src/strings/messages/blockMarkdown__unknown_token_type/zh-Hans.ts"],"sourcesContent":["export const blockMarkdown__unknown_token_type = ({ tokenType }: { tokenType: string }): string => `未知 token 类型：${tokenType}`;\n"],"mappings":"WAAkD,CAAE,eAA+C,eAAe"}

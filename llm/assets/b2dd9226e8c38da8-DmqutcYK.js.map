@@ -1,0 +1,1 @@
+{"version":3,"file":"b2dd9226e8c38da8-DmqutcYK.js","names":[],"sources":["../../../src/strings/messages/CustomDialog__dialog/es.ts"],"sourcesContent":["export const CustomDialog__dialog = (): string => 'Cuadro de diálogo';\n"],"mappings":"mFAAkD"}

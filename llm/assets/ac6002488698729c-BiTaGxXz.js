@@ -1,0 +1,2 @@
+import{t as e}from"./ja-CA_wnLjb2.js";var t={aB:({a:e})=>`${e}件のチャット`,aC:()=>`空のグループ`,aD:()=>`グループプレビュー`,aE:()=>`チャットを開く`,aF:()=>`プレビューするチャットを選択してください`,o:e};export{t as default};
+//# sourceMappingURL=ac6002488698729c-BiTaGxXz.js.map

@@ -1,0 +1,2 @@
+var e=()=>`Objetivo de memoria de trabajo de GPU (MiB)`,t=()=>`Execution profile`,n=()=>`Residencia de pesos`,r=()=>`Automático (recomendado)`,i=()=>`Pesos respaldados por CPU`,a=()=>`Pesos desde disco`,o=()=>`Híbrido (texto/VAE en CPU, difusión desde disco)`;export{n as a,r as i,a as n,t as o,i as r,e as s,o as t};
+//# sourceMappingURL=es-DWlXFcFx.js.map

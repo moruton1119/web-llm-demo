@@ -1,0 +1,2 @@
+import{t as e}from"./zh-Hans-CJs3A3Im.js";var t={ze:()=>`对方提供的功能`,zf:()=>`聊天推理`,zg:()=>`正在确认提供情况…`,zh:()=>`连接后可查看对方提供的功能`,zi:()=>`无法确认提供情况，请刷新后重试。`,zj:()=>`图像生成`,zk:()=>`未提供`,zl:()=>`部分提供`,zm:()=>`已提供`,Sk:e};export{t as default};
+//# sourceMappingURL=7b1ca757d4e540e6-BxqTVM5S.js.map

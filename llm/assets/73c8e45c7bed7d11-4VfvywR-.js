@@ -1,0 +1,2 @@
+import{t as e}from"./es-hC3nQ7Ng.js";var t={l:e,VN:()=>`No se pudo generar la imagen.`,VO:({format:e})=>`No se pudo volver a codificar la imagen a ${e}; se usará la original`,VP:()=>`No se encontró ningún modelo de generación de imágenes adecuado (empezando por x/z-image-turbo:)`};export{t as default};
+//# sourceMappingURL=73c8e45c7bed7d11-4VfvywR-.js.map

@@ -1,0 +1,2 @@
+import{n as e,r as t,t as n}from"./pt-BR-EouO44QL.js";import{t as r}from"./pt-BR-C7woyuWK.js";import{t as i}from"./pt-BR-B0Eh-vFY.js";import{n as a,t as o}from"./pt-BR-ByZ8szaP.js";import{t as s}from"./pt-BR-D5uQ5KdS.js";import{t as c}from"./pt-BR-C5yNrAjy.js";import{t as l}from"./pt-BR-CEZdwyEW.js";var u={qw:i,qE:a,qJ:o,Pi:t,Pk:()=>`Conferir arquivos`,Pl:s,Po:r,Pp:e,Pq:()=>`Conteúdo do download`,PC:c,PE:()=>`Atualizar arquivos`,PF:()=>`Required companion included`,PM:()=>`Total`,PN:n,Qr:l};export{u as default};
+//# sourceMappingURL=53932e77f1eab2af-DpgIUYHE.js.map

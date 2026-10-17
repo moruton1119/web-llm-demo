@@ -1,0 +1,2 @@
+import{t as e}from"./de-CwCKhmQB.js";import{a as t,i as n,n as r,r as i,t as a}from"./de-CdfoHHqX.js";import{t as o}from"./de-Ck6P8sWI.js";import{t as s}from"./de-BK4O24hm.js";var c={lN:({current:e,total:t})=>`Schritt ${e} / ${t} wird verarbeitet`,lO:({current:e,total:t})=>`${e} / ${t} ${t===1?`Schritt`:`Schritte`} abgeschlossen`,PO:e,Tl:t,Tw:n,TG:o,TZ:i,T$:r,UD:s,US:a,Vd:()=>`Wird sicher angehalten…`};export{c as default};
+//# sourceMappingURL=9765884c00deaf36-BNK_Y-Qi.js.map

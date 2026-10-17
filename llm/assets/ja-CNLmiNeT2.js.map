@@ -1,0 +1,1 @@
+{"version":3,"file":"ja-CNLmiNeT2.js","names":[],"sources":["../../../src/strings/messages/imageGeneration__archive/ja.ts","../../../src/strings/messages/imageGeneration__restore/ja.ts"],"sourcesContent":["export const imageGeneration__archive = (): string => \"アーカイブ\";\n","export const imageGeneration__restore = (): string => \"復元\";\n"],"mappings":"AAAA,IAAa,MAAyC,QCAzC,MAAyC"}

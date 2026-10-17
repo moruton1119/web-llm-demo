@@ -1,0 +1,2 @@
+var e={gB:()=>`应用状态已同步`,gC:()=>`清除日志`,gD:()=>`关闭面板`,gE:()=>`开发工具`,gF:({count:e})=>`${e} 个错误`,gG:()=>`浏览 OPFS`,gH:()=>`用户触发了有意的测试错误`,gI:()=>`未记录任何事件`,gJ:()=>`系统事件`,gK:()=>`用于验证错误事件系统的 UI。`,gL:({count:e})=>`总计：${e}`,gM:()=>`触发测试错误`,gN:()=>`触发测试信息`,rQ:()=>`llama.cpp browser`};export{e as default};
+//# sourceMappingURL=84457f778bd2eba4-BhkWCPGu.js.map
