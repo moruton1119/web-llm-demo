@@ -8,6 +8,7 @@ GitHub Pages: https://moruton1119.github.io/web-llm-demo/
 
 - `/` — `/llm/`(アプリ本体)へのリダイレクト
 - `/llm/` — [naidan](https://github.com/nwtgck/naidan) v0.55.0 公式hosted配布物ベース(+PC専用ガード注入)。llama.cpp をWebGPU/WASMでブラウザ内実行
+- 画像生成機能は削除済み(2026-10-18): UI非表示+ルートブロック+SDランタイム(45MB)同梱除外。復元は `backup/with-image-generation` ブランチ
 - `mobile-block.html` — スマホからのアクセスに対する「PC専用」案内ページ(UA判定→リダイレクト)
 
 ## プライバシー設計
