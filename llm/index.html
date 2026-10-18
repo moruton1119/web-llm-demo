@@ -2,6 +2,33 @@
 <html lang="en">
   <head>
 <script>
+  /* MoruLabo Web AI Lab: image-generation disabled (2026-10-18) */
+  (function () {
+    function guardHash() {
+      var h = location.hash || '';
+      if (h.indexOf('/image-generation') !== -1) {
+        location.replace(location.pathname + '#/');
+        return true;
+      }
+      return false;
+    }
+    guardHash();
+    window.addEventListener('hashchange', guardHash);
+    var style = document.createElement('style');
+    style.id = 'morulab-hide-image-generation';
+    style.textContent = 'a[href*="/image-generation"]{display:none!important}';
+    document.head.appendChild(style);
+    var observer = new MutationObserver(function () {
+      document.querySelectorAll('a[href*="/image-generation"]').forEach(function (a) {
+        a.style.display = 'none';
+      });
+    });
+    function startObserver() {
+      if (!document.body) return;
+      observer.observe(document.body, { childList: true, subtree: true });
+    }
+    if (document.body) startObserver(); else document.addEventListener('DOMContentLoaded', startObserver);
+  })();
   /* MoruLabo Web AI Lab: PC-only guard */
   if (/Android|iPhone|iPad|iPod|Mobile|Silk/i.test(navigator.userAgent)) {
     location.replace('../mobile-block.html');
